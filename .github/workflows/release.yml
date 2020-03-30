@@ -22,13 +22,14 @@ jobs:
       - name: Release
         env:
           DATAFILLER_URL: ${{ secrets.DATAFILLER_URL }}
-          NODE_OPTIONS: --insecure-http-parser
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           NPM_TOKEN: ${{ secrets.NPM_TOKEN }}
         run: |
           yarn start
           if [[ "$(git status data/ --porcelain)" != "" ]]; then
             NOW=$(date +"%Y%m%d_%H%M")
+            git config user.name "Social Groovy Bot"
+            git config user.email "45039513+SocialGroovyBot@users.noreply.github.com"
             git add data
             git commit -m"feat(data): $NOW update" 
             npx semantic-release
