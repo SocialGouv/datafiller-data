@@ -2,7 +2,7 @@ name: Release
 on:
   schedule:
     # * is a special character in YAML so you have to quote this string
-    - cron:  '0 23 * * *'
+    - cron: "0 23 * * *"
   push:
     branches:
       - master
@@ -21,9 +21,10 @@ jobs:
         run: yarn --frozen-lockfile
       - name: Release
         env:
+          DATAFILLER_URL: ${{ secrets.DATAFILLER_URL }}
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           NPM_TOKEN: ${{ secrets.NPM_TOKEN }}
-        run: | 
+        run: |
           yarn start
           if [[ "$(git status data/ --porcelain)" != "" ]]; then
             NOW=$(date +"%Y%m%d_%H%M")
