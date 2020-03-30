@@ -32,8 +32,8 @@ jobs:
             NOW=$(date +"%Y%m%d_%H%M")
             git config user.name "Social Groovy Bot"
             git config user.email "45039513+SocialGroovyBot@users.noreply.github.com" 
-            git commit -m"feat(data): $NOW update" .
-            git push
+            git commit -m"feat(data): $NOW update" . --no-verify
+            git push --no-verify 
             npx semantic-release
           else
             echo "no changes detected"
