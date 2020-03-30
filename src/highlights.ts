@@ -2,7 +2,7 @@ import fetch from "node-fetch";
 import { KintoResponse, Reference } from ".";
 import { sortRowRefsByPosition } from "./sort";
 
-type HighlightsItem = {
+export type HighlightsItem = {
   title: string;
   refs: Reference[];
 };

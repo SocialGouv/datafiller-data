@@ -6,7 +6,7 @@ type AgreementsItemRaw = {
   groups?: ArticleGroup[];
 };
 
-type AgreementsItem = {
+export type AgreementsItem = {
   cid: string;
   groups: ArticleGroup[];
 };

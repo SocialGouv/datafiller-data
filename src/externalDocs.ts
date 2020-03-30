@@ -5,7 +5,7 @@ type ExternalDocRaw = {
   title: string;
   urls: string;
 };
-type ExternalDoc = {
+export type ExternalDoc = {
   title: string;
   urls: string[];
 };

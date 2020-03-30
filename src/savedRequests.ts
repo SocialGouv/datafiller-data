@@ -10,7 +10,7 @@ type SavedRequestsRaw = {
   refs: Reference[];
 };
 
-type SavedRequest = {
+export type SavedRequest = {
   title: string;
   variants: string[];
   refs: Reference[];

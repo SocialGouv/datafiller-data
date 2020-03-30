@@ -13,7 +13,7 @@ type GlossaryRawItem = {
   refs: Reference[];
 };
 
-type GlossaryItem = {
+export type GlossaryItem = {
   title: string;
   abbrs: string;
   variants: string[];

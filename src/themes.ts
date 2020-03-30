@@ -13,7 +13,7 @@ type ThemeRaw = {
   icon?: string;
 };
 
-type Theme = {
+export type Theme = {
   title: string;
   variants: string[];
   icon?: string;

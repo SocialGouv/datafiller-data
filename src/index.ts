@@ -3,12 +3,12 @@ import * as path from "path";
 import { promisify } from "util";
 import * as pPipe from "p-pipe";
 
-import { getSavedRequests } from "./savedRequests";
-import { getGlossary } from "./glossary";
-import { getHightlights } from "./highlights";
-import { getThemes } from "./themes";
-import { getAgreementArticles } from "./agreements";
-import { getExternalDocUrl } from "./externalDocs";
+import { getSavedRequests, SavedRequest } from "./savedRequests";
+import { getGlossary, GlossaryItem } from "./glossary";
+import { getHightlights, HighlightsItem } from "./highlights";
+import { getThemes, Theme } from "./themes";
+import { getAgreementArticles, AgreementsItem } from "./agreements";
+import { getExternalDocUrl, ExternalDoc } from "./externalDocs";
 
 const DATAFILLER_URL = process.env.DATAFILLER_URL || "";
 
@@ -22,6 +22,16 @@ export type Reference = {
   position?: number;
 };
 
+type Data =
+  | AgreementsItem
+  | ExternalDoc
+  | HighlightsItem
+  | SavedRequest
+  | Theme
+  | GlossaryItem;
+
+type Result<T> = { filename: string; data: T };
+
 const writeFile = promisify(fs.writeFile);
 
 async function saveFile({ filename, data }): Promise<void> {
@@ -32,9 +42,9 @@ async function saveFile({ filename, data }): Promise<void> {
   console.log(`› write ${filename}.json`);
 }
 
-const wrap = (dataFetcher: (u: string) => Promise<any>) => async (
+const wrap = <T>(dataFetcher: (u: string) => Promise<T[]>) => async (
   filename: string
-): Promise<any> => ({
+): Promise<Result<T[]>> => ({
   filename,
   data: await dataFetcher(DATAFILLER_URL)
 });
@@ -61,10 +71,12 @@ async function main(): Promise<void> {
     );
     process.exit(1);
   }
-  const jobs = Object.entries(config).map(([file, fetchData]) => {
-    const pipeline = pPipe(wrap(fetchData), saveFile);
-    return pipeline(file);
-  });
+  const jobs = Object.entries(config).map(
+    ([file, fetchData]: [string, (u: string) => Promise<Data[]>]) => {
+      const pipeline = pPipe(wrap(fetchData), saveFile);
+      return pipeline(file);
+    }
+  );
   await Promise.all(jobs);
   console.log(`››› Done in ${toFix((Date.now() - t0) / 1000)} s`);
 }
