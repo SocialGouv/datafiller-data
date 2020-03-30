@@ -32,9 +32,9 @@ jobs:
             NOW=$(date +"%Y%m%d_%H%M")
             git config user.name "Social Groovy Bot"
             git config user.email "45039513+SocialGroovyBot@users.noreply.github.com"
-            git add data
-            git commit -m"feat(data): $NOW update" 
-            git push -u origin master
+            git remote set-url origin https://${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.git
+            git commit -m"feat(data): $NOW update" .
+            git push origin HEAD:master
             npx semantic-release
           else
             echo "no changes detected"
