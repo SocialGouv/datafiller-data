@@ -12,7 +12,7 @@
   },
   "license": "Apache-2.0",
   "scripts": {
-    "start": "NODE_OPTIONS=--http-parser=legacy ts-node src/index.ts",
+    "start": "NODE_OPTIONS=--insecure-http-parser ts-node src/index.ts",
     "dev": "tsc --watch",
     "lint": "eslint . --ext .ts",
     "test": "jest"
