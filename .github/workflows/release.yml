@@ -31,6 +31,13 @@ jobs:
         run: |
           yarn start
           if [[ "$(git status data/ --porcelain)" != "" ]]; then
+            # Check JSON files
+            for filename in ./data/*\.json; do
+              node "$filename" > /dev/null || {
+                echo "Error: Invalid JSON in $filename"
+                exit 1
+              }
+            done
             NOW=$(date +"%Y%m%d_%H%M")
             git config user.name "Social Groovy Bot"
             git config user.email "45039513+SocialGroovyBot@users.noreply.github.com" 
