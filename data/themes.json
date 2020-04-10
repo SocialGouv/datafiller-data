@@ -4241,38 +4241,6 @@
   {
     "breadcrumbs": [
       {
-        "label": "Embauche et contrat de travail",
-        "position": 1
-      },
-      {
-        "label": "Embauche",
-        "position": 11
-      }
-    ],
-    "children": [],
-    "position": 118,
-    "refs": [
-      {
-        "title": "Qui est concerné par l’obligation d’emploi des travailleurs handicapés (OETH) ?",
-        "url": "/fiche-ministere-travail/obligation-demploi-en-faveur-des-travailleurs-handicapes-oeth#Qui-est-concerne-par-l-obligation-d-emploi-des-travailleurs-handicapes-nbsp"
-      },
-      {
-        "title": "Comment l’employeur peut-il s’acquitter de son OETH ?",
-        "url": "/fiche-ministere-travail/obligation-demploi-en-faveur-des-travailleurs-handicapes-oeth#Comment-l-employeur-peut-il-s-acquitter-de-son-OETH"
-      },
-      {
-        "title": "OETH : comment l’obligation d’emploi des travailleurs handicapés est-elle contrôlée ?",
-        "url": "/fiche-ministere-travail/obligation-demploi-en-faveur-des-travailleurs-handicapes-oeth#Comment-l-obligation-d-emploi-des-travailleurs-handicapes-est-elle-nbsp"
-      }
-    ],
-    "title": "Handicap",
-    "variants": [
-      "Handicap"
-    ]
-  },
-  {
-    "breadcrumbs": [
-      {
         "label": "Santé, sécurité et conditions de travail",
         "position": 6
       },
@@ -4295,6 +4263,38 @@
       {
         "title": "Comment être reconnu travailleur handicapé (RQTH) ?",
         "url": "/fiche-service-public/comment-etre-reconnu-travailleur-handicape-rqth"
+      }
+    ],
+    "title": "Handicap",
+    "variants": [
+      "Handicap"
+    ]
+  },
+  {
+    "breadcrumbs": [
+      {
+        "label": "Embauche et contrat de travail",
+        "position": 1
+      },
+      {
+        "label": "Embauche",
+        "position": 11
+      }
+    ],
+    "children": [],
+    "position": 118,
+    "refs": [
+      {
+        "title": "Qui est concerné par l’obligation d’emploi des travailleurs handicapés (OETH) ?",
+        "url": "/fiche-ministere-travail/obligation-demploi-en-faveur-des-travailleurs-handicapes-oeth#Qui-est-concerne-par-l-obligation-d-emploi-des-travailleurs-handicapes-nbsp"
+      },
+      {
+        "title": "Comment l’employeur peut-il s’acquitter de son OETH ?",
+        "url": "/fiche-ministere-travail/obligation-demploi-en-faveur-des-travailleurs-handicapes-oeth#Comment-l-employeur-peut-il-s-acquitter-de-son-OETH"
+      },
+      {
+        "title": "OETH : comment l’obligation d’emploi des travailleurs handicapés est-elle contrôlée ?",
+        "url": "/fiche-ministere-travail/obligation-demploi-en-faveur-des-travailleurs-handicapes-oeth#Comment-l-obligation-d-emploi-des-travailleurs-handicapes-est-elle-nbsp"
       }
     ],
     "title": "Handicap",
@@ -4749,46 +4749,6 @@
   {
     "breadcrumbs": [
       {
-        "label": "Santé, sécurité et conditions de travail",
-        "position": 6
-      },
-      {
-        "label": "Travailleurs et secteurs spécifiques",
-        "position": 64
-      }
-    ],
-    "children": [],
-    "position": 641,
-    "refs": [
-      {
-        "title": "La protection de la santé des jeunes travailleurs : a quel âge peut-on travailler en france ?",
-        "url": "/fiche-ministere-travail/la-protection-de-la-sante-des-jeunes-travailleurs#A-quel-age-peut-on-travailler-en-France"
-      },
-      {
-        "title": "La protection de la santé des jeunes travailleurs : pourquoi et comment protéger les jeunes ?",
-        "url": "/fiche-ministere-travail/la-protection-de-la-sante-des-jeunes-travailleurs#Pourquoi-et-comment-proteger-les-jeunes"
-      },
-      {
-        "title": "La protection de la santé des jeunes travailleurs : les jeunes travailleurs peuvent-ils être affectés à tous les travaux ?",
-        "url": "/fiche-ministere-travail/la-protection-de-la-sante-des-jeunes-travailleurs#Les-jeunes-travailleurs-peuvent-ils-etre-affectes-a-tous-les-travaux-nbsp"
-      },
-      {
-        "title": "Jeune de 15 à 18 ans en entreprise : travaux interdits et travaux réglementés",
-        "url": "/fiche-service-public/jeune-de-15-a-18-ans-en-entreprise-travaux-interdits-et-travaux-reglementes"
-      },
-      {
-        "title": "Travail de nuit d'un jeune de moins de 18 ans",
-        "url": "/fiche-service-public/travail-de-nuit-dun-jeune-de-moins-de-18-ans"
-      }
-    ],
-    "title": "Jeunes travailleurs",
-    "variants": [
-      "Jeunes travailleurs"
-    ]
-  },
-  {
-    "breadcrumbs": [
-      {
         "label": "Emploi et formation professionnelle",
         "position": 5
       },
@@ -4855,6 +4815,46 @@
       {
         "title": "Contrat starter : que se passe-t-il en cas de rupture d’un contrat starter ?",
         "url": "/fiche-ministere-travail/contrat-starter#Que-se-passe-t-il-en-cas-de-rupture-d-un-contrat-starter"
+      }
+    ],
+    "title": "Jeunes travailleurs",
+    "variants": [
+      "Jeunes travailleurs"
+    ]
+  },
+  {
+    "breadcrumbs": [
+      {
+        "label": "Santé, sécurité et conditions de travail",
+        "position": 6
+      },
+      {
+        "label": "Travailleurs et secteurs spécifiques",
+        "position": 64
+      }
+    ],
+    "children": [],
+    "position": 641,
+    "refs": [
+      {
+        "title": "La protection de la santé des jeunes travailleurs : a quel âge peut-on travailler en france ?",
+        "url": "/fiche-ministere-travail/la-protection-de-la-sante-des-jeunes-travailleurs#A-quel-age-peut-on-travailler-en-France"
+      },
+      {
+        "title": "La protection de la santé des jeunes travailleurs : pourquoi et comment protéger les jeunes ?",
+        "url": "/fiche-ministere-travail/la-protection-de-la-sante-des-jeunes-travailleurs#Pourquoi-et-comment-proteger-les-jeunes"
+      },
+      {
+        "title": "La protection de la santé des jeunes travailleurs : les jeunes travailleurs peuvent-ils être affectés à tous les travaux ?",
+        "url": "/fiche-ministere-travail/la-protection-de-la-sante-des-jeunes-travailleurs#Les-jeunes-travailleurs-peuvent-ils-etre-affectes-a-tous-les-travaux-nbsp"
+      },
+      {
+        "title": "Jeune de 15 à 18 ans en entreprise : travaux interdits et travaux réglementés",
+        "url": "/fiche-service-public/jeune-de-15-a-18-ans-en-entreprise-travaux-interdits-et-travaux-reglementes"
+      },
+      {
+        "title": "Travail de nuit d'un jeune de moins de 18 ans",
+        "url": "/fiche-service-public/travail-de-nuit-dun-jeune-de-moins-de-18-ans"
       }
     ],
     "title": "Jeunes travailleurs",
@@ -7242,15 +7242,15 @@
       },
       {
         "title": "Le CSE : obligatoire dans quelles entreprises ?",
-        "url": "/fiche-ministere-travail/cse-definition-cadre-et-calendrier-de-mise-en-place#Le-CSE-obligatoire-dans-quelles-entreprises"
+        "url": "/fiche-ministere-travail/cse-definition-et-cadre-de-mise-en-place#Le-CSE-obligatoire-dans-quelles-entreprises"
       },
       {
         "title": "Qu’est-ce que le comité social et économique (CSE) ?",
-        "url": "/fiche-ministere-travail/cse-definition-cadre-et-calendrier-de-mise-en-place#Qu-est-ce-que-le-comite-social-et-economique-CSE"
+        "url": "/fiche-ministere-travail/cse-definition-et-cadre-de-mise-en-place#Qu-est-ce-que-le-comite-social-et-economique-CSE"
       },
       {
         "title": "Dans quel cadre le CSE doit-il être mis en place ?",
-        "url": "/fiche-ministere-travail/cse-definition-cadre-et-calendrier-de-mise-en-place#Dans-quel-cadre-le-CSE-doit-il-etre-mis-en-place"
+        "url": "/fiche-ministere-travail/cse-definition-et-cadre-de-mise-en-place#Dans-quel-cadre-le-CSE-doit-il-etre-mis-en-place"
       },
       {
         "title": "A quelles informations le CSE a-t-il accès ?",
@@ -7660,18 +7660,6 @@
       {
         "title": "CSE : définition et cadre de mise en place",
         "url": "/fiche-ministere-travail/cse-definition-et-cadre-de-mise-en-place"
-      },
-      {
-        "title": "Qu’est-ce que le comité social et économique (CSE) ?",
-        "url": "/fiche-ministere-travail/cse-definition-et-cadre-de-mise-en-place#Qu-est-ce-que-le-comite-social-et-economique-CSE"
-      },
-      {
-        "title": "Le CSE : obligatoire dans quelles entreprises ?",
-        "url": "/fiche-ministere-travail/cse-definition-et-cadre-de-mise-en-place#Le-CSE-obligatoire-dans-quelles-entreprises"
-      },
-      {
-        "title": "Dans quel cadre le CSE doit-il être mis en place ?",
-        "url": "/fiche-ministere-travail/cse-definition-et-cadre-de-mise-en-place#Dans-quel-cadre-le-CSE-doit-il-etre-mis-en-place"
       }
     ],
     "title": "Représentation du personnel",
