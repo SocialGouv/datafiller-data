@@ -14,10 +14,10 @@ export function processExternalDocs(items: ExternalDocRaw[]): ExternalDoc[] {
   return items
     .map(({ title, urls }) => ({
       title,
-      urls: urls
+      urls: [...new Set(urls
         .split("\n")
         .map(url => url.trim())
-        .filter(Boolean)
+        .filter(Boolean))]
     }))
     .filter(({ urls }) => urls.length > 0);
 }
