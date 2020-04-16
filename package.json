@@ -23,7 +23,7 @@
   "dependencies": {
     "node-fetch": "^2.6.0",
     "p-pipe": "^3.0.0",
-    "remark": "^11.0.2",
+    "remark": "^12.0.0",
     "remark-html": "^11.0.1"
   },
   "devDependencies": {
