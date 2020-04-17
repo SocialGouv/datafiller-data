@@ -67,9 +67,6 @@
         "url": "/fiche-service-public/maladie-professionnelle-demarches-a-effectuer"
       },
       {
-        "url": "/fiche-service-public/quest-ce-que-la-prestation-complementaire-pour-recours-a-tierce-personne"
-      },
-      {
         "url": "/fiche-service-public/maladie-professionnelle-reprise-du-travail-du-salarie"
       },
       {
@@ -471,10 +468,6 @@
       {
         "title": "Quel est l'emplacement des cotisations dans le bulletin de paie clarifié ?",
         "url": "/fiche-service-public/quel-est-lemplacement-des-cotisations-dans-le-bulletin-de-paie-clarifie"
-      },
-      {
-        "title": "Affiliation et cotisations sociales des artistes-auteurs",
-        "url": "/fiche-service-public/affiliation-et-cotisations-sociales-des-artistes-auteurs"
       },
       {
         "title": "Forfait social",
@@ -5451,6 +5444,10 @@
       {
         "title": "Peut-on bénéficier d'heures de recherche d'emploi pendant le préavis de licenciement ?",
         "url": "/fiche-service-public/peut-on-beneficier-dheures-de-recherche-demploi-pendant-le-preavis-de-licenciement"
+      },
+      {
+        "title": "",
+        "url": "/fiche-service-public/comment-calculer-lanciennete-pour-le-montant-de-lindemnite-de-licenciement"
       }
     ],
     "title": "Licenciement",
@@ -5800,9 +5797,6 @@
       },
       {
         "url": "/fiche-service-public/licenciement-illegal-le-salarie-doit-il-rembourser-les-indemnites-de-chomage"
-      },
-      {
-        "url": "/fiche-service-public/comment-calculer-lanciennete-en-matiere-dindemnite-de-licenciement"
       },
       {
         "url": "/fiche-service-public/indemnite-de-licenciement-du-salarie-en-cdi"
@@ -7323,10 +7317,6 @@
         "url": "/fiche-service-public/elections-professionnelles-obligations-de-lemployeur"
       },
       {
-        "title": "Quels sont les moyens d'action du comité social et économique (CSE) ?",
-        "url": "/fiche-service-public/quels-sont-les-moyens-daction-du-comite-social-et-economique-cse"
-      },
-      {
         "title": "Hygiène et sécurité : quand faut-il consulter le CSE (ex-CHSCT) ?",
         "url": "/fiche-service-public/hygiene-et-securite-quand-faut-il-consulter-le-cse-ex-chsct"
       },
@@ -7365,6 +7355,10 @@
       {
         "title": "CSE : définition et cadre de mise en place",
         "url": "/fiche-ministere-travail/cse-definition-et-cadre-de-mise-en-place"
+      },
+      {
+        "title": "",
+        "url": "/fiche-service-public/de-quels-moyens-dispose-le-comite-social-et-economique-cse"
       }
     ],
     "title": "Représentation du personnel",
@@ -7496,9 +7490,6 @@
         "url": "/fiche-service-public/travailler-apres-67-ans-quelles-consequences-pour-la-retraite"
       },
       {
-        "url": "/fiche-service-public/un-salarie-peut-il-se-faire-rembourser-ses-cotisations-de-retraite"
-      },
-      {
         "url": "/fiche-service-public/quest-ce-que-la-liquidation-unique-des-retraites-lura-des-polypensionnes"
       },
       {
@@ -7547,6 +7538,10 @@
       {
         "title": "Durée d'assurance retraite du salarié du secteur privé",
         "url": "/fiche-service-public/duree-dassurance-retraite-du-salarie-du-secteur-prive"
+      },
+      {
+        "title": "",
+        "url": "/fiche-service-public/remboursement-des-cotisations-retraite-du-salarie-est-ce-possible"
       }
     ],
     "title": "Retraite",
