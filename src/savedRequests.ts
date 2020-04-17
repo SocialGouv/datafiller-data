@@ -21,7 +21,7 @@ const sortByPosition = sortRefs((row: Reference) => row.position || 0);
 // fetch title from remote url
 async function getPageTitle(url: string): Promise<string> {
   try {
-    const text = await fetch(url).then(r => r.text());
+    const text = await fetch(url).then((r) => r.text());
     const matches = text.match(/<title>([^<]+)<\/title>/i);
     if (matches) {
       return decodeHTML(matches[1]);
@@ -47,18 +47,23 @@ async function fixRefsTitles(ref: Reference): Promise<Reference> {
   return {
     url: ref.url,
     title: await getTitle(ref),
-    position: ref.position
+    position: ref.position,
   };
 }
 
 export async function processRequests(
   items: SavedRequestsRaw[]
 ): Promise<SavedRequest[]> {
-  const rows = items.filter(hasRef).map(async item => {
+  const rows = items.filter(hasRef).map(async (item) => {
     return {
       title: item.title,
       variants: getVariants(item),
-      refs: await Promise.all(item.refs.sort(sortByPosition).map(fixRefsTitles))
+      refs: await Promise.all(
+        item.refs
+          .filter(({url}) => Boolean(url))
+          .sort(sortByPosition)
+          .map(fixRefsTitles)
+      ),
     };
   });
   return Promise.all(rows);
@@ -76,9 +81,9 @@ export async function getSavedRequests(
 
 if (require.main === module) {
   getSavedRequests(`${process.env.DATAFILLER_URL}`)
-    .then(data => {
+    .then((data) => {
       console.log(JSON.stringify(data, null, 2));
       console.error(`${data.length} highlights extraits`);
     })
-    .catch(error => console.error(error));
+    .catch((error) => console.error(error));
 }

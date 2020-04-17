@@ -17,6 +17,9 @@ test("processRequests", async () => {
           url: "cdt1",
           title: "article1",
           position: 1
+        }, {
+          title: "",
+          url: "",
         }
       ],
       title: "cheque vacances",

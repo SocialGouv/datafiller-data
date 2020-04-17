@@ -31,7 +31,7 @@ export const sortByKey = <T, K extends keyof T>(key: K) => (
 
 // sort datafiller references by key and source
 export const sortRefs = cb => (a: UrlRef, b: UrlRef): number => {
-  if (cb(a) === cb(b)) {
+  if (cb(a) === cb(b)) { 
     return (
       sourcesPriority.indexOf(getSource(a.url)) -
       sourcesPriority.indexOf(getSource(b.url))

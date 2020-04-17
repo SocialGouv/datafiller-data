@@ -15,7 +15,7 @@ export function processExternalDocs(items: ExternalDocRaw[]): ExternalDoc[] {
     .map(({ title, urls }) => ({
       title,
       urls: [...new Set(urls
-        .split("\n")
+        .split(/\s/)
         .map(url => url.trim())
         .filter(Boolean))]
     }))
