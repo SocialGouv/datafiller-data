@@ -2502,10 +2502,22 @@
     "position": 8,
     "refs": [
       {
+        "title": "Arrêt maladie pendant le préavis : quelles conséquences ?",
+        "url": "/contribution/arret-maladie-pendant-le-preavis-quelles-consequences"
+      },
+      {
         "url": "/fiche-service-public/peut-on-garder-la-mutuelle-de-lentreprise-a-la-fin-du-contrat-de-travail"
       },
       {
+        "title": "Démission, licenciement : peut-on travailler ailleurs avant la fin du préavis ?",
+        "url": "/fiche-service-public/demission-licenciement-peut-on-travailler-ailleurs-avant-la-fin-du-preavis"
+      },
+      {
         "url": "/fiche-service-public/indemnite-compensatrice-de-preavis"
+      },
+      {
+        "title": "Heures pour recherche d’emploi",
+        "url": "/outils/heures-recherche-emploi"
       },
       {
         "url": "/fiche-service-public/indemnite-compensatrice-de-conges-payes"
@@ -2515,24 +2527,8 @@
         "url": "/contribution/le-salarie-peut-il-sabsenter-pour-rechercher-un-emploi-pendant-son-preavis"
       },
       {
-        "title": "Heures pour recherche d’emploi",
-        "url": "/outils/heures-recherche-emploi"
-      },
-      {
         "title": "Quelles sont les conséquences du non-respect du préavis par le salarié ou l'employeur ?",
         "url": "/contribution/quelles-sont-les-consequences-du-non-respect-du-preavis-par-le-salarie-ou-lemployeur"
-      },
-      {
-        "title": "Démission, licenciement : peut-on travailler ailleurs avant la fin du préavis ?",
-        "url": "/fiche-service-public/demission-licenciement-peut-on-travailler-ailleurs-avant-la-fin-du-preavis"
-      },
-      {
-        "title": "Arrêt maladie pendant le préavis : quelles conséquences ?",
-        "url": "/contribution/arret-maladie-pendant-le-preavis-quelles-consequences"
-      },
-      {
-        "title": " Quelle est la durée de préavis en cas de mise à la retraite ?",
-        "url": "/contribution/quelle-est-la-duree-de-preavis-en-cas-de-mise-a-la-retraite"
       }
     ],
     "title": "Départ de l'entreprise",
@@ -6149,11 +6145,11 @@
     "position": 851,
     "refs": [
       {
-        "url": "/fiche-service-public/lemployeur-peut-il-mettre-doffice-un-salarie-a-la-retraite"
-      },
-      {
         "title": " Quelle est la durée de préavis en cas de mise à la retraite ?",
         "url": "/contribution/quelle-est-la-duree-de-preavis-en-cas-de-mise-a-la-retraite"
+      },
+      {
+        "url": "/fiche-service-public/lemployeur-peut-il-mettre-doffice-un-salarie-a-la-retraite"
       }
     ],
     "title": "Mise à la retraite",
