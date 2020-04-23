@@ -6121,14 +6121,9 @@
         "position": 0
       },
       {
-        "url": "/fiche-ministere-travail/coronavirus-questions-reponses-pour-les-entreprises-et-les-salaries#Covid-19-Je-suis-employeur",
-        "title": "Coronavirus : covid 19 : je suis employeur",
+        "url": "/fiche-ministere-travail/questions-reponses-par-theme",
+        "title": "Questions - réponses par thème",
         "position": 1
-      },
-      {
-        "url": "/fiche-ministere-travail/coronavirus-questions-reponses-pour-les-entreprises-et-les-salaries#Covid-19-Je-suis-salarie",
-        "title": "Coronavirus : covid 19 : je suis salarié",
-        "position": 2
       },
       {
         "url": "/fiche-service-public/activite-partielle-demarches-de-lemployeur-chomage-partiel-ou-technique",
@@ -6141,13 +6136,8 @@
         "position": 4
       },
       {
-        "url": "/fiche-ministere-travail/coronavirus-covid-19-et-monde-du-travail#Pour-resumer",
-        "title": "Coronavirus - COVID-19 et monde du Travail : pour résumer",
-        "position": 5
-      },
-      {
-        "url": "/fiche-ministere-travail/coronavirus-covid-19-fiches-conseils-metiers-pour-les-salaries-et-les-employeurs",
-        "title": "Coronavirus-COVID-19 - Fiches conseils métiers pour les salariés et les employeurs",
+        "url": "/fiche-ministere-travail/fiches-conseils-metiers-et-guides-pour-les-salaries-et-les-employeurs",
+        "title": "Fiches conseils métiers et guides pour les salariés et les employeurs",
         "position": 6
       },
       {
@@ -6166,29 +6156,14 @@
         "position": 9
       },
       {
-        "url": "/fiche-ministere-travail/coronavirus-suspension-de-laccueil-dans-les-cfa-et-les-organismes-de-formation-et-continuite-dactivite-a-distance",
-        "title": "CORONAVIRUS : suspension de l’accueil dans les CFA et les organismes de formation et continuité d’activité à distance",
-        "position": 10
-      },
-      {
         "url": "/fiche-ministere-travail/mesures-exceptionnelles-de-soutien-aux-intermittents-et-salaries-du-secteur-culturel-dans-le-cadre-de-la-crise-sanitaire",
         "title": "Mesures exceptionnelles de soutien aux intermittents et salariés du secteur culturel dans le cadre de la crise sanitaire",
         "position": 11
       },
       {
-        "url": "/fiche-ministere-travail/coronavirus-covid-19-et-monde-du-travail#t3-Les-restaurants-d-entreprise-peuvent-rester-ouverts-mais-doivent-etre-nbsp",
-        "title": "Coronavirus - COVID-19 et monde du Travail : 3. les restaurants d’entreprise peuvent rester ouverts, mais doivent être aménagés pour laisser un mètre de distance entre les places à table",
-        "position": 12
-      },
-      {
         "url": "/fiche-ministere-travail/conventions-de-fne-formation",
         "title": "Conventions de FNE-Formation",
         "position": 13
-      },
-      {
-        "url": "/fiche-ministere-travail/coronavirus-covid-19-questions-reponses-mon-compte-formation",
-        "title": "Coronavirus – COVID-19 | Questions-réponses Mon Compte Formation",
-        "position": 14
       }
     ]
   },
