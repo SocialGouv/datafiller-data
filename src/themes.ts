@@ -6,8 +6,8 @@ import { getVariants } from "./variants";
 type ThemeRaw = {
   icon?: string;
   id: string;
-  introduction?: string | undefined;
-  parent?: string | null;
+  introduction?: string;
+  parent: string | null;
   position: number;
   refs: Reference[];
   title: string;
