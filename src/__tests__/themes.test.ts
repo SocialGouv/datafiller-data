@@ -16,6 +16,7 @@ test("processThemes", () => {
       title: "theme 1",
       variants: "",
       position: 1,
+      introduction: "I'm theme #1 !",
       refs: [{ url: "url.1" }],
       parent: null,
       icon: "icon page"
@@ -53,6 +54,7 @@ test("processThemes", () => {
       variants: ["theme 1"],
       position: 1,
       icon: "icon page",
+      introduction: "I'm theme #1 !",
       breadcrumbs: [],
       children: [
         { label: "theme1 > soustheme 1", position: 3 },
