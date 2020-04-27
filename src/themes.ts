@@ -4,23 +4,25 @@ import { sortByKey } from "./sort";
 import { getVariants } from "./variants";
 
 type ThemeRaw = {
+  icon?: string;
   id: string;
-  title: string;
-  variants: string;
+  introduction: string | undefined;
+  parent?: string | null;
   position: number;
   refs: Reference[];
-  parent?: string | null;
-  icon?: string;
+  title: string;
+  variants: string;
 };
 
 export type Theme = {
-  title: string;
-  variants: string[];
-  icon?: string;
-  position: number;
   breadcrumbs: SubTheme[];
   children: SubTheme[];
+  icon?: string;
+  introduction?: string;
+  position: number;
   refs: Reference[];
+  title: string;
+  variants: string[];
 };
 
 type SubTheme = {
@@ -61,6 +63,7 @@ export function processThemes(items: ThemeRaw[]): Theme[] {
       breadcrumbs,
       children,
       icon: theme.icon,
+      introduction: theme.introduction,
       position: theme.position,
       refs: theme.refs.map(({ title, url }) => ({ title, url })),
       title: theme.title,
