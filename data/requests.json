@@ -781,19 +781,23 @@
     ],
     "refs": [
       {
-        "url": "/fiche-ministere-travail/5-questions-reponses-sur-la-sante-au-travail#t1-Visite-d-information-et-de-prevention-pour-qui",
-        "title": "La santé au travail : visite d’information et de prévention : pour qui ?",
-        "position": 1
-      },
-      {
         "url": "/fiche-service-public/contrat-dapprentissage",
         "title": "Contrat d'apprentissage",
-        "position": 2
+        "position": 0
+      },
+      {
+        "url": "/fiche-service-public/un-salarie-peut-il-etre-dispense-de-la-visite-dinformation-et-de-prevention",
+        "title": "Un salarié peut-il être dispensé de la visite d'information et de prévention ?"
+      },
+      {
+        "url": "/fiche-service-public/medecine-au-travail-quest-ce-que-la-visite-dinformation-et-de-prevention",
+        "title": "Médecine au travail : qu'est-ce que la visite d'information et de prévention ?",
+        "position": 1
       },
       {
         "url": "/fiche-service-public/mediateur-de-lapprentissage-comment-y-recourir",
         "title": "Médiateur de l'apprentissage : comment y recourir ?",
-        "position": 3
+        "position": 2
       }
     ]
   },
@@ -2767,183 +2771,168 @@
     "refs": [
       {
         "url": "/fiche-ministere-travail/activite-partielle-chomage-partiel",
-        "title": "Activité partielle - chômage partiel",
-        "position": 0
-      },
-      {
-        "url": "/fiche-ministere-travail/activite-partielle-chomage-partiel#Qu-est-ce-que-l-activite-partielle-chomage-partiel",
-        "title": "Activité partielle - chômage partiel : qu’est-ce que l’activité partielle (chômage partiel) ?",
+        "title": "Activité partielle – chômage partiel",
         "position": 1
-      },
-      {
-        "url": "/fiche-ministere-travail/activite-partielle-chomage-partiel#En-quoi-consiste-le-dispositif-exceptionnel-d-activite-partielle-nbsp",
-        "title": "Activité partielle - chômage partiel : en quoi consiste le dispositif exceptionnel d’activité partielle ?",
-        "position": 2
-      },
-      {
-        "url": "/fiche-ministere-travail/activite-partielle-chomage-partiel#Comment-declarer-mon-entreprise-en-activite-partielle",
-        "title": "Activité partielle - chômage partiel : comment déclarer mon entreprise en activité partielle ?",
-        "position": 3
       },
       {
         "url": "/fiche-service-public/secteur-prive-activite-partielle-du-salarie",
         "title": "Secteur privé : activité partielle du salarié",
-        "position": 4
+        "position": 5
       },
       {
         "url": "/fiche-service-public/remuneration-dun-salarie-place-en-activite-partielle-chomage-partiel",
         "title": "Rémunération d'un salarié placé en activité partielle (chômage partiel)",
-        "position": 5
+        "position": 6
       },
       {
         "url": "/fiche-service-public/activite-partielle-demarches-de-lemployeur-chomage-partiel-ou-technique",
         "title": "Activité partielle : démarches de l'employeur (chômage partiel ou technique)",
-        "position": 6
+        "position": 7
       },
       {
         "url": "/external/simulateur-dactivite-partielle",
         "title": "Simulateur d’activité partielle",
-        "position": 7
+        "position": 8
       },
       {
         "url": "/code-du-travail/l5122-1",
         "title": "Article L5122-1",
-        "position": 8
+        "position": 9
       },
       {
         "url": "/code-du-travail/r5122-1",
         "title": "Article R5122-1",
-        "position": 9
+        "position": 10
       },
       {
         "url": "/code-du-travail/r5122-9",
         "title": "Article R5122-9",
-        "position": 10
+        "position": 11
       },
       {
         "url": "/code-du-travail/d5122-13",
         "title": "Article D5122-13",
-        "position": 11
+        "position": 12
       },
       {
         "url": "/code-du-travail/r5122-18",
         "title": "Article R5122-18",
-        "position": 12
+        "position": 13
       },
       {
         "url": "/code-du-travail/l5122-2",
         "title": "Article L5122-2",
-        "position": 13
+        "position": 14
       },
       {
         "url": "/code-du-travail/l5122-4",
         "title": "Article L5122-4",
-        "position": 14
+        "position": 15
       },
       {
         "url": "/code-du-travail/r5122-6",
         "title": "Article R5122-6",
-        "position": 15
+        "position": 16
       },
       {
         "url": "/code-du-travail/r5122-8",
         "title": "Article R5122-8",
-        "position": 16
+        "position": 17
       },
       {
         "url": "/code-du-travail/r5122-11",
         "title": "Article R5122-11",
-        "position": 17
+        "position": 18
       },
       {
         "url": "/code-du-travail/r5122-12",
         "title": "Article R5122-12",
-        "position": 18
+        "position": 19
       },
       {
         "url": "/code-du-travail/r5122-19",
         "title": "Article R5122-19",
-        "position": 19
+        "position": 20
       },
       {
         "url": "/code-du-travail/r5122-2",
         "title": "Article R5122-2",
-        "position": 20
+        "position": 21
       },
       {
         "url": "/code-du-travail/r5122-3",
         "title": "Article R5122-3",
-        "position": 21
+        "position": 22
       },
       {
         "url": "/code-du-travail/r5122-4",
         "title": "Article R5122-4",
-        "position": 22
+        "position": 23
       },
       {
         "url": "/code-du-travail/r5122-5",
         "title": "Article R5122-5",
-        "position": 23
+        "position": 24
       },
       {
         "url": "/code-du-travail/r5122-7",
         "title": "Article R5122-7",
-        "position": 24
+        "position": 25
       },
       {
         "url": "/code-du-travail/r5122-17",
         "title": "Article R5122-17",
-        "position": 25
+        "position": 26
       },
       {
         "url": "/code-du-travail/r5122-10",
         "title": "Article R5122-10",
-        "position": 26
+        "position": 27
       },
       {
         "url": "/code-du-travail/r5122-14",
         "title": "Article R5122-14",
-        "position": 27
+        "position": 28
       },
       {
         "url": "/code-du-travail/r5122-16",
         "title": "Article R5122-16",
-        "position": 28
+        "position": 29
       },
       {
         "url": "/code-du-travail/r5122-20",
         "title": "Article R5122-20",
-        "position": 29
+        "position": 30
       },
       {
         "url": "/code-du-travail/r5122-21",
         "title": "Article R5122-21",
-        "position": 30
+        "position": 31
       },
       {
         "url": "/code-du-travail/r5122-22",
         "title": "Article R5122-22",
-        "position": 31
+        "position": 32
       },
       {
         "url": "/code-du-travail/r5122-23",
         "title": "Article R5122-23",
-        "position": 32
+        "position": 33
       },
       {
         "url": "/code-du-travail/r5122-24",
         "title": "Article R5122-24",
-        "position": 33
+        "position": 34
       },
       {
         "url": "/code-du-travail/r5122-25",
         "title": "Article R5122-25",
-        "position": 34
+        "position": 35
       },
       {
         "url": "/code-du-travail/r5122-26",
         "title": "Article R5122-26",
-        "position": 35
+        "position": 36
       }
     ]
   },
@@ -7298,19 +7287,9 @@
     ],
     "refs": [
       {
-        "url": "/fiche-ministere-travail/les-obligations-de-lemployeur-lors-de-lembauche#Quels-sont-les-documents-a-remettre-au-salarie",
-        "title": "Les obligations de l’employeur lors de l’embauche : quels sont les documents à remettre au salarié ?",
-        "position": 1
-      },
-      {
         "url": "/fiche-service-public/procedure-dembauche",
         "title": "Procédure d'embauche",
         "position": 2
-      },
-      {
-        "url": "/fiche-ministere-travail/le-suivi-de-letat-de-sante-des-salaries#Quelle-visite-s-impose-lors-de-l-embauche-d-un-salarie-qui-n-est-pas-nbsp",
-        "title": "Le suivi de l’état de santé des salariés : quelle visite s’impose lors de l’embauche d’un salarié qui n’est pas affecté à poste à risque ?",
-        "position": 3
       }
     ]
   },

@@ -1012,6 +1012,7 @@
       }
     ],
     "icon": "Resignation",
+    "introduction": "Vous vous demandez ce quelle est la définition d’une grève ou encore celle du travail dissimulé ? Vous souhaitez connaître les différentes sanctions disciplinaires ? On vous a parlé de l’inspection du travail ou du conseil des prud’hommes et vous souhaitez les contacter ou les saisir ? Retrouvez toutes nos réponses ici. ",
     "position": 9,
     "refs": [
       {
@@ -1209,6 +1210,7 @@
       }
     ],
     "icon": "Holidays",
+    "introduction": "Vous souhaitez calculer les congés payés, les RTT... ? Vous vous interrogez sur les temps de pause et de repos obligatoires ou sur le fait de pouvoir travailler le dimanche ou un jour férié ? Vous attendez un enfant et cherchez à connaître les durées du congé maternité et du congé paternité ?  Retrouvez toutes nos réponses ici. ",
     "position": 4,
     "refs": [],
     "title": "Congés et repos",
@@ -2547,6 +2549,7 @@
       }
     ],
     "icon": "Depart",
+    "introduction": "C’est la fin de votre contrat de travail, vous souhaitez rompre le contrat de travail d’un salarié et vous vous demandez quels sont les documents obligatoire à remettre ? Vous voulez démissionner, faire une rupture conventionnelle ou connaître les indemnités auxquelles vous avez droit ? Retrouvez toutes nos réponses ici. ",
     "position": 8,
     "refs": [
       {
@@ -3427,6 +3430,7 @@
       }
     ],
     "icon": "Contract",
+    "introduction": "Vous venez de trouver un travail, vous embauchez un salarié ou un apprenti ? Vous souhaitez faire une déclaration préalable à l’embauche, rédiger un contrat de travail (CDI, CDD, travail temporaire, temps plein, temps partiel) ? Retrouvez toutes nos réponses ici.  ",
     "position": 1,
     "refs": [
       {
@@ -3621,6 +3625,7 @@
       }
     ],
     "icon": "Formation",
+    "introduction": "Vous voulez vous former ou former vos salariés, vous vous demandez ce que sont le CPF et la VAE ? Vous souhaitez embaucher un sénior ou un travailleur handicapé, vous vous demandez s’il existe des aides ? Vous êtes en activité partielle ou vous souhaitez demander l’activité partielle ? Retrouvez toutes nos réponses ici.",
     "position": 5,
     "refs": [
       {
@@ -7545,6 +7550,7 @@
       }
     ],
     "icon": "Nego",
+    "introduction": "Vous devez mettre en place un CSE et vous vous demandez comment faire ?  Vous voulez tout savoir sur le rôle d'un délégué syndical ? Ou peut être que vous souhaitez négocier un accord d’entreprise et connaître quelles sont les négociations annuelles obligatoires ? Retrouvez toutes nos réponses ici. ",
     "position": 7,
     "refs": [
       {
@@ -8959,12 +8965,16 @@
       }
     ],
     "icon": "Salary",
-    "introduction": "Description test",
+    "introduction": "C’est l’heure de la paye, comment rédiger ou lire un bulletin de paie, quelle différence entre brut et net ? Vous souhaitez savoir si vous avez droit à une prime d’ancienneté, au remboursement des frais de transport ? Ou encore connaître le différence entre intéressement et participation ? Retrouvez toutes nos réponses ici. ",
     "position": 2,
     "refs": [
       {
-        "title": "Prime exceptionnelle et épargne salariale : prime exceptionnelle",
-        "url": "/fiche-ministere-travail/prime-exceptionnelle-et-epargne-salariale#PRIME-EXCEPTIONNELLE"
+        "title": "La prime exceptionnelle de pouvoir d’achat",
+        "url": "/fiche-ministere-travail/la-prime-exceptionnelle-de-pouvoir-dachat"
+      },
+      {
+        "title": "",
+        "url": "/fiche-ministere-travail/prime-exceptionnelle-et-epargne-salariale"
       }
     ],
     "title": "Salaire et Rémunération",
@@ -9117,6 +9127,7 @@
       }
     ],
     "icon": "Health",
+    "introduction": "Vous vous demandez quand passer la visite médicale ou quelles sont les démarches lors d’un arrêt de travail ? Vous souhaitez connaître les obligations de l’employeur pour protéger la santé et la sécurité de ses salariés (lieu de travail, équipements de travail...) Retrouvez toutes nos réponses ici. ",
     "position": 6,
     "refs": [
       {
@@ -9390,6 +9401,7 @@
       }
     ],
     "icon": "Time",
+    "introduction": "Vous voulez savoir la durée maximale de travail par jour ou encore calculer les heures supplémentaires ? Vous vous demandez quelle est la définition d’un temps partiel ? Vous travaillez de nuit et souhaitez connaître les contreparties ? Vous souhaitez aménager le temps de travail ? Retrouvez toutes nos réponses ici.  ",
     "position": 3,
     "refs": [
       {
