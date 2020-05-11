@@ -14,32 +14,30 @@
         "position": 1
       },
       {
-        "url": "/modeles-de-courriers/attestation-sur-lhonneur-arret-de-travail-pour-la-garde-denfant",
-        "title": "Attestation sur l’honneur : arrêt de travail pour la garde d’enfant",
-        "valid": true,
-        "position": 3
-      },
-      {
         "url": "/fiche-service-public/activite-partielle-demarches-de-lemployeur-chomage-partiel-ou-technique",
         "title": "Activité partielle : démarches de l'employeur (chômage partiel ou technique)",
         "valid": true,
         "position": 4
       },
       {
-        "url": "/fiche-service-public/remuneration-dun-salarie-place-en-activite-partielle-chomage-partiel",
-        "title": "Rémunération d'un salarié placé en activité partielle (chômage partiel)",
-        "valid": true,
-        "position": 5
-      },
-      {
         "url": "/fiche-service-public/teletravail-dans-le-secteur-prive",
         "title": "Télétravail dans le secteur privé",
         "valid": true,
         "position": 6
+      },
+      {
+        "url": "/fiche-service-public/remuneration-dun-salarie-en-chomage-partiel-activite-partielle",
+        "title": "Rémunération d'un salarié en chômage partiel (activité partielle)",
+        "valid": true
+      },
+      {
+        "url": "/fiche-ministere-travail/conventions-de-fne-formation",
+        "title": "Conventions de FNE-Formation",
+        "valid": true
       }
     ],
     "title": "homepage",
     "id": "6f359be3-67a8-42c7-8a83-97d9647df15c",
-    "last_modified": 1587658075748
+    "last_modified": 1589213073085
   }
 ]
