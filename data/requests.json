@@ -1749,11 +1749,6 @@
         "position": 1
       },
       {
-        "url": "/fiche-service-public/en-quoi-consiste-le-nouveau-modele-de-fiche-de-paie",
-        "title": "En quoi consiste le nouveau modèle de fiche de paie ?",
-        "position": 2
-      },
-      {
         "url": "/fiche-ministere-travail/5-questions-reponses-sur-le-versement-du-salaire#t3-Comment-lire-son-bulletin-de-paie",
         "title": "Le versement du salaire : comment lire son bulletin de paie ?",
         "position": 3
@@ -1832,11 +1827,6 @@
         "url": "/contribution/comment-determiner-lanciennete-du-salarie",
         "title": "Comment déterminer l'ancienneté du salarié ?",
         "position": 1
-      },
-      {
-        "url": "/fiche-service-public/comment-calculer-lanciennete-en-matiere-dindemnite-de-licenciement",
-        "title": "Comment calculer l'ancienneté en matière d'indemnité de licenciement ?",
-        "position": 2
       },
       {
         "url": "/fiche-service-public/embauche-a-la-fin-dun-stage-quelles-consequences-sur-lanciennete",
@@ -2166,8 +2156,8 @@
         "position": 6
       },
       {
-        "url": "/fiche-service-public/comment-calculer-lanciennete-en-matiere-dindemnite-de-licenciement",
-        "title": "Comment calculer l'ancienneté en matière d'indemnité de licenciement ?",
+        "url": "/fiche-service-public/comment-calculer-lanciennete-pour-le-montant-de-lindemnite-de-licenciement",
+        "title": "Comment calculer l'ancienneté pour le montant de l'indemnité de licenciement ?",
         "position": 7
       },
       {
@@ -2770,8 +2760,8 @@
         "position": 5
       },
       {
-        "url": "/fiche-service-public/remuneration-dun-salarie-place-en-activite-partielle-chomage-partiel",
-        "title": "Rémunération d'un salarié placé en activité partielle (chômage partiel)",
+        "url": "/fiche-service-public/remuneration-dun-salarie-en-chomage-partiel-activite-partielle",
+        "title": "Rémunération d'un salarié en chômage partiel (activité partielle)",
         "position": 6
       },
       {
@@ -2992,11 +2982,6 @@
         "url": "/fiche-ministere-travail/cse-attributions-du-cse-en-matiere-de-sante-de-securite-et-de-conditions-de-travail#De-quels-moyens-dispose-le-CSE-dans-le-cadre-de-ses-attributions-dans-les-nbsp",
         "title": "De quels moyens dispose le CSE dans le cadre de ses attributions dans les domaines de la santé, de la sécurité et des conditions de travail ?",
         "position": 6
-      },
-      {
-        "url": "/fiche-ministere-travail/les-delegues-du-personnel-missions-et-moyens-daction#Dans-quels-cas-les-delegues-du-personnel-assument-ils-les-missions-des-nbsp",
-        "title": "Les délégués du personnel : dans quels cas les délégués du personnel assument-ils les missions des autres institutions représentatives du personnel ?",
-        "position": 7
       },
       {
         "url": "/fiche-service-public/un-salarie-peut-il-refuser-de-travailler-dans-une-situation-dangereuse",
@@ -4727,8 +4712,8 @@
         "position": 6
       },
       {
-        "url": "/fiche-service-public/comment-calculer-lanciennete-en-matiere-dindemnite-de-licenciement",
-        "title": "Comment calculer l'ancienneté en matière d'indemnité de licenciement ?",
+        "url": "/fiche-service-public/comment-calculer-lanciennete-pour-le-montant-de-lindemnite-de-licenciement",
+        "title": "Comment calculer l'ancienneté pour le montant de l'indemnité de licenciement ?",
         "position": 7
       }
     ]
@@ -5918,8 +5903,8 @@
         "position": 12
       },
       {
-        "url": "/fiche-service-public/contrat-de-professionnalisation-et-apprentissage-quelles-differences",
-        "title": "/fiche-service-public/contrat-de-professionnalisation-et-apprentissage-quelles-differences",
+        "url": "/fiche-service-public/contrat-dapprentissage-et-de-professionnalisation-quelles-differences",
+        "title": "Contrat d'apprentissage et de professionnalisation : quelles différences ?",
         "position": 13
       }
     ]
@@ -6835,8 +6820,8 @@
     ],
     "refs": [
       {
-        "url": "/fiche-service-public/demande-de-depart-en-retraite-du-salarie-quelles-sont-les-demarches-a-effectuer",
-        "title": "Demande de départ en retraite du salarié : quelles sont les démarches à effectuer ?",
+        "url": "/fiche-service-public/depart-en-retraite-du-salarie-quelles-sont-les-demarches-a-effectuer",
+        "title": "Départ en retraite du salarié : quelles sont les démarches à effectuer ?",
         "position": 1
       },
       {
@@ -7199,8 +7184,8 @@
         "position": 9
       },
       {
-        "url": "/fiche-service-public/rupture-du-contrat-de-travail-dune-assistante-maternelle",
-        "title": "Rupture du contrat de travail d'une assistante maternelle",
+        "url": "/fiche-service-public/mettre-fin-au-contrat-dune-assistante-maternelle",
+        "title": "Mettre fin au contrat d'une assistante maternelle",
         "position": 10
       },
       {
@@ -7474,8 +7459,8 @@
         "position": 3
       },
       {
-        "url": "/fiche-ministere-travail/coronavirus-questions-reponses-pour-les-entreprises-et-les-salaries#Covid-19-Je-suis-salarie",
-        "title": "Coronavirus : covid 19 : je suis salarié",
+        "url": "/fiche-ministere-travail/responsabilite-de-lemployeur-droit-de-retrait",
+        "title": "Responsabilité de l’employeur - Droit de retrait",
         "position": 4
       }
     ]
@@ -9357,8 +9342,8 @@
         "position": 5
       },
       {
-        "url": "/fiche-service-public/demande-de-depart-en-retraite-du-salarie-quelles-sont-les-demarches-a-effectuer",
-        "title": "Demande de départ en retraite du salarié : quelles sont les démarches à effectuer ?",
+        "url": "/fiche-service-public/depart-en-retraite-du-salarie-quelles-sont-les-demarches-a-effectuer",
+        "title": "Départ en retraite du salarié : quelles sont les démarches à effectuer ?",
         "position": 6
       },
       {
@@ -11268,19 +11253,9 @@
         "position": 3
       },
       {
-        "url": "/fiche-ministere-travail/la-garantie-en-cas-de-sauvegarde-de-redressement-ou-de-liquidation-judiciaire#Quelles-sont-les-sommes-garanties",
-        "title": "La garantie en cas de sauvegarde, de redressement ou de liquidation judiciaire : quelles sont les sommes garanties ?",
-        "position": 4
-      },
-      {
         "url": "/fiche-ministere-travail/5-questions-reponses-sur-le-versement-du-salaire#t5-La-garantie-des-salaires-c-est-quoi",
         "title": "Le versement du salaire : la garantie des salaires : c’est quoi ?",
         "position": 5
-      },
-      {
-        "url": "/fiche-ministere-travail/la-garantie-en-cas-de-sauvegarde-de-redressement-ou-de-liquidation-judiciaire#Qui-sont-les-employeurs-assujettis",
-        "title": "La garantie en cas de sauvegarde, de redressement ou de liquidation judiciaire : qui sont les employeurs assujettis ?",
-        "position": 6
       }
     ]
   },
@@ -12882,8 +12857,8 @@
         "position": 2
       },
       {
-        "url": "/fiche-service-public/demande-de-depart-en-retraite-du-salarie-quelles-sont-les-demarches-a-effectuer",
-        "title": "Demande de départ en retraite du salarié : quelles sont les démarches à effectuer ?",
+        "url": "/fiche-service-public/depart-en-retraite-du-salarie-quelles-sont-les-demarches-a-effectuer",
+        "title": "Départ en retraite du salarié : quelles sont les démarches à effectuer ?",
         "position": 3
       },
       {
@@ -13497,8 +13472,8 @@
         "position": 11
       },
       {
-        "url": "/fiche-service-public/comment-est-indemnise-un-conseiller-prudhommes-du-college-salarial",
-        "title": "Comment est indemnisé un conseiller prud'hommes du collège salarial ?",
+        "url": "/fiche-service-public/comment-est-remunere-un-conseiller-prudhommes-du-college-salarial",
+        "title": "Comment est rémunéré un conseiller prud'hommes du collège salarial ?",
         "position": 12
       },
       {
@@ -14849,8 +14824,12 @@
     ],
     "refs": [
       {
-        "url": "/fiche-service-public/rupture-du-contrat-de-travail-dune-assistante-maternelle",
-        "title": "Rupture du contrat de travail d'une assistante maternelle",
+        "url": "/fiche-service-public/que-faire-en-cas-de-suspension-ou-de-retrait-dagrement-de-votre-assistante-maternelle",
+        "title": "Que faire en cas de suspension ou de retrait d'agrément de votre assistante maternelle ?"
+      },
+      {
+        "url": "/fiche-service-public/mettre-fin-au-contrat-dune-assistante-maternelle",
+        "title": "Mettre fin au contrat d'une assistante maternelle",
         "position": 1
       },
       {
@@ -15049,7 +15028,8 @@
       "rupture du contrat de travail avec une assistante maternelle",
       "conditions de la rupture du contrat",
       "contestation de rupture du contrat de travail",
-      "rupture du contrat et force majeure"
+      "rupture du contrat et force majeure",
+      "mettre fin au contrat de travail"
     ],
     "refs": [
       {
@@ -15078,8 +15058,8 @@
         "position": 5
       },
       {
-        "url": "/fiche-service-public/rupture-du-contrat-de-travail-dune-assistante-maternelle",
-        "title": "Rupture du contrat de travail d'une assistante maternelle",
+        "url": "/fiche-service-public/mettre-fin-au-contrat-dune-assistante-maternelle",
+        "title": "Mettre fin au contrat d'une assistante maternelle",
         "position": 6
       },
       {
