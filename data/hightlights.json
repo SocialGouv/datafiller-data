@@ -8,8 +8,8 @@
         "position": 0
       },
       {
-        "url": "/fiche-ministere-travail/questions-reponses-par-theme",
-        "title": "Questions - réponses par thème",
+        "url": "/fiche-service-public/remuneration-dun-salarie-en-chomage-partiel-activite-partielle",
+        "title": "Rémunération d'un salarié en chômage partiel (activité partielle)",
         "valid": true,
         "position": 1
       },
@@ -17,27 +17,29 @@
         "url": "/fiche-service-public/activite-partielle-demarches-de-lemployeur-chomage-partiel-ou-technique",
         "title": "Activité partielle : démarches de l'employeur (chômage partiel ou technique)",
         "valid": true,
-        "position": 4
+        "position": 2
       },
       {
         "url": "/fiche-service-public/teletravail-dans-le-secteur-prive",
         "title": "Télétravail dans le secteur privé",
         "valid": true,
-        "position": 6
-      },
-      {
-        "url": "/fiche-service-public/remuneration-dun-salarie-en-chomage-partiel-activite-partielle",
-        "title": "Rémunération d'un salarié en chômage partiel (activité partielle)",
-        "valid": true
+        "position": 3
       },
       {
         "url": "/fiche-ministere-travail/conventions-de-fne-formation",
         "title": "Conventions de FNE-Formation",
-        "valid": true
+        "valid": true,
+        "position": 4
+      },
+      {
+        "url": "/fiche-ministere-travail/garde-denfants-et-personnes-vulnerables",
+        "title": "Garde d’enfants et personnes vulnérables",
+        "valid": true,
+        "position": 5
       }
     ],
     "title": "homepage",
     "id": "6f359be3-67a8-42c7-8a83-97d9647df15c",
-    "last_modified": 1589213073085
+    "last_modified": 1590675589480
   }
 ]
