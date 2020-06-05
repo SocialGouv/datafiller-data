@@ -171,7 +171,7 @@
     "variants": [
       "actes réglementaires"
     ],
-    "definition": "<p>Décision administrative à portée générale et impersonnelle.Exemple : arrêté pris par un maire ou un président de conseil départemental ou régional.</p><p>A la différence des actes administratifs \"\"individuels\"\", qui s'adressent à des destinataires identifiables, les actes réglementaires ont une portée générale et impersonnelle et visent ou concernent des catégories envisagées abstraitement et dans leur ensemble. </p>",
+    "definition": "<p>Décision administrative à portée générale et impersonnelle.Exemple : arrêté pris par un maire ou un président de conseil départemental ou régional.A la différence des actes administratifs \"\"individuels\"\", qui s'adressent à des destinataires identifiables, les actes réglementaires ont une portée générale et impersonnelle et visent ou concernent des catégories envisagées abstraitement et dans leur ensemble. </p>",
     "refs": []
   },
   {
@@ -189,7 +189,7 @@
     "title": "Actionnariat des salariés",
     "abbrs": "",
     "variants": [],
-    "definition": "<p>Le fait pour les salariés de participer au capital d'une société notamment par le biais d'actions. </p><p>Exemples : stock-options, attribution d'actions gratuites, augmentations de capital réservées aux adhérents des plans d'épargne entreprise...</p>",
+    "definition": "<p>Le fait pour les salariés de participer au capital d'une société notamment par le biais d'actions.Exemples : stock-options, attribution d'actions gratuites, augmentations de capital réservées aux adhérents des plans d'épargne entreprise...</p>",
     "refs": []
   },
   {
@@ -242,7 +242,7 @@
     "variants": [
       "maladie de longue durée"
     ],
-    "definition": "<p>Maladie grave et/ou chronique ouvrant droit à une prise en charge à 100% par l'assurance maladie.</p><p>Exemples : diabète, cancer, mucoviscidose, infection par le virus de l'immunodéficience humaine (VIH), etc.</p>",
+    "definition": "<p>Maladie grave et/ou chronique ouvrant droit à une prise en charge à 100% par l'assurance maladie.Exemples : diabète, cancer, mucoviscidose, infection par le virus de l'immunodéficience humaine (VIH), etc.</p>",
     "refs": [
       {
         "url": "https://www.service-public.fr/particuliers/glossaire/R10877"
@@ -383,7 +383,7 @@
     "title": "Audience électorale",
     "abbrs": "",
     "variants": [],
-    "definition": "<p>Pourcentage des suffrages (des votes) obtenus lors des élections professionnelles.</p><p>Exemple : le syndicat X a obtenu 40% des suffrages aux dernières élections du Comité social et économique (CSE).</p>",
+    "definition": "<p>Pourcentage des suffrages (des votes) obtenus lors des élections professionnelles.Exemple : le syndicat X a obtenu 40% des suffrages aux dernières élections du Comité social et économique (CSE).</p>",
     "refs": []
   },
   {
@@ -796,7 +796,7 @@
     "variants": [
       "délais de carence"
     ],
-    "definition": "<p>Délai qui doit s'écouler entre 2 événements.Exemples : </p><ul><li>Délai de carence entre 2 CDD, c'est-à-dire délai qui doit s'écouler entre la fin du premier CDD et le début du second CDD. </li><li>Délai de carence de 3 jours en cas d'arrêt maladie entre le moment où l'arrêt maladie est fait et le moment du versement des indemnités journalières par le Caisse primaire d'assurance maladie. </li></ul>",
+    "definition": "<p>Délai qui doit s'écouler entre 2 événements.Exemples : Délai de carence entre 2 CDD, c'est-à-dire délai qui doit s'écouler entre la fin du premier CDD et le début du second CDD. Délai de carence de 3 jours en cas d'arrêt maladie entre le moment où l'arrêt maladie est fait et le moment du versement des indemnités journalières par le Caisse primaire d'assurance maladie. </p>",
     "refs": [
       {
         "url": "https://www.service-public.fr/particuliers/glossaire/R52042"
@@ -942,7 +942,7 @@
       "législation du travail",
       "réglementation du travail"
     ],
-    "definition": "<p>Voir la <a href=\"https://code.travail.gouv.fr/droit-du-travail\">page d'introduction au droit du travail</a>.</p>",
+    "definition": "<p>Voir la page d'introduction au droit du travail.</p>",
     "refs": []
   },
   {
@@ -1758,7 +1758,7 @@
     "title": "Pénibilité",
     "abbrs": "",
     "variants": [],
-    "definition": "<p>Exposition du travailleur à un ou plusieurs facteurs de risques professionnels liés : </p><ul><li>à des contraintes physiques marquées (exemple : manutention manuelle des charges)</li><li>un environnement physique agressif (exemple : agents chimiques dangereux)</li><li>ou à certains rythmes de travail (exemple : travail de nuit) qui sont susceptibles de laisser des traces durables, identifiables et irréversibles sur sa santé.</li></ul>",
+    "definition": "<p>Exposition du travailleur à un ou plusieurs facteurs de risques professionnels liés : à des contraintes physiques marquées (exemple : manutention manuelle des charges); un environnement physique agressif (exemple : agents chimiques dangereux); ou à certains rythmes de travail (exemple : travail de nuit) qui sont susceptibles de laisser des traces durables, identifiables et irréversibles sur sa santé.</p>",
     "refs": []
   },
   {
