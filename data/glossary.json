@@ -40,7 +40,7 @@
       "complément de salaire",
       "accessoire de salaire"
     ],
-    "definition": "<p>Autres éléments de rémunération versés par l'employeur qui s'ajoutent au salaire de base du salarié. Ils font partie de la rémunération du salarié.Exemples : primes, avantages en nature, avantages en espèces…</p>",
+    "definition": "<p>Autres éléments de rémunération versés par l'employeur qui s'ajoutent au salaire de base du salarié. Ils font partie de la rémunération du salarié. Exemples : primes, avantages en nature, avantages en espèces…</p>",
     "refs": []
   },
   {
@@ -71,7 +71,7 @@
     "variants": [
       "accords atypiques"
     ],
-    "definition": "<p>Accord conclu entre l'employeur et des représentants du personnel ou des salariés sans respecter les règles de validité des accords collectifs de travail posées par le code du travail.Selon le juge ces accords ne sont pas nuls pour autant. Ils sont considérés comme des engagements unilatéraux de l'employeur et sont donc obligatoires pour l'employeur. </p>",
+    "definition": "<p>Accord conclu entre l'employeur et des représentants du personnel ou des salariés sans respecter les règles de validité des accords collectifs de travail posées par le code du travail. Selon le juge ces accords ne sont pas nuls pour autant. Ils sont considérés comme des engagements unilatéraux de l'employeur et sont donc obligatoires pour l'employeur. </p>",
     "refs": []
   },
   {
@@ -82,7 +82,7 @@
       "accords collectifs",
       "accords collectifs de travail"
     ],
-    "definition": "<p>Accord conclu entre un employeur ou des représentants d'employeurs et une ou plusieurs organisations syndicales ou des représentants de salariés, ou dans certains cas, à la suite de la consultation des salariés, en respectant des règles de validité issues du code du travail.Il peut être conclu à plusieurs niveaux : branche professionnelle, groupe, entreprise, établissement...L'accord collectif concerne un ou plusieurs thèmes contrairement à la convention collective qui traite de l'ensemble des conditions d’emploi, de travail et de formation professionnelle et des garanties sociales des salariés. </p>",
+    "definition": "<p>Accord conclu entre un employeur ou des représentants d'employeurs et une ou plusieurs organisations syndicales ou des représentants de salariés, ou dans certains cas, à la suite de la consultation des salariés, en respectant des règles de validité issues du code du travail. Il peut être conclu à plusieurs niveaux : branche professionnelle, groupe, entreprise, établissement... L'accord collectif concerne un ou plusieurs thèmes contrairement à la convention collective qui traite de l'ensemble des conditions d’emploi, de travail et de formation professionnelle et des garanties sociales des salariés. </p>",
     "refs": []
   },
   {
@@ -132,7 +132,7 @@
     "title": "Accord de méthode",
     "abbrs": "",
     "variants": [],
-    "definition": "<p>Accord conclu et négocié entre un employeur ou des représentants d'employeurs et une ou plusieurs organisations syndicales de salariés afin de définir en amont la méthode de négociation.Exemples : les principales étapes du déroulement de la négociation, la procédure d'information et consultation du comité social et économique dans le cadre des licenciements économiques collectifs. </p>",
+    "definition": "<p>Accord conclu et négocié entre un employeur ou des représentants d'employeurs et une ou plusieurs organisations syndicales de salariés afin de définir en amont la méthode de négociation. </p>",
     "refs": []
   },
   {
@@ -142,7 +142,7 @@
       "accord collectif dérogatoire",
       "accords dérogatoires"
     ],
-    "definition": "<p>Accord collectif dérogeant à ce que prévoit le code du travail. L'accord dérogatoire peut être conclu uniquement dans des domaines précis et en respectant certaines conditions fixées par la loi.Exemple : accord de performance collective.</p>",
+    "definition": "<p>Accord collectif dérogeant à ce que prévoit le code du travail. L'accord dérogatoire peut être conclu uniquement dans des domaines précis et en respectant certaines conditions fixées par la loi. </p>",
     "refs": []
   },
   {
@@ -171,14 +171,14 @@
     "variants": [
       "actes réglementaires"
     ],
-    "definition": "<p>Décision administrative à portée générale et impersonnelle.Exemple : arrêté pris par un maire ou un président de conseil départemental ou régional.A la différence des actes administratifs \"\"individuels\"\", qui s'adressent à des destinataires identifiables, les actes réglementaires ont une portée générale et impersonnelle et visent ou concernent des catégories envisagées abstraitement et dans leur ensemble. </p>",
+    "definition": "<p>Décision administrative à portée générale et impersonnelle. Exemple : arrêté pris par un maire ou un président de conseil départemental ou régional.</p>",
     "refs": []
   },
   {
     "title": "Actes positifs de recherche d'emploi",
     "abbrs": "",
     "variants": [],
-    "definition": "<p>Démarches régulières de recherche d'emploi pour lesquelles le demandeur d'emploi doit être en mesure de produire un justificatif.Exemples : candidatures envoyées, participation à des sessions d'aide à la recherche d'un emploi...</p>",
+    "definition": "<p>Démarches régulières de recherche d'emploi pour lesquelles le demandeur d'emploi doit être en mesure de produire un justificatif. Exemples : candidatures envoyées, participation à des sessions d'aide à la recherche d'un emploi...</p>",
     "refs": [
       {
         "url": "https://www.service-public.fr/particuliers/glossaire/R52115"
@@ -189,7 +189,7 @@
     "title": "Actionnariat des salariés",
     "abbrs": "",
     "variants": [],
-    "definition": "<p>Le fait pour les salariés de participer au capital d'une société notamment par le biais d'actions.Exemples : stock-options, attribution d'actions gratuites, augmentations de capital réservées aux adhérents des plans d'épargne entreprise...</p>",
+    "definition": "<p>Le fait pour les salariés de participer au capital d'une société notamment par le biais d'actions. Exemples : stock-options, attribution d'actions gratuites, augmentations de capital réservées aux adhérents des plans d'épargne entreprise...</p>",
     "refs": []
   },
   {
@@ -199,7 +199,7 @@
       "chômage partiel",
       "chômage technique"
     ],
-    "definition": "<p>Anciennement appelé \"chômage partiel\".Dispositif permettant à un employeur confronté à des difficultés conjoncturelles de réduire ou de suspendre temporairement l'activité de ses salariés pour maintenir leur emploi. L'employeur verse une indemnité au salarié et reçoit une allocation de l'Etat.</p>",
+    "definition": "<p>Anciennement appelé \"chômage partiel\". Dispositif permettant à un employeur confronté à des difficultés conjoncturelles de réduire ou de suspendre temporairement l'activité de ses salariés pour maintenir leur emploi. L'employeur verse une indemnité au salarié et reçoit une allocation de l'Etat.</p>",
     "refs": []
   },
   {
@@ -222,7 +222,7 @@
       "œuvres sociales",
       "activité sociale et culturelle"
     ],
-    "definition": "<p>Selon le juge, il s'agit de toute activité non obligatoire légalement exercée principalement au bénéfice du personnel de l'entreprise, sans discrimination, en vue d'améliorer les conditions collectives d'emploi, de travail et de vie du personnel au sein de l'entreprise.Exemples : titres-restaurants, crèches, bons d'achat, chèques-vacances, colonies de vacances, offres sportives et culturelles...Le comité social et économique assure, contrôle ou participe à la gestion de toutes les activités sociales et culturelles présentes dans l'entreprise.</p>",
+    "definition": "<p>Exemples : titres-restaurants, chèque-vacances. Selon le juge, il s'agit de toute activité non obligatoire légalement exercée principalement au bénéfice du personnel de l'entreprise, sans discrimination, en vue d'améliorer les conditions collectives d'emploi, de travail et de vie du personnel au sein de l'entreprise. Le comité social et économique assure, contrôle ou participe à la gestion de toutes les activités sociales et culturelles présentes dans l'entreprise.</p>",
     "refs": [
       {
         "url": "https://www.legifrance.gouv.fr/affichJuriJudi.do?idTexte=JURITEXT000006994396"
@@ -242,7 +242,7 @@
     "variants": [
       "maladie de longue durée"
     ],
-    "definition": "<p>Maladie grave et/ou chronique ouvrant droit à une prise en charge à 100% par l'assurance maladie.Exemples : diabète, cancer, mucoviscidose, infection par le virus de l'immunodéficience humaine (VIH), etc.</p>",
+    "definition": "<p>Maladie grave et/ou chronique ouvrant droit à une prise en charge à 100% par l'assurance maladie. Exemples : diabète, cancer, mucoviscidose, infection par le virus de l'immunodéficience humaine (VIH), etc.</p>",
     "refs": [
       {
         "url": "https://www.service-public.fr/particuliers/glossaire/R10877"
@@ -253,7 +253,7 @@
     "title": "Affiliation",
     "abbrs": "",
     "variants": [],
-    "definition": "<p>C'est le fait d'être rattaché.Affilié à la Sécurité Sociale : être rattaché au régime obligatoire de la Sécurité socialeAffilié à la mutuelle : être rattaché à la mutuelle. </p>",
+    "definition": "<p>C'est le fait d'être rattaché. Affilié à la Sécurité Sociale : être rattaché au régime obligatoire de la Sécurité sociale. Affilié à la mutuelle : être rattaché à la mutuelle. </p>",
     "refs": []
   },
   {
@@ -287,7 +287,7 @@
       "amplitude journalière",
       "amplitude de la journée de travail"
     ],
-    "definition": "<p>Durée entre la première prise de poste du salarié et la fin de la dernière prise de poste dans une journée de travail, temps de pause compris.Exemple : un salarié commence à 8h puis termine à 12h et reprend son travail à 15h et termine à 21h, son amplitude horaire est de 13 heures (temps écoulé entre 8h et 21h). </p>",
+    "definition": "<p>Durée entre la première prise de poste du salarié et la fin de la dernière prise de poste dans une journée de travail, temps de pause compris. Exemple : un salarié commence à 8h puis termine à 12h et reprend son travail à 15h et termine à 21h, son amplitude horaire est de 13 heures (temps écoulé entre 8h et 21h). </p>",
     "refs": []
   },
   {
@@ -383,7 +383,7 @@
     "title": "Audience électorale",
     "abbrs": "",
     "variants": [],
-    "definition": "<p>Pourcentage des suffrages (des votes) obtenus lors des élections professionnelles.Exemple : le syndicat X a obtenu 40% des suffrages aux dernières élections du Comité social et économique (CSE).</p>",
+    "definition": "<p>Pourcentage des suffrages (des votes) obtenus lors des élections professionnelles. Exemple : le syndicat X a obtenu 40% des suffrages aux dernières élections du Comité social et économique (CSE).</p>",
     "refs": []
   },
   {
@@ -399,14 +399,14 @@
     "title": "Avantages en nature",
     "abbrs": "",
     "variants": [],
-    "definition": "<p>Biens, produits ou services fournis par l'employeur à ses salariés gratuitement ou à un prix inférieur à leur valeur réelle et qui correspondent à des dépenses personnelles incombant normalement au salarié.Exemples : logement, nourriture gratuits ou à des prix préférentiels.</p>",
+    "definition": "<p>Biens, produits ou services fournis par l'employeur à ses salariés gratuitement ou à un prix inférieur à leur valeur réelle et qui correspondent à des dépenses personnelles incombant normalement au salarié. Exemples : logement, nourriture gratuits ou à des prix préférentiels.</p>",
     "refs": []
   },
   {
     "title": "Avenant",
     "abbrs": "",
     "variants": [],
-    "definition": "<p>Document complémentaire du contrat constatant une modification, une adaptation ou un complément qui y sont apportés d'un commun accord entre les deux parties.Exemples : avenant à l'accord collectif, avenant au contrat de travail...</p>",
+    "definition": "<p>Document complémentaire du contrat constatant une modification, une adaptation ou un complément qui y sont apportés d'un commun accord entre les deux parties. Exemples : avenant à l'accord collectif, avenant au contrat de travail...</p>",
     "refs": [
       {
         "url": "https://www.service-public.fr/particuliers/glossaire/R10829"
@@ -446,7 +446,7 @@
     "title": "Bilan social",
     "abbrs": "",
     "variants": [],
-    "definition": "<p>Document établi par l'employeur récapitulant les principales données chiffrées sur la situation sociale de l’entreprise de l'année écoulée et des deux années précédentes.Exemples des données présentes : emploi, rémunérations, conditions de travail, formation des salariés. </p>",
+    "definition": "<p>Document établi par l'employeur récapitulant les principales données chiffrées sur la situation sociale de l’entreprise de l'année écoulée et des deux années précédentes. Exemples des données présentes : emploi, rémunérations, conditions de travail, formation des salariés. </p>",
     "refs": []
   },
   {
@@ -464,7 +464,7 @@
     "variants": [
       "branches professionnelles"
     ],
-    "definition": "<p>Regroupement de plusieurs entreprises appartenant à un même secteur d'activité et relevant d'une convention collective.<br>Exemples : métallurgie, hôtels cafés et restaurants, coiffure, boulangerie-pâtisserie, banque, bâtiment, hospitalisation privée... </p>",
+    "definition": "<p>Regroupement de plusieurs entreprises appartenant à un même secteur d'activité et relevant d'une convention collective. Exemples : métallurgie, hôtels cafés et restaurants, coiffure, boulangerie-pâtisserie, bâtiment, hospitalisation privée... </p>",
     "refs": []
   },
   {
@@ -541,7 +541,7 @@
     "title": "Clause résolutoire",
     "abbrs": "",
     "variants": [],
-    "definition": "<p>Clause prévoyant la résiliation automatique du contrat en cas de manquement à une obligation contractuelle par l'une des parties.Exemple : non-paiement du loyer.</p>",
+    "definition": "<p>Clause prévoyant la résiliation automatique du contrat en cas de manquement à une obligation contractuelle par l'une des parties. Exemple : non-paiement du loyer.</p>",
     "refs": [
       {
         "url": "https://www.service-public.fr/particuliers/glossaire/R1061"
@@ -600,7 +600,7 @@
     "variants": [
       "congé spécial"
     ],
-    "definition": "<p>Congés autres que les congés payés pour articuler vie professionnelle et vie personnelle ou pour permettre un engagement associatif, politique ou militant ou entrepreneuriat.Exemples : congé pour enfant malade, congé sabbatique...</p>",
+    "definition": "<p>Congés autres que les congés payés pour articuler vie professionnelle et vie personnelle ou pour permettre un engagement associatif, politique ou militant ou entrepreneuriat. Exemples : congé pour enfant malade, congé sabbatique...</p>",
     "refs": []
   },
   {
@@ -744,7 +744,7 @@
     "title": "CSE",
     "abbrs": "",
     "variants": [],
-    "definition": "<p>Comité Social et Economique.Instance unique chargée de représenter le personnel dans une entreprise. Elle remplace les anciennes instances représentatives du personnel dans l'entreprise qui étaient les délégués du personnel, le comité d'entreprise et le CHSCT. Sa mise en place est obligatoire dans les entreprises dont l'effectif atteint 11 salariés pendant 12 mois consécutifs. Ses attributions évoluent en fonction des effectifs de l'entreprise. </p>",
+    "definition": "<p>Comité Social et Economique. Instance unique chargée de représenter le personnel dans une entreprise. Elle remplace les anciennes instances représentatives du personnel dans l'entreprise qui étaient les délégués du personnel, le comité d'entreprise et le CHSCT. Sa mise en place est obligatoire dans les entreprises dont l'effectif atteint 11 salariés pendant 12 mois consécutifs. Ses attributions évoluent en fonction des effectifs de l'entreprise. </p>",
     "refs": []
   },
   {
@@ -796,7 +796,7 @@
     "variants": [
       "délais de carence"
     ],
-    "definition": "<p>Délai qui doit s'écouler entre 2 événements.Exemples : Délai de carence entre 2 CDD, c'est-à-dire délai qui doit s'écouler entre la fin du premier CDD et le début du second CDD. Délai de carence de 3 jours en cas d'arrêt maladie entre le moment où l'arrêt maladie est fait et le moment du versement des indemnités journalières par le Caisse primaire d'assurance maladie. </p>",
+    "definition": "<p>Délai qui doit s'écouler entre 2 événements. Exemples : Délai de carence entre 2 CDD, c'est-à-dire délai qui doit s'écouler entre la fin du premier CDD et le début du second CDD. Délai de carence de 3 jours en cas d'arrêt maladie entre le moment où l'arrêt maladie est fait et le moment du versement des indemnités journalières par la CPAM. </p>",
     "refs": [
       {
         "url": "https://www.service-public.fr/particuliers/glossaire/R52042"
@@ -962,7 +962,7 @@
     "title": "Echelon",
     "abbrs": "",
     "variants": [],
-    "definition": "<p>Position du salarié dans la classification professionnelle établie par la convention collective applicable.Il se retrouve normalement sur le bulletin de paie du salarié. </p>",
+    "definition": "<p>Position du salarié dans la classification professionnelle établie par la convention collective applicable. Il se retrouve normalement sur le bulletin de paie du salarié. </p>",
     "refs": []
   },
   {
@@ -1127,7 +1127,7 @@
     "title": "Force majeure",
     "abbrs": "",
     "variants": [],
-    "definition": "<p>Événement exceptionnel, imprévisible et irrésistible justifiant de s'exonérer d'une obligation, d'un engagement ou d'une responsabilité.Exemple : catastrophe naturelle pour un contrat d'assurance...</p>",
+    "definition": "<p>Événement exceptionnel, imprévisible et irrésistible justifiant de s'exonérer d'une obligation, d'un engagement ou d'une responsabilité. Exemple : catastrophe naturelle pour un contrat d'assurance...</p>",
     "refs": [
       {
         "url": "https://www.service-public.fr/particuliers/glossaire/R38200"
@@ -1194,7 +1194,7 @@
     "title": "Heures complémentaires",
     "abbrs": "",
     "variants": [],
-    "definition": "<p>Pour un salarié à temps partiel, il s'agit des heures effectuées au-delà de la durée normale inscrite dans son contrat de travail sans pouvoir dépasser la durée légale de travail (35h).Exemple : un salarié a une durée de travail de 30h/semaine. S'il travaille 32h une semaine, il aura effectué 2 heures complémentaires. </p>",
+    "definition": "<p>Pour un salarié à temps partiel, il s'agit des heures effectuées au-delà de la durée normale inscrite dans son contrat de travail sans pouvoir dépasser la durée légale de travail (35h). Exemple : un salarié a une durée de travail de 30h/semaine. S'il travaille 32h une semaine, il aura effectué 2 heures complémentaires. </p>",
     "refs": []
   },
   {
@@ -1224,7 +1224,7 @@
     "title": "Hyperbare",
     "abbrs": "",
     "variants": [],
-    "definition": "<p>Lieu où la pression est supérieure à la pression atmosphérique.Exemples : sous l'eau, caisson hyperbare, enceinte de confinement de réacteur nucléaire, etc.</p>",
+    "definition": "<p>Lieu où la pression est supérieure à la pression atmosphérique. Exemples : sous l'eau, caisson hyperbare, enceinte de confinement de réacteur nucléaire, etc.</p>",
     "refs": [
       {
         "url": "https://www.service-public.fr/particuliers/glossaire/R46445"
@@ -1235,7 +1235,7 @@
     "title": "IDCC",
     "abbrs": "",
     "variants": [],
-    "definition": "<p>« Identifiant Des Conventions Collectives ». Numéro de 1 à 4 chiffres sous lequel une convention collective est enregistrée.Un IDCC est automatiquement attribué à toute nouvelle convention collective. Il permet de repérer sans confusion possible une convention puisqu’un numéro correspond à une seule convention. </p>",
+    "definition": "<p>« Identifiant Des Conventions Collectives ». Numéro de 1 à 4 chiffres sous lequel une convention collective est enregistrée. Un IDCC est automatiquement attribué à toute nouvelle convention collective. Il permet de repérer sans confusion possible une convention puisqu’un numéro correspond à une seule convention. </p>",
     "refs": [
       {}
     ]
@@ -1558,7 +1558,7 @@
     "title": "Minimum garanti",
     "abbrs": "MG",
     "variants": [],
-    "definition": "<p>Valeur minimale en euros servant de référence pour le calcul de nombreux avantages et indemnités : avantages en nature (nourriture, logement...), frais professionnels (repas, déplacements..) et allocations sociales...A ne pas confondre avec le SMIC.</p>",
+    "definition": "<p>Valeur minimale en euros servant de référence pour le calcul de nombreux avantages et indemnités : avantages en nature (nourriture, logement...), frais professionnels (repas, déplacements..) et allocations sociales... A ne pas confondre avec le SMIC.</p>",
     "refs": []
   },
   {
@@ -1689,7 +1689,7 @@
     "title": "Outplacement",
     "abbrs": "",
     "variants": [],
-    "definition": "<p>Egalement appelé reclassement externe, il s'agit d'un processus d’accompagnement du salarié vers un emploi en dehors de son entreprise d’origine. Cet accompagnement est souvent effectué par des cabinets spécialisés.Exemple : dans le cadre d'un licenciement économique.</p>",
+    "definition": "<p>Egalement appelé reclassement externe, il s'agit d'un processus d’accompagnement du salarié vers un emploi en dehors de son entreprise d’origine. Exemple : dans le cadre d'un licenciement économique.</p>",
     "refs": []
   },
   {
@@ -1806,7 +1806,7 @@
     "title": "Préavis",
     "abbrs": "",
     "variants": [],
-    "definition": "<p>Délai qui s'écoule entre la notification d'un licenciement ou d'une démission et la date de fin du contrat de travail.Exemple : un salarié qui donne sa démission le 1er juillet et qui a un préavis de 3 mois à effectuer, cela signifie que le salarié ne partira de l'entreprise que le 30 septembre au soir. </p>",
+    "definition": "<p>Délai qui s'écoule entre la notification d'un licenciement ou d'une démission et la date de fin du contrat de travail. Exemple : un salarié qui donne sa démission le 1er juillet et qui a un préavis de 3 mois à effectuer, cela signifie que le salarié ne partira de l'entreprise que le 30 septembre au soir. </p>",
     "refs": []
   },
   {
@@ -1979,7 +1979,7 @@
     "variants": [
       "rescrits"
     ],
-    "definition": "<p>Procédure qui permet d'interroger une administration sur l'application d'un texte de loi à sa situation. L’administration est ensuite liée par sa décision tant que la loi ou la situation de la personne qui a demandé le rescrit ne changent pas.<br>Exemples : rescrit aides à l'emploi, rescrit sur le règlement intérieur de l'entreprise, rescrits égalité professionnelle et handicap... </p>",
+    "definition": "<p>Procédure qui permet d'interroger une administration sur l'application d'un texte de loi à sa situation. L’administration est ensuite liée par sa décision tant que la loi ou la situation de la personne qui a demandé le rescrit ne changent pas. Exemples : rescrit aides à l'emploi, rescrit sur le règlement intérieur de l'entreprise, rescrits égalité professionnelle et handicap... </p>",
     "refs": []
   },
   {
@@ -2062,7 +2062,7 @@
     "variants": [
       "sanctions disciplinaires"
     ],
-    "definition": "<p>Toute mesure, autre que les observations verbales, prise par l'employeur à la suite d'un agissement du salarié considéré par l'employeur comme fautif. Cette mesure peut être de nature à affecter immédiatement ou non la présence du salarié dans l'entreprise, sa fonction, sa carrière ou sa rémunération.Exemples : avertissement, mise à pied disciplinaire, rétrogradation disciplinaire, mutation disciplinaire... </p>",
+    "definition": "<p>Toute mesure, autre que les observations verbales, prise par l'employeur à la suite d'un agissement du salarié considéré par l'employeur comme fautif. Cette mesure peut être de nature à affecter immédiatement ou non la présence du salarié dans l'entreprise, sa fonction, sa carrière ou sa rémunération. Exemples : avertissement, mise à pied disciplinaire, rétrogradation disciplinaire, mutation disciplinaire... </p>",
     "refs": []
   },
   {
@@ -2094,7 +2094,7 @@
     "title": "Seuil d'effectifs",
     "abbrs": "",
     "variants": [],
-    "definition": "<p>Nombre de salariés dans l'entreprise ou l'établissement qui une fois franchi entraîne des obligations.Exemple : seuil d'effectifs de 11 salariés qui entraîne une fois dépassé l'obligation de mettre en place un comité social et économique. </p>",
+    "definition": "<p>Nombre de salariés dans l'entreprise ou l'établissement qui une fois franchi entraîne des obligations. Exemple : seuil d'effectifs de 11 salariés qui entraîne une fois dépassé l'obligation de mettre en place un comité social et économique. </p>",
     "refs": []
   },
   {
@@ -2136,7 +2136,7 @@
     "title": "Subrogation",
     "abbrs": "",
     "variants": [],
-    "definition": "<p>Opération par laquelle une personne ou une chose est substituée à une autre.Exemple : subrogation de l'employeur par laquelle l'employeur se substitue au salarié afin de percevoir les indemnités maladie versées par le Sécurité sociale en échange de quoi, l'employeur maintien à une certaine hauteur le salaire du salarié. \"</p>",
+    "definition": "<p>Opération par laquelle une personne ou une chose est substituée à une autre. Exemple : subrogation de l'employeur par laquelle l'employeur se substitue au salarié afin de percevoir les indemnités maladie versées par le Sécurité sociale en échange de quoi, l'employeur maintien à une certaine hauteur le salaire du salarié. \"</p>",
     "refs": []
   },
   {
@@ -2161,7 +2161,7 @@
     "title": "Suspension du contrat de travail",
     "abbrs": "",
     "variants": [],
-    "definition": "<p>Les effets du contrat de travail (l'exécution d'un travail par le salarié et le paiement d'un salaire par l'employeur) sont interrompus temporairement sans qu'il y ait rupture du contrat. Attention, certaines obligations subsistent le temps de la suspension.Exemples : la maladie, congé maternité, congé sabbatique, chômage partiel, grève...</p>",
+    "definition": "<p>Les effets du contrat de travail (l'exécution d'un travail par le salarié et le paiement d'un salaire par l'employeur) sont interrompus temporairement sans qu'il y ait rupture du contrat. Attention, certaines obligations subsistent le temps de la suspension. Exemples : la maladie, congé maternité, congé sabbatique, chômage partiel, grève...</p>",
     "refs": []
   },
   {
@@ -2193,14 +2193,14 @@
     "title": "Terme imprécis",
     "abbrs": "",
     "variants": [],
-    "definition": "<p>Il n'y a pas de date de fin du contrat précise et fixée mais il existe une durée minimale. La fin du contrat est indéterminée et arrive au moment de la survenance d'un événement ou la réalisation de l'objet du contrat.Exemple : CDD du 15 juillet jusqu'au retour du salarié remplacé. </p>",
+    "definition": "<p>Il n'y a pas de date de fin du contrat précise et fixée mais il existe une durée minimale. La fin du contrat est indéterminée et arrive au moment de la survenance d'un événement ou la réalisation de l'objet du contrat. Exemple : CDD du 15 juillet jusqu'au retour du salarié remplacé. </p>",
     "refs": []
   },
   {
     "title": "Terme précis",
     "abbrs": "",
     "variants": [],
-    "definition": "<p>Il existe une date de fin précise ou une durée définie du contrat.Exemple : un CDD du 15 juillet 2019 au 30 août 2019 ou un CDD de 6 mois. </p>",
+    "definition": "<p>Il existe une date de fin précise ou une durée définie du contrat. Exemple : un CDD du 15 juillet 2019 au 30 août 2019 ou un CDD de 6 mois. </p>",
     "refs": []
   },
   {
