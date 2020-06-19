@@ -27,7 +27,7 @@
     "remark-html": "^11.0.2"
   },
   "devDependencies": {
-    "@socialgouv/eslint-config-recommended": "^0.30.0",
+    "@socialgouv/eslint-config-recommended": "^0.31.0",
     "@types/jest": "^26.0.0",
     "@types/node": "^13.13.5",
     "@types/node-fetch": "^2.5.7",
