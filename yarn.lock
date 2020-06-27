@@ -478,13 +478,13 @@
   dependencies:
     "@sinonjs/commons" "^1.7.0"
 
-"@socialgouv/eslint-config-recommended@^1.0.1":
-  version "1.0.1"
-  resolved "https://registry.yarnpkg.com/@socialgouv/eslint-config-recommended/-/eslint-config-recommended-1.0.1.tgz#dbe9b0489836b64e5fdd091d4e39051f1add2957"
-  integrity sha512-g/AcF3L0MhraIk56uST7FUHYchRIgp9GFMMuqo3kIVCT+XfoMvqS39hvkJNv3JR0LirUoVJIiGfhp/mLzPHMqg==
+"@socialgouv/eslint-config-recommended@^1.1.0":
+  version "1.1.0"
+  resolved "https://registry.yarnpkg.com/@socialgouv/eslint-config-recommended/-/eslint-config-recommended-1.1.0.tgz#b3bc6bdc3fc3e693babee5a11d672c4080105eca"
+  integrity sha512-kc1qi/ze/IM7Z+5itfUqgOukM4KKQgLyrpAU0ysyO6u0RCHM2KwPGgmX6rGLcESMcKbHcW6b42W5rUYIdlTciw==
   dependencies:
     eslint-config-prettier "~6.11.0"
-    eslint-plugin-import "~2.21.2"
+    eslint-plugin-import "~2.22.0"
     eslint-plugin-jest "~23.17.0"
     eslint-plugin-prettier "~3.1.4"
     eslint-plugin-simple-import-sort "~5.0.3"
@@ -1516,10 +1516,10 @@ eslint-module-utils@^2.6.0:
     debug "^2.6.9"
     pkg-dir "^2.0.0"
 
-eslint-plugin-import@~2.21.2:
-  version "2.21.2"
-  resolved "https://registry.yarnpkg.com/eslint-plugin-import/-/eslint-plugin-import-2.21.2.tgz#8fef77475cc5510801bedc95f84b932f7f334a7c"
-  integrity sha512-FEmxeGI6yaz+SnEB6YgNHlQK1Bs2DKLM+YF+vuTk5H8J9CLbJLtlPvRFgZZ2+sXiKAlN5dpdlrWOjK8ZoZJpQA==
+eslint-plugin-import@~2.22.0:
+  version "2.22.0"
+  resolved "https://registry.yarnpkg.com/eslint-plugin-import/-/eslint-plugin-import-2.22.0.tgz#92f7736fe1fde3e2de77623c838dd992ff5ffb7e"
+  integrity sha512-66Fpf1Ln6aIS5Gr/55ts19eUuoDhAbZgnr6UxK5hbDx6l/QgQgx61AePq+BV4PP2uXQFClgMVzep5zZ94qqsxg==
   dependencies:
     array-includes "^3.1.1"
     array.prototype.flat "^1.2.3"
