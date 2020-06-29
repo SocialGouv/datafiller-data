@@ -1461,18 +1461,20 @@
     "title": "Licenciement pour motif économique",
     "abbrs": "",
     "variants": [
-      "licenciement motif économique"
+      "licenciement motif économique",
+      "licenciement économique"
     ],
-    "definition": "<p>Licenciement fondé sur un motif non lié à la personne du salarié mais lié à l'activité de l'entreprise ou à sa situation économique. Le licenciement pour motif économique peut être justifié soit par des difficultés économiques de l'entreprise, soit par des mutations technologiques, soit par une réorganisation de l'entreprise nécessaire à son adaptation au contexte économique, soit par une cessation d'activité de l'entreprise. </p>",
+    "definition": "<p>Licenciement fondé sur un motif non lié à la personne du salarié mais lié à l'activité de l'entreprise ou à sa situation économique. Il peut être justifié soit par des difficultés économiques de l'entreprise, soit par des mutations technologiques, soit par une réorganisation de l'entreprise nécessaire à la sauvegarde de sa compétitivité, soit par une cessation d'activité de l'entreprise. </p>",
     "refs": []
   },
   {
     "title": "Licenciement pour motif personnel",
     "abbrs": "",
     "variants": [
-      "licenciement motif personnel"
+      "licenciement motif personnel",
+      "licenciement personnel"
     ],
-    "definition": "<p>Licenciement basé sur un motif lié à la personne du salarié. Cela se distingue du licenciement pour motif économique qui lui est basé sur un motif non lié à la personne du salarié et lié à l'activité de l'entreprise ou à sa situation économique.</p>",
+    "definition": "<p>Licenciement basé sur un motif lié à la personne du salarié. Il se distingue du licenciement pour motif économique, qui lui est basé sur un motif non lié à la personne du salarié et lié à l'activité de l'entreprise ou à sa situation économique.</p>",
     "refs": []
   },
   {
@@ -1482,7 +1484,7 @@
       "licenciement abusif",
       "licenciement injustifié"
     ],
-    "definition": "<p>Licenciement injustifié, c'est-à-dire qui n'a pas de motif réel et sérieux pour justifier le licenciement. </p>",
+    "definition": "<p>Licenciement injustifié, l'employeur n'a pas de motif réel et sérieux pour justifier le licenciement. </p>",
     "refs": []
   },
   {
@@ -1564,14 +1566,20 @@
   {
     "title": "Mise à pied conservatoire",
     "abbrs": "",
-    "variants": [],
+    "variants": [
+      "mise à pied à titre conservatoire",
+      "mis à pied conservatoire",
+      "mis à pied à titre conservatoire"
+    ],
     "definition": "<p>Suspension provisoire du contrat de travail faisant suite à une faute du salarié dont la gravité rend impossible son maintien dans l'entreprise pendant le déroulement de la procédure disciplinaire et qui prend fin avec le prononcé de la sanction définitive. La mise à pied conservatoire n'est pas une sanction disciplinaire.</p>",
     "refs": []
   },
   {
     "title": "Mise à pied disciplinaire",
     "abbrs": "MPD",
-    "variants": [],
+    "variants": [
+      "mise à pied à titre disciplinaire"
+    ],
     "definition": "<p>Sanction visant à suspendre temporairement le contrat de travail et la rémunération du salarié ayant eu un comportement fautif.</p>",
     "refs": [
       {
@@ -1805,8 +1813,11 @@
   {
     "title": "Préavis",
     "abbrs": "",
-    "variants": [],
-    "definition": "<p>Délai qui s'écoule entre la notification d'un licenciement ou d'une démission et la date de fin du contrat de travail. Exemple : un salarié qui donne sa démission le 1er juillet et qui a un préavis de 3 mois à effectuer, cela signifie que le salarié ne partira de l'entreprise que le 30 septembre au soir. </p>",
+    "variants": [
+      "délai congé",
+      "délai-congé"
+    ],
+    "definition": "<p>Délai qui s'écoule entre la notification de la rupture du contrat de travail (licenciement, démission, etc.) et la date de fin du contrat de travail. Exemple : un salarié qui donne sa démission le 1er juillet et qui a un préavis de 3 mois à effectuer, cela signifie que le salarié ne quittera l'entreprise que le 30 septembre au soir. </p>",
     "refs": []
   },
   {
