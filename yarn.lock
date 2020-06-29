@@ -478,10 +478,10 @@
   dependencies:
     "@sinonjs/commons" "^1.7.0"
 
-"@socialgouv/eslint-config-recommended@^1.2.0":
-  version "1.2.0"
-  resolved "https://registry.yarnpkg.com/@socialgouv/eslint-config-recommended/-/eslint-config-recommended-1.2.0.tgz#ecc1f3281e209c1586b029e8f414c38d8ff7573e"
-  integrity sha512-+6OFPsSuUDGKpAutM0mEEnjA8eNJKUyEEEFd5bjcqxZG0AIXL/vDizyNweIvW72kDXYyVS4VXwXONwbHL7Fa8w==
+"@socialgouv/eslint-config-recommended@^1.4.0":
+  version "1.4.0"
+  resolved "https://registry.yarnpkg.com/@socialgouv/eslint-config-recommended/-/eslint-config-recommended-1.4.0.tgz#80d09d7417b6aae062591242db5f6ae81e9dbf6e"
+  integrity sha512-TUusOvSZKrppYI9HA8gAzbGG592WtjcE7XrjeDPw8OGEcC5hDxvd5K11mAXn1z/tKoHhuLAeUyy/lOSvvr/vpA==
   dependencies:
     eslint-config-prettier "~6.11.0"
     eslint-plugin-import "~2.22.0"
