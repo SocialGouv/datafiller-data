@@ -8415,8 +8415,8 @@
     ],
     "refs": [
       {
-        "url": "/fiche-service-public/gratification-minimale-dun-stagiaire",
-        "title": "Gratification minimale d'un stagiaire",
+        "url": "/fiche-service-public/gratification-minimale-dun-stagiaire-etudiant-ou-eleve-dans-une-entreprise",
+        "title": "Gratification minimale d'un stagiaire étudiant ou élève dans une entreprise",
         "position": 1
       },
       {
@@ -10306,8 +10306,8 @@
     ],
     "refs": [
       {
-        "url": "/fiche-service-public/comment-se-procurer-un-extrait-k-ou-kbis",
-        "title": "/fiche-service-public/comment-se-procurer-un-extrait-k-ou-kbis",
+        "url": "/fiche-service-public/comment-obtenir-un-extrait-k-ou-kbis",
+        "title": "Comment obtenir un extrait K ou Kbis ?",
         "position": 1
       }
     ]
@@ -14821,8 +14821,8 @@
     ],
     "refs": [
       {
-        "url": "/fiche-service-public/que-faire-en-cas-de-suspension-ou-de-retrait-dagrement-de-votre-assistante-maternelle",
-        "title": "Que faire en cas de suspension ou de retrait d'agrément de votre assistante maternelle ?"
+        "url": "/fiche-service-public/que-faire-si-lagrement-dune-assistante-maternelle-est-suspendu-ou-retire",
+        "title": "Que faire si l'agrément d'une assistante maternelle est suspendu ou retiré ?"
       },
       {
         "url": "/fiche-service-public/mettre-fin-au-contrat-dune-assistante-maternelle",
@@ -16205,8 +16205,13 @@
     ],
     "refs": [
       {
-        "url": "/fiche-service-public/versement-transport",
-        "title": "Versement transport",
+        "url": "/fiche-service-public/le-temps-de-trajet-du-salarie-donne-t-il-droit-a-une-compensation-salariale",
+        "title": "Le temps de trajet du salarié donne-t-il droit à une compensation salariale ?",
+        "position": 0
+      },
+      {
+        "url": "/fiche-service-public/versement-mobilite-transport",
+        "title": "Versement mobilité transport",
         "position": 1
       },
       {
@@ -16218,6 +16223,11 @@
         "url": "/code-du-travail/r3261-10",
         "title": "R3261-10",
         "position": 3
+      },
+      {
+        "url": "/fiche-service-public/quest-ce-quun-accident-de-trajet",
+        "title": "Qu'est-ce qu'un accident de trajet ?",
+        "position": 4
       }
     ]
   },
