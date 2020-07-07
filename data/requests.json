@@ -586,11 +586,6 @@
         "url": "/fiche-service-public/les-periodes-de-chomage-sont-elles-prises-en-compte-pour-la-retraite",
         "title": "Les périodes de chômage sont-elles prises en compte pour la retraite ?",
         "position": 14
-      },
-      {
-        "url": "/fiche-service-public/secteur-prive-activite-partielle-du-salarie",
-        "title": "Secteur privé : activité partielle du salarié",
-        "position": 15
       }
     ]
   },
@@ -2755,11 +2750,6 @@
         "position": 1
       },
       {
-        "url": "/fiche-service-public/secteur-prive-activite-partielle-du-salarie",
-        "title": "Secteur privé : activité partielle du salarié",
-        "position": 5
-      },
-      {
         "url": "/fiche-service-public/remuneration-dun-salarie-en-chomage-partiel-activite-partielle",
         "title": "Rémunération d'un salarié en chômage partiel (activité partielle)",
         "position": 6
@@ -2768,11 +2758,6 @@
         "url": "/fiche-service-public/activite-partielle-demarches-de-lemployeur-chomage-partiel-ou-technique",
         "title": "Activité partielle : démarches de l'employeur (chômage partiel ou technique)",
         "position": 7
-      },
-      {
-        "url": "/external/simulateur-dactivite-partielle",
-        "title": "Simulateur d’activité partielle",
-        "position": 8
       },
       {
         "url": "/code-du-travail/l5122-1",

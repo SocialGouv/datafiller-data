@@ -3338,9 +3338,6 @@
         "url": "/fiche-service-public/liquidation-judiciaire"
       },
       {
-        "url": "/fiche-service-public/secteur-prive-activite-partielle-du-salarie"
-      },
-      {
         "url": "/fiche-service-public/sauvegarde"
       }
     ],
@@ -5316,40 +5313,20 @@
         "url": "/fiche-service-public/licenciement-illegal-le-salarie-doit-il-rembourser-les-indemnites-de-chomage"
       },
       {
-        "title": "La procédure en cas de licenciement pour motif personnel : en quoi consiste l’entretien préalable ?",
-        "url": "/fiche-ministere-travail/la-procedure-en-cas-de-licenciement-pour-motif-personnel#En-quoi-consiste-l-entretien-prealable"
-      },
-      {
-        "title": "La procédure en cas de licenciement pour motif personnel : quel est le contenu de la lettre de licenciement ?",
-        "url": "/fiche-ministere-travail/la-procedure-en-cas-de-licenciement-pour-motif-personnel#Quel-est-le-contenu-de-la-lettre-de-licenciement"
-      },
-      {
-        "title": "La procédure en cas de licenciement pour motif personnel : quelles sont les règles applicables au préavis ?",
-        "url": "/fiche-ministere-travail/la-procedure-en-cas-de-licenciement-pour-motif-personnel#Quelles-sont-les-regles-applicables-au-preavis"
-      },
-      {
-        "title": "La procédure en cas de licenciement pour motif personnel : quelles sont les sanctions encourues ?",
-        "url": "/fiche-ministere-travail/la-procedure-en-cas-de-licenciement-pour-motif-personnel#Quelles-sont-les-sanctions-encourues"
-      },
-      {
-        "title": "Le licenciement pour motif personnel : qu’est ce qu’une cause réelle et sérieuse ?",
-        "url": "/fiche-ministere-travail/le-licenciement-pour-motif-personnel-les-causes-possibles-les-sanctions-applicables#Qu-est-ce-qu-une-cause-reelle-et-serieuse"
-      },
-      {
-        "title": "Le licenciement pour motif personnel : qu’est ce qu’un motif personnel ?",
-        "url": "/fiche-ministere-travail/le-licenciement-pour-motif-personnel-les-causes-possibles-les-sanctions-applicables#Qu-est-ce-qu-un-motif-personnel"
-      },
-      {
-        "title": "Le licenciement pour motif personnel : existe-t-il des motifs de licenciement interdits ?",
-        "url": "/fiche-ministere-travail/le-licenciement-pour-motif-personnel-les-causes-possibles-les-sanctions-applicables#Existe-t-il-des-motifs-de-licenciement-interdits"
-      },
-      {
         "title": "Modèle : convocation à un entretien préalable au licenciement pour motif personnel",
         "url": "/modeles-de-courriers/convocation-a-un-entretien-prealable-au-licenciement-pour-motif-personnel"
       },
       {
         "title": "Qu'est-ce qu'un abandon de poste par un salarié dans le secteur privé ?",
         "url": "/fiche-service-public/quest-ce-quun-abandon-de-poste-par-un-salarie-dans-le-secteur-prive"
+      },
+      {
+        "title": "",
+        "url": "/fiche-ministere-travail/le-licenciement-pour-motif-personnel-les-causes-possibles-les-sanctions-applicables"
+      },
+      {
+        "title": "",
+        "url": "/fiche-ministere-travail/la-procedure-en-cas-de-licenciement-pour-motif-personnel"
       }
     ],
     "title": "Licenciement pour motif personnel",
@@ -5780,44 +5757,12 @@
         "url": "/fiche-service-public/comment-deposer-un-accord-dentreprise"
       },
       {
-        "title": "TéléAccords",
-        "url": "/external/teleaccords"
+        "title": "",
+        "url": "/fiche-ministere-travail/les-negociations-obligatoires-dans-lentreprise-theme-periodicite-et-deroulement"
       },
       {
-        "title": "Les négociations obligatoires dans l’entreprise : quelles sont les dispositions d’ordre public ?",
-        "url": "/fiche-ministere-travail/les-negociations-obligatoires-dans-lentreprise-theme-periodicite-et-deroulement#Quelles-sont-les-dispositions-d-ordre-public"
-      },
-      {
-        "title": "Les négociations obligatoires dans l’entreprise : quel est le champ ouvert à la négociation collective ?",
-        "url": "/fiche-ministere-travail/les-negociations-obligatoires-dans-lentreprise-theme-periodicite-et-deroulement#Quel-est-le-champ-ouvert-a-la-negociation-collective"
-      },
-      {
-        "title": "Les négociations obligatoires dans l’entreprise : quelles sont les dispositions applicables à défaut d’accord ? (dispositions « supplétives »)",
-        "url": "/fiche-ministere-travail/les-negociations-obligatoires-dans-lentreprise-theme-periodicite-et-deroulement#Quelles-sont-les-dispositions-applicables-a-defaut-d-accord-dispositions-nbsp"
-      },
-      {
-        "title": "Les négociations obligatoires dans l’entreprise : quelles sont les modalités de la négociation ?",
-        "url": "/fiche-ministere-travail/les-negociations-obligatoires-dans-lentreprise-theme-periodicite-et-deroulement#Quelles-sont-les-modalites-de-la-negociation"
-      },
-      {
-        "title": "Les négociations obligatoires dans l’entreprise : quelles sont les sanctions en l’absence de négociation ?",
-        "url": "/fiche-ministere-travail/les-negociations-obligatoires-dans-lentreprise-theme-periodicite-et-deroulement#Quelles-sont-les-sanctions-en-l-absence-de-negociation"
-      },
-      {
-        "title": "GPEC au niveau de l’entreprise",
-        "url": "/fiche-ministere-travail/gestion-previsionnelle-de-lemploi-et-des-competences-gpec#GPEC-au-niveau-de-l-entreprise"
-      },
-      {
-        "title": "GPEC au niveau d’une branche professionnelle",
-        "url": "/fiche-ministere-travail/gestion-previsionnelle-de-lemploi-et-des-competences-gpec#GPEC-au-niveau-d-une-branche-professionnelle"
-      },
-      {
-        "title": "GPEC au niveau d’un territoire (GPEC T)",
-        "url": "/fiche-ministere-travail/gestion-previsionnelle-de-lemploi-et-des-competences-gpec#GPEC-au-niveau-d-un-territoire-GPEC-T"
-      },
-      {
-        "title": "Quels outils de l’État pour appuyer des démarches de GPEC ?",
-        "url": "/fiche-ministere-travail/gestion-previsionnelle-de-lemploi-et-des-competences-gpec#Quels-outils-de-l-Etat-pour-appuyer-des-demarches-de-GPEC"
+        "title": "",
+        "url": "/fiche-ministere-travail/gestion-previsionnelle-de-lemploi-et-des-competences-gpec"
       }
     ],
     "title": "Négociations dans l'entreprise",
@@ -7752,6 +7697,10 @@
     "refs": [
       {
         "url": "/fiche-service-public/rupture-conventionnelle"
+      },
+      {
+        "title": "",
+        "url": "/fiche-ministere-travail/la-rupture-conventionnelle-du-contrat-de-travail-a-duree-indeterminee"
       }
     ],
     "title": "Rupture conventionnelle",
@@ -7829,36 +7778,8 @@
         "url": "/modeles-de-courriers/demande-de-rendez-vous-en-vue-dune-rupture-conventionnelle"
       },
       {
-        "title": "La rupture conventionnelle du contrat de travail à durée indéterminée : en quoi consiste la rupture conventionnelle ?",
-        "url": "/fiche-ministere-travail/la-rupture-conventionnelle-du-contrat-de-travail-a-duree-indeterminee#En-quoi-consiste-la-rupture-conventionnelle"
-      },
-      {
-        "title": "La rupture conventionnelle du contrat de travail à durée indéterminée : quelle est la procédure ?",
-        "url": "/fiche-ministere-travail/la-rupture-conventionnelle-du-contrat-de-travail-a-duree-indeterminee#Quelle-est-la-procedure"
-      },
-      {
-        "title": "La rupture conventionnelle du contrat de travail à durée indéterminée : quel est le contenu de la convention ?",
-        "url": "/fiche-ministere-travail/la-rupture-conventionnelle-du-contrat-de-travail-a-duree-indeterminee#Quel-est-le-contenu-de-la-convention"
-      },
-      {
-        "title": "La rupture conventionnelle du contrat de travail à durée indéterminée : peut-on se rétracter ?",
-        "url": "/fiche-ministere-travail/la-rupture-conventionnelle-du-contrat-de-travail-a-duree-indeterminee#Peut-on-se-retracter"
-      },
-      {
-        "title": "La rupture conventionnelle du contrat de travail à durée indéterminée : en quoi consiste l’homologation de la convention ?",
-        "url": "/fiche-ministere-travail/la-rupture-conventionnelle-du-contrat-de-travail-a-duree-indeterminee#En-quoi-consiste-l-homologation-de-la-convention"
-      },
-      {
-        "title": "La rupture conventionnelle du contrat de travail à durée indéterminée : les salariés « protégés » sont-ils concernés ?",
-        "url": "/fiche-ministere-travail/la-rupture-conventionnelle-du-contrat-de-travail-a-duree-indeterminee#Les-salaries-lt-lt-proteges-sont-ils-concernes"
-      },
-      {
-        "title": "La rupture conventionnelle du contrat de travail à durée indéterminée : un recours juridictionnel est-il possible ?",
-        "url": "/fiche-ministere-travail/la-rupture-conventionnelle-du-contrat-de-travail-a-duree-indeterminee#Un-recours-juridictionnel-est-il-possible"
-      },
-      {
-        "title": "La rupture conventionnelle du contrat de travail à durée indéterminée : quelles sont les indemnités dues au salarié ?",
-        "url": "/fiche-ministere-travail/la-rupture-conventionnelle-du-contrat-de-travail-a-duree-indeterminee#Quelles-sont-les-indemnites-dues-au-salarie"
+        "title": "",
+        "url": "/fiche-ministere-travail/la-rupture-conventionnelle-du-contrat-de-travail-a-duree-indeterminee"
       }
     ],
     "title": "Rupture conventionnelle individuelle",
