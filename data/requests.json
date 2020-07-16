@@ -319,6 +319,53 @@
     ]
   },
   {
+    "title": "affichage obligatoire",
+    "variants": [
+      "affichage obligatoire",
+      "affichage  syndical",
+      "affichages",
+      "panneau d'affichage",
+      "affichage à destination des salariés"
+    ],
+    "refs": [
+      {
+        "url": "/fiche-service-public/quelles-sont-les-obligations-daffichage-dans-une-entreprise",
+        "title": "Quelles sont les obligations d'affichage dans une entreprise ?",
+        "position": 0
+      },
+      {
+        "url": "/modeles-de-courriers/affichage-obligatoire-relatif-au-harcelement-sexuel",
+        "title": "Affichage obligatoire relatif au harcèlement sexuel",
+        "position": 1
+      },
+      {
+        "url": "/fiche-ministere-travail/amenagement-du-temps-de-travail#Quelles-sont-les-obligations-d-information-de-l-employeur",
+        "title": "Aménagement du temps de travail : quelles sont les obligations d’information de l’employeur ?",
+        "position": 2
+      },
+      {
+        "url": "/fiche-service-public/comment-consulter-un-accord-dentreprise",
+        "title": "Comment consulter un accord d'entreprise ?",
+        "position": 3
+      },
+      {
+        "url": "/fiche-service-public/comment-consulter-une-convention-collective",
+        "title": "Comment consulter une convention collective ?",
+        "position": 4
+      },
+      {
+        "url": "/fiche-ministere-travail/les-delegues-syndicaux#Quels-sont-les-moyens-des-delegues-syndicaux",
+        "title": "Les délégués syndicaux : quels sont les moyens des délégués syndicaux ?",
+        "position": 5
+      },
+      {
+        "url": "/fiche-service-public/delegue-syndical",
+        "title": "Délégué syndical",
+        "position": 6
+      }
+    ]
+  },
+  {
     "title": "ai-je le droit à l'allocation chômage en cas de rupture conventionnelle ?",
     "variants": [
       "ai je le droit à l'allocation chômage en cas de rupture conventionnelle ?",
@@ -713,6 +760,61 @@
     ]
   },
   {
+    "title": "ancienneté",
+    "variants": [
+      "ancienneté",
+      "prime d'ancienneté",
+      "licenciement ancienneté",
+      "déterminer ancienneté",
+      "ancienneté convention collective",
+      "calcul de l'ancienneté",
+      "condition d'ancienneté",
+      "condition liée à l'ancienneté",
+      "projet de transition professionnelle ancienneté",
+      "Elections des représentants du personnel ancienneté"
+    ],
+    "refs": [
+      {
+        "url": "/contribution/comment-determiner-lanciennete-du-salarie",
+        "title": "Comment déterminer l'ancienneté du salarié ?",
+        "position": 0
+      },
+      {
+        "url": "/fiche-service-public/elections-professionnelles-obligations-de-lemployeur",
+        "title": "Élections professionnelles : obligations de l'employeur"
+      },
+      {
+        "url": "/fiche-ministere-travail/projet-de-transition-professionnelle#Quelles-conditions-dois-je-remplir-pour-pouvoir-utiliser-mon-projet-de-nbsp",
+        "title": "Projet de transition professionnelle : quelles conditions dois-je remplir pour pouvoir utiliser mon projet de transition professionnelle ?"
+      },
+      {
+        "url": "/fiche-service-public/comment-calculer-lanciennete-pour-le-montant-de-lindemnite-de-licenciement",
+        "title": "Comment calculer l'ancienneté pour le montant de l'indemnité de licenciement ?",
+        "position": 1
+      },
+      {
+        "url": "/contribution/quand-le-salarie-a-t-il-droit-a-une-prime-danciennete-quel-est-son-montant",
+        "title": "Quand le salarié a-t-il droit à une prime d’ancienneté ? Quel est son montant ?",
+        "position": 2
+      },
+      {
+        "url": "/fiche-service-public/salaire-du-secteur-prive-la-prime-danciennete-est-elle-obligatoire",
+        "title": "Salaire du secteur privé : la prime d'ancienneté est-elle obligatoire ?",
+        "position": 3
+      },
+      {
+        "url": "/fiche-service-public/un-salarie-en-formation-garde-t-il-ses-droits-a-conges-payes-et-a-lanciennete",
+        "title": "Un salarié en formation garde-t-il ses droits à congés payés et à l'ancienneté ?",
+        "position": 4
+      },
+      {
+        "url": "/fiche-service-public/embauche-a-la-fin-dun-stage-quelles-consequences-sur-lanciennete",
+        "title": "Embauche à la fin d'un stage : quelles conséquences sur l'ancienneté ?",
+        "position": 5
+      }
+    ]
+  },
+  {
     "title": "Année bissextile",
     "variants": [
       "Année bissextile",
@@ -1048,6 +1150,9 @@
     "variants": [
       "arrêt de travail et congés payés",
       "arrêt maladie puis congés payés",
+      "arrêt maladie et congés payés",
+      "arrêt maladie pendant les congés payés",
+      "congés payés pendant un arrêt maladie",
       "congés payés suivi d'un arrêt maladie",
       "arret maladie pendant congés payés",
       "en arret maladie cumule t-on des conges payes",
@@ -1059,6 +1164,10 @@
       "peut-on prendre directement des congés après un arrêt maladie ?"
     ],
     "refs": [
+      {
+        "url": "/contribution/si-le-salarie-est-malade-pendant-ses-conges-quelles-en-sont-les-consequences",
+        "title": "Si le salarié est malade pendant ses congés, quelles en sont les conséquences ?"
+      },
       {
         "url": "/fiche-service-public/arret-maladie-et-conges-payes-annuels",
         "title": "Arrêt maladie et congés payés annuels",
@@ -4099,11 +4208,6 @@
         "position": 11
       },
       {
-        "url": "/fiche-ministere-travail/les-garanties-liees-a-la-maternite-ou-a-ladoption#Comment-est-garanti-le-droit-aux-conges-payes",
-        "title": "Les garanties liées à la maternité ou à l’adoption : comment est garanti le droit aux congés payés ?",
-        "position": 12
-      },
-      {
         "url": "/code-du-travail/l1225-24",
         "title": "Article L1225-24",
         "position": 13
@@ -4177,132 +4281,102 @@
       {
         "url": "/fiche-service-public/conge-parental-deducation-a-temps-plein-dans-le-secteur-prive",
         "title": "Congé parental d'éducation à temps plein dans le secteur privé",
-        "position": 1
+        "position": 0
       },
       {
         "url": "/fiche-service-public/conge-parental-deducation-a-temps-partiel-dans-le-secteur-prive",
         "title": "Congé parental d'éducation à temps partiel dans le secteur privé",
-        "position": 2
-      },
-      {
-        "url": "/code-du-travail/l1225-48",
-        "title": "Article L1225-48",
-        "position": 3
-      },
-      {
-        "url": "/code-du-travail/l1225-47",
-        "title": "Article L1225-47",
-        "position": 4
-      },
-      {
-        "url": "/fiche-ministere-travail/le-conge-parental-deducation#Quelle-est-la-duree-du-conge-parental",
-        "title": "Le congé parental d’éducation : quelle est la durée du congé parental ?",
-        "position": 5
-      },
-      {
-        "url": "/fiche-ministere-travail/le-conge-parental-deducation#Le-conge-parental-peut-il-etre-refuse",
-        "title": "Le congé parental d’éducation : le congé parental peut-il être refusé ?",
-        "position": 6
-      },
-      {
-        "url": "/fiche-ministere-travail/le-conge-parental-deducation#Que-se-passe-t-il-a-l-issue-du-conge",
-        "title": "Le congé parental d’éducation : que se passe-t-il à l’issue du congé ?",
-        "position": 7
+        "position": 1
       },
       {
         "url": "/fiche-ministere-travail/le-conge-parental-deducation#Quels-salaries",
         "title": "Le congé parental d’éducation : quels salariés ?",
-        "position": 8
+        "position": 2
       },
       {
-        "url": "/fiche-ministere-travail/le-conge-parental-deducation#Est-il-possible-d-interrompre-ou-de-modifier-le-conge-parental-nbsp",
-        "title": "Le congé parental d’éducation : est-il possible d’interrompre ou de modifier le congé parental ?",
-        "position": 9
+        "url": "/fiche-ministere-travail/le-conge-parental-deducation#Quelle-est-la-duree-du-conge-parental",
+        "title": "Le congé parental d’éducation : quelle est la durée du congé parental ?",
+        "position": 3
       },
       {
-        "url": "/fiche-ministere-travail/le-conge-parental-deducation#Quelles-sont-les-formalites",
-        "title": "Le congé parental d’éducation : quelles sont les formalités ?",
-        "position": 10
+        "url": "/fiche-ministere-travail/le-conge-parental-deducation#Le-conge-parental-peut-il-etre-refuse",
+        "title": "Le congé parental d’éducation : le congé parental peut-il être refusé ?",
+        "position": 4
       },
       {
         "url": "/fiche-ministere-travail/le-conge-parental-deducation#Comment-prendre-le-conge-parental",
         "title": "Le congé parental d’éducation : comment prendre le congé parental ?",
-        "position": 11
+        "position": 5
+      },
+      {
+        "url": "/fiche-ministere-travail/le-conge-parental-deducation#Quelles-sont-les-formalites",
+        "title": "Le congé parental d’éducation : quelles sont les formalités ?",
+        "position": 6
+      },
+      {
+        "url": "/fiche-ministere-travail/le-conge-parental-deducation#Est-il-possible-d-interrompre-ou-de-modifier-le-conge-parental-nbsp",
+        "title": "Le congé parental d’éducation : est-il possible d’interrompre ou de modifier le congé parental ?",
+        "position": 7
+      },
+      {
+        "url": "/fiche-ministere-travail/le-conge-parental-deducation#Que-se-passe-t-il-a-l-issue-du-conge",
+        "title": "Le congé parental d’éducation : que se passe-t-il à l’issue du congé ?",
+        "position": 8
       },
       {
         "url": "/fiche-ministere-travail/le-conge-parental-deducation#Peut-on-exercer-une-activite-professionnelle-suivre-une-formation-durant-nbsp",
         "title": "Le congé parental d’éducation : peut-on exercer une activité professionnelle, suivre une formation durant le congé parental ?",
-        "position": 12
+        "position": 9
       },
       {
         "url": "/fiche-ministere-travail/le-conge-parental-deducation#Le-conge-parental-d-education-ouvre-t-il-systematiquement-droit-a-la-nbsp",
         "title": "Le congé parental d’éducation ouvre-t-il systématiquement droit à la prestation partagée d’éducation de l’enfant (PreParE) ou complément de libre choix d’activité ?",
-        "position": 13
-      },
-      {
-        "url": "/code-du-travail/l1225-50",
-        "title": "Article L1225-50",
-        "position": 14
-      },
-      {
-        "url": "/code-du-travail/l1225-51",
-        "title": "Article L1225-51",
-        "position": 15
-      },
-      {
-        "url": "/code-du-travail/l1225-53",
-        "title": "Article L1225-53",
-        "position": 16
-      },
-      {
-        "url": "/fiche-service-public/un-salarie-en-conge-parental-deducation-peut-il-etre-licencie",
-        "title": "Un salarié en congé parental d'éducation peut-il être licencié ?",
-        "position": 17
+        "position": 10
       },
       {
         "url": "/fiche-service-public/conge-parental-conserve-t-on-les-avantages-de-la-mutuelle-de-lentreprise",
         "title": "Congé parental : conserve-t-on les avantages de la mutuelle de l'entreprise ?",
-        "position": 18
+        "position": 11
       },
       {
         "url": "/fiche-service-public/maladie-pendant-un-conge-parental-quelles-sont-les-regles",
         "title": "Maladie pendant un congé parental : quelles sont les règles ?",
-        "position": 19
-      },
-      {
-        "url": "/fiche-service-public/peut-on-demissionner-pendant-un-conge-parental",
-        "title": "Peut-on démissionner pendant un congé parental ?",
-        "position": 20
+        "position": 12
       },
       {
         "url": "/fiche-service-public/peut-on-beneficier-de-plusieurs-conges-parentaux-successifs",
         "title": "Peut-on bénéficier de plusieurs congés parentaux successifs ?",
-        "position": 21
+        "position": 13
       },
       {
-        "url": "/fiche-service-public/le-salarie-en-conge-parental-a-t-il-droit-au-pret-action-logement",
-        "title": "Le salarié en congé parental a-t-il droit au prêt Action logement ?",
-        "position": 22
+        "url": "/fiche-service-public/un-salarie-en-conge-parental-deducation-peut-il-etre-licencie",
+        "title": "Un salarié en congé parental d'éducation peut-il être licencié ?",
+        "position": 14
       },
       {
-        "url": "/fiche-service-public/a-t-on-droit-a-la-participation-et-a-linteressement-pendant-le-conge-parental",
-        "title": "A-t-on droit à la participation et à l'intéressement pendant le congé parental ?",
-        "position": 23
-      },
-      {
-        "url": "/code-du-travail/l1225-55",
-        "title": "Article L1225-55",
-        "position": 24
-      },
-      {
-        "url": "/fiche-service-public/maternite-pendant-le-conge-parental-quelles-sont-les-regles",
-        "title": "Maternité pendant le congé parental : quelles sont les règles ?",
-        "position": 25
+        "url": "/fiche-service-public/peut-on-demissionner-pendant-un-conge-parental",
+        "title": "Peut-on démissionner pendant un congé parental ?",
+        "position": 15
       },
       {
         "url": "/fiche-service-public/retraite-du-salarie-majoration-dassurance-retraite-pour-conge-parental-deducation",
         "title": "Retraite du salarié : majoration d'assurance retraite pour congé parental d'éducation",
-        "position": 26
+        "position": 16
+      },
+      {
+        "url": "/fiche-service-public/le-salarie-en-conge-parental-a-t-il-droit-au-pret-action-logement",
+        "title": "Le salarié en congé parental a-t-il droit au prêt Action logement ?",
+        "position": 17
+      },
+      {
+        "url": "/fiche-service-public/a-t-on-droit-a-la-participation-et-a-linteressement-pendant-le-conge-parental",
+        "title": "A-t-on droit à la participation et à l'intéressement pendant le congé parental ?",
+        "position": 18
+      },
+      {
+        "url": "/fiche-service-public/maternite-pendant-le-conge-parental-quelles-sont-les-regles",
+        "title": "Maternité pendant le congé parental : quelles sont les règles ?",
+        "position": 19
       }
     ]
   },
@@ -4626,37 +4700,32 @@
       {
         "url": "/fiche-service-public/comment-beneficier-dun-conge-sans-solde",
         "title": "Comment bénéficier d'un congé sans solde ?",
-        "position": 1
+        "position": 0
       },
       {
         "url": "/fiche-ministere-travail/le-conge-sans-solde#Quelles-sont-les-caracteristiques",
         "title": "Le congé sans solde : quelles sont les caractéristiques ?",
-        "position": 2
+        "position": 1
       },
       {
         "url": "/fiche-ministere-travail/le-conge-sans-solde#La-remuneration-est-elle-maintenue-pendant-le-conge",
         "title": "Le congé sans solde : la rémunération est-elle maintenue pendant le congé ?",
-        "position": 3
+        "position": 2
       },
       {
         "url": "/fiche-ministere-travail/le-conge-sans-solde#Quelle-est-la-procedure",
         "title": "Le congé sans solde : quelle est la procédure ?",
-        "position": 4
-      },
-      {
-        "url": "/fiche-service-public/fermeture-de-lentreprise-pour-conges-annuels-le-salarie-est-il-indemnise",
-        "title": "Fermeture de l'entreprise pour congés annuels : le salarié est-il indemnisé ?",
-        "position": 5
+        "position": 3
       },
       {
         "url": "/fiche-service-public/prime-dactivite-conge-parental-sabbatique-sans-solde-ou-disponibilite",
         "title": "Prime d'activité : congé parental, sabbatique, sans solde ou disponibilité",
-        "position": 6
+        "position": 5
       },
       {
         "url": "/fiche-service-public/comment-calculer-lanciennete-pour-le-montant-de-lindemnite-de-licenciement",
         "title": "Comment calculer l'ancienneté pour le montant de l'indemnité de licenciement ?",
-        "position": 7
+        "position": 6
       }
     ]
   },
@@ -5151,11 +5220,6 @@
         "position": 7
       },
       {
-        "url": "/fiche-ministere-travail/les-garanties-liees-a-la-maternite-ou-a-ladoption#Comment-est-garanti-le-droit-aux-conges-payes",
-        "title": "Les garanties liées à la maternité ou à l’adoption : comment est garanti le droit aux congés payés ?",
-        "position": 8
-      },
-      {
         "url": "/code-du-travail/l3141-3",
         "title": "Article L3141-3",
         "position": 9
@@ -5529,18 +5593,18 @@
     ],
     "refs": [
       {
+        "url": "/fiche-ministere-travail/le-contrat-a-duree-determinee-cdd",
+        "title": "CDD : ce que dit le code du travail : l’embauche sous contrat à durée déterminée",
+        "position": 0
+      },
+      {
         "url": "/fiche-service-public/conclusion-du-contrat-de-travail-a-duree-determinee-cdd",
         "title": "Conclusion du contrat de travail à durée déterminée (CDD)",
-        "position": 0
+        "position": 1
       },
       {
         "url": "/fiche-service-public/renouvellement-dun-contrat-de-travail-a-duree-determinee-cdd",
         "title": "Renouvellement d'un contrat de travail à durée déterminée (CDD)",
-        "position": 1
-      },
-      {
-        "url": "/fiche-ministere-travail/le-contrat-a-duree-determinee-cdd",
-        "title": "CDD : ce que dit le code du travail : l’embauche sous contrat à durée déterminée",
         "position": 2
       },
       {
@@ -5554,73 +5618,73 @@
         "position": 4
       },
       {
-        "url": "/fiche-ministere-travail/le-contrat-a-duree-determinee-cdd#Dans-quels-cas-le-contrat-a-duree-determinee-peut-il-etre-requalifie-en-nbsp",
-        "title": "CDD : dans quels cas le contrat à durée déterminée peut-il être requalifié en contrat à durée indéterminée ?",
-        "position": 5
-      },
-      {
         "url": "/fiche-service-public/contrat-a-duree-determinee-pour-les-seniors-cdd-senior",
         "title": "Contrat à durée déterminée pour les seniors (CDD senior)",
-        "position": 6
-      },
-      {
-        "url": "/fiche-ministere-travail/le-contrat-a-duree-determinee-cdd#Dans-quelles-conditions-le-contrat-peut-il-etre-rompu",
-        "title": "CDD : ce que dit le code du travail : dans quelles conditions le contrat peut-il être rompu ?",
-        "position": 7
-      },
-      {
-        "url": "/fiche-ministere-travail/le-contrat-a-duree-determinee-a-objet-defini#Quels-sont-les-prealables-a-la-conclusion-d-un-CDD-a-objet-defini-nbsp",
-        "title": "CDD à objet défini ou CDD de mission : quels sont les préalables à la conclusion d’un CDD à objet défini ?",
-        "position": 8
-      },
-      {
-        "url": "/fiche-ministere-travail/le-contrat-a-duree-determinee-senior-cdd-senior#Quelle-est-la-duree-du-CDD-lt-lt-senior",
-        "title": "Le contrat à durée déterminée \"Senior\" (CDD Senior) : quelle est la durée du CDD « senior » ?",
-        "position": 9
+        "position": 5
       },
       {
         "url": "/fiche-ministere-travail/le-contrat-a-duree-determinee-cdd#Dans-quels-cas-l-employeur-encourt-il-des-sanctions-penales-nbsp",
         "title": "CDD : ce que dit le code du travail : dans quels cas l’employeur encourt-il des sanctions pénales ?",
-        "position": 10
+        "position": 6
       },
       {
         "url": "/fiche-service-public/un-arret-de-travail-prolonge-t-il-un-cdd",
         "title": "Un arrêt de travail prolonge-t-il un CDD ?",
-        "position": 11
+        "position": 7
       },
       {
         "url": "/fiche-ministere-travail/le-contrat-a-duree-determinee-cdd#La-reglementation-sur-les-CDD-s-applique-t-elle-aux-contrats-conclus-avec-nbsp",
         "title": "La réglementation sur les CDD s’applique-t-elle aux contrats conclus avec les jeunes pendant leurs vacances scolaires ou universitaires ?",
+        "position": 8
+      },
+      {
+        "url": "/fiche-service-public/quest-ce-quun-cdd-a-objet-defini-ou-cdd-de-mission",
+        "title": "Qu'est-ce qu'un CDD à objet défini (ou CDD de mission) ?",
+        "position": 9
+      },
+      {
+        "url": "/fiche-service-public/quest-ce-quun-cdd-sans-terme-precis",
+        "title": "Qu'est-ce qu'un CDD sans terme précis ?",
+        "position": 10
+      },
+      {
+        "url": "/contribution/embauche-en-contrat-dextra-cdd-dusage",
+        "title": "Embauche en contrat d'extra (CDD d'usage)",
+        "position": 11
+      },
+      {
+        "url": "/fiche-ministere-travail/le-contrat-a-duree-determinee-dusage#Quelles-sont-les-regles-applicables-aux-CDD-d-usage",
+        "title": "Le Contrat à durée déterminée d’usage : quelles sont les règles applicables aux cdd d’usage ?",
         "position": 12
       },
       {
-        "url": "/code-du-travail/l1242-2",
-        "title": "Article L1242-2",
+        "url": "/fiche-ministere-travail/le-contrat-a-duree-determinee-cdd#Dans-quels-cas-le-contrat-a-duree-determinee-peut-il-etre-requalifie-en-nbsp",
+        "title": "CDD : dans quels cas le contrat à durée déterminée peut-il être requalifié en contrat à durée indéterminée ?",
         "position": 13
       },
       {
-        "url": "/code-du-travail/l1242-7",
-        "title": "Article L1242-7",
+        "url": "/fiche-service-public/quest-ce-quun-cdd-dinsertion-cddi",
+        "title": "Qu'est-ce qu'un CDD d'insertion (CDDI) ?",
         "position": 14
       },
       {
-        "url": "/code-du-travail/l1242-8-1",
-        "title": "Article L1242-8-1",
+        "url": "/contribution/combien-de-fois-le-contrat-de-travail-peut-il-etre-renouvele",
+        "title": "Combien de fois le contrat de travail peut-il être renouvelé ?",
         "position": 15
       },
       {
-        "url": "/code-du-travail/l1242-10",
-        "title": "Article L1242-10",
+        "url": "/contribution/quelle-peut-etre-la-duree-maximale-dun-cdd",
+        "title": "Quelle peut être la durée maximale d'un CDD ?",
         "position": 16
       },
       {
-        "url": "/code-du-travail/l1242-5",
-        "title": "Article L1242-5",
+        "url": "/contribution/dans-le-cadre-dun-cdd-quel-est-le-montant-de-lindemnite-de-fin-de-contrat",
+        "title": "Dans le cadre d’un CDD, quel est le montant de l’indemnité de fin de contrat ? ",
         "position": 17
       },
       {
-        "url": "/code-du-travail/l1242-6",
-        "title": "Article L1242-6",
+        "url": "/outils/indemnite-precarite",
+        "title": "Indemnité de précarité",
         "position": 18
       }
     ]
@@ -6018,7 +6082,9 @@
       "épidémie et travail",
       "epidemie et travail",
       "confinement et travail",
-      "travail pendant confinement"
+      "travail pendant confinement",
+      "gestes barrières",
+      "distanciation sociale"
     ],
     "refs": [
       {
@@ -7828,18 +7894,18 @@
     ],
     "refs": [
       {
+        "url": "/fiche-ministere-travail/la-procedure-en-cas-de-licenciement-pour-motif-personnel#En-quoi-consiste-l-entretien-prealable",
+        "title": "La procédure en cas de licenciement pour motif personnel : en quoi consiste l’entretien préalable ?",
+        "position": 0
+      },
+      {
         "url": "/fiche-service-public/procedure-de-licenciement-pour-motif-personnel",
         "title": "Procédure de licenciement pour motif personnel",
-        "position": 0
+        "position": 1
       },
       {
         "url": "/modeles-de-courriers/convocation-a-un-entretien-prealable-au-licenciement-pour-motif-personnel",
         "title": "Convocation à un entretien préalable au licenciement pour motif personnel",
-        "position": 1
-      },
-      {
-        "url": "/fiche-service-public/sanctions-disciplinaires-dans-le-secteur-prive",
-        "title": "Sanctions disciplinaires dans le secteur privé",
         "position": 2
       },
       {
@@ -7848,8 +7914,8 @@
         "position": 3
       },
       {
-        "url": "/fiche-ministere-travail/le-conseiller-du-salarie#Comment-se-faire-assister-par-un-conseiller-du-salarie",
-        "title": "Entretien préalable de licenciement : comment se faire assister par un conseiller du salarié ?",
+        "url": "/fiche-ministere-travail/la-procedure-en-cas-de-licenciement-individuel-pour-motif-economique#En-quoi-consiste-l-entretien-prealable-au-licenciement",
+        "title": "Licenciement pour motif économique : en quoi consiste l’entretien préalable au licenciement ?",
         "position": 4
       },
       {
@@ -7858,24 +7924,19 @@
         "position": 5
       },
       {
-        "url": "/fiche-ministere-travail/la-procedure-en-cas-de-licenciement-individuel-pour-motif-economique#En-quoi-consiste-l-entretien-prealable-au-licenciement",
-        "title": "Licenciement pour motif économique : en quoi consiste l’entretien préalable au licenciement ?",
+        "url": "/fiche-service-public/sanctions-disciplinaires-dans-le-secteur-prive",
+        "title": "Sanctions disciplinaires dans le secteur privé",
         "position": 6
       },
       {
-        "url": "/code-du-travail/l1232-2",
-        "title": "Article L1232-2",
+        "url": "/fiche-ministere-travail/la-sanction-disciplinaire",
+        "title": "La sanction disciplinaire",
         "position": 7
       },
       {
-        "url": "/code-du-travail/l1332-2",
-        "title": "Article L1332-2",
+        "url": "/fiche-ministere-travail/la-sanction-disciplinaire#Comment-une-sanction-doit-elle-etre-notifiee",
+        "title": "La sanction disciplinaire : comment une sanction doit-elle être notifiée ?",
         "position": 8
-      },
-      {
-        "url": "/code-du-travail/l1233-11",
-        "title": "Article L1233-11",
-        "position": 9
       }
     ]
   },
@@ -8254,6 +8315,55 @@
         "url": "/fiche-service-public/accident-du-travail-indemnites-journalieres-pendant-larret-de-travail",
         "title": "Accident du travail : indemnités journalières pendant l'arrêt de travail",
         "position": 6
+      }
+    ]
+  },
+  {
+    "title": "fractionnement",
+    "variants": [
+      "fractionnement",
+      "congés payés et fractionnement",
+      "jours de fractionnement",
+      "congés fractionnés",
+      "congé principal",
+      "fractionné",
+      "congé fractionnement",
+      "congé de solidarité fractionné",
+      "journée de solidarité fractionné",
+      "fractionnement congé proche aidant",
+      "reclassement et fractionnement",
+      "fractionnement du congé de reclassement"
+    ],
+    "refs": [
+      {
+        "url": "/fiche-ministere-travail/les-conges-payes#Quelles-sont-les-modalites-de-prise-des-conges-payes",
+        "title": "Les congés payés : quelles sont les modalités de prise des congés payés ?",
+        "position": 0
+      },
+      {
+        "url": "/fiche-service-public/conges-payes",
+        "title": "Congés payés",
+        "position": 1
+      },
+      {
+        "url": "/fiche-ministere-travail/la-journee-de-solidarite#La-journee-de-solidarite-peut-elle-etre-fractionnee",
+        "title": "La journée de solidarité peut-elle être fractionnée ?",
+        "position": 2
+      },
+      {
+        "url": "/fiche-ministere-travail/le-conge-de-solidarite-familiale#Quelles-sont-les-possibilites-de-fractionnement-et-de-temps-partiel-nbsp",
+        "title": "Le congé de solidarité familiale : quelles sont les possibilités de fractionnement et de temps partiel ?",
+        "position": 3
+      },
+      {
+        "url": "/fiche-service-public/conge-de-reclassement",
+        "title": "Congé de reclassement",
+        "position": 4
+      },
+      {
+        "url": "/fiche-ministere-travail/le-conge-de-proche-aidant",
+        "title": "Le congé de proche aidant",
+        "position": 5
       }
     ]
   },
@@ -9239,6 +9349,16 @@
         "url": "/fiche-ministere-travail/lindemnite-legale-de-licenciement#Comment-calculer-le-salaire-de-reference",
         "title": "L’indemnité légale de licenciement : comment calculer le salaire de référence ?",
         "position": 3
+      },
+      {
+        "url": "/fiche-service-public/comment-calculer-lanciennete-pour-le-montant-de-lindemnite-de-licenciement",
+        "title": "Comment calculer l'ancienneté pour le montant de l'indemnité de licenciement ?",
+        "position": 4
+      },
+      {
+        "url": "/contribution/comment-determiner-lanciennete-du-salarie",
+        "title": "Comment déterminer l'ancienneté du salarié ?",
+        "position": 5
       }
     ]
   },
@@ -9872,54 +9992,44 @@
     ],
     "refs": [
       {
+        "url": "/fiche-service-public/stages-obligations-de-lemployeur",
+        "title": "Stages : obligations de l'employeur",
+        "position": 0
+      },
+      {
+        "url": "/fiche-service-public/gratification-minimale-dun-stagiaire-etudiant-ou-eleve-dans-une-entreprise",
+        "title": "Gratification minimale d'un stagiaire étudiant ou élève dans une entreprise",
+        "position": 1
+      },
+      {
         "url": "/fiche-ministere-travail/les-stages-etudiants-en-milieu-professionnel#Le-stagiaire-recoit-il-une-somme-d-argent",
         "title": "Stage : le stagiaire reçoit-il une somme d’argent ?",
-        "position": 1
+        "position": 2
       },
       {
         "url": "/fiche-ministere-travail/les-stages-etudiants-en-milieu-professionnel#Quel-est-le-statut-du-stagiaire-dans-l-entreprise-d-accueil-nbsp",
         "title": "Stage : quel est le statut du stagiaire dans l’entreprise d’accueil ?",
-        "position": 2
-      },
-      {
-        "url": "/fiche-service-public/stages-obligations-de-lemployeur",
-        "title": "Stages : obligations de l'employeur",
         "position": 3
       },
       {
-        "url": "/code-du-travail/l6352-4",
-        "title": "Article L6352-4",
+        "url": "/fiche-service-public/registres-du-personnel-obligatoires",
+        "title": "Registres du personnel obligatoires",
         "position": 4
-      },
-      {
-        "url": "/code-du-travail/r6341-51",
-        "title": "Article R6341-51",
-        "position": 5
-      },
-      {
-        "url": "/code-du-travail/r6341-40",
-        "title": "Article R6341-40",
-        "position": 6
-      },
-      {
-        "url": "/code-du-travail/l6341-6",
-        "title": "Article L6341-6",
-        "position": 7
-      },
-      {
-        "url": "/code-du-travail/r6341-1",
-        "title": "Article R6341-1",
-        "position": 8
       },
       {
         "url": "/fiche-service-public/les-periodes-de-stage-sont-elles-prises-en-compte-pour-la-retraite",
         "title": "Les périodes de stage sont-elles prises en compte pour la retraite ?",
-        "position": 9
+        "position": 5
       },
       {
-        "url": "/fiche-ministere-travail/le-registre-unique-du-personnel#Les-stagiaires-sont-ils-concernes",
-        "title": "Registre unique du personnel : les stagiaires sont-ils concernés ?",
-        "position": 10
+        "url": "/fiche-service-public/embauche-a-la-fin-dun-stage-quelles-consequences-sur-lanciennete",
+        "title": "Embauche à la fin d'un stage : quelles conséquences sur l'ancienneté ?",
+        "position": 11
+      },
+      {
+        "url": "/fiche-service-public/embauche-a-la-fin-dun-stage-quelles-consequences-sur-la-periode-dessai",
+        "title": "Embauche à la fin d'un stage : quelles conséquences sur la période d'essai ?",
+        "position": 12
       }
     ]
   },
@@ -11092,11 +11202,6 @@
         "url": "/fiche-ministere-travail/espaces-confines#Les-moyens-de-prevention",
         "title": "Espaces confinés : les moyens de prévention",
         "position": 5
-      },
-      {
-        "url": "/fiche-ministere-travail/principes-generaux-de-ventilation#Ce-qu-il-faut-savoir-avant-l-installation-d-une-ventilation-nbsp",
-        "title": "Principes généraux de ventilation : ce qu’il faut savoir avant l’installation d’une ventilation :",
-        "position": 6
       },
       {
         "url": "/fiche-ministere-travail/poussieres#Les-moyens-de-prevention",
@@ -12652,21 +12757,6 @@
     ],
     "refs": [
       {
-        "url": "/fiche-ministere-travail/plomb#Les-moyens-de-prevention",
-        "title": "Plomb : les moyens de prévention",
-        "position": 1
-      },
-      {
-        "url": "/fiche-ministere-travail/plomb#Donnees-generales",
-        "title": "Plomb : données générales",
-        "position": 2
-      },
-      {
-        "url": "/fiche-ministere-travail/plomb#Quels-sont-les-risques",
-        "title": "Plomb : quels sont les risques",
-        "position": 3
-      },
-      {
         "url": "/fiche-ministere-travail/soudures-et-fumees-de-soudage#Pour-en-savoir-plus",
         "title": "Soudures et fumées de soudage : pour en savoir plus",
         "position": 4
@@ -13225,11 +13315,16 @@
       {
         "url": "/outils/indemnite-precarite",
         "title": "Simulateur d'indemnité de précarité",
-        "position": 1
+        "position": 0
       },
       {
         "url": "/contribution/dans-le-cadre-dun-cdd-quel-est-le-montant-de-lindemnite-de-fin-de-contrat",
         "title": "Dans le cadre d’un CDD, quel est le montant de l’indemnité de fin de contrat ? ",
+        "position": 1
+      },
+      {
+        "url": "/contribution/dans-le-cadre-dun-contrat-de-mission-interim-quel-est-le-montant-de-lindemnite-de-fin-de-contrat",
+        "title": "Dans le cadre d’un contrat de mission (intérim), quel est le montant de l’indemnité de fin de contrat ? ",
         "position": 2
       },
       {
@@ -13238,14 +13333,19 @@
         "position": 3
       },
       {
-        "url": "/fiche-ministere-travail/le-contrat-a-duree-determinee-a-objet-defini#Une-indemnite-de-fin-de-contrat-est-elle-due",
-        "title": "Le contrat à durée déterminée à objet défini: une indemnité de fin de contrat est-elle due ?",
+        "url": "/fiche-service-public/fin-dun-contrat-a-duree-determinee-cdd",
+        "title": "Fin d'un contrat à durée déterminée (CDD)",
         "position": 4
       },
       {
-        "url": "/fiche-service-public/fin-dun-contrat-a-duree-determinee-cdd",
-        "title": "Fin d'un contrat à durée déterminée (CDD)",
+        "url": "/fiche-ministere-travail/la-remuneration-du-salarie-en-contrat-a-duree-determinee#Le-salarie-a-t-il-droit-a-une-indemnite-de-fin-de-contrat",
+        "title": "La rémuneration du salarié en contrat à durée déterminée : le salarié a-t-il droit à une indemnité de fin de contrat ?",
         "position": 5
+      },
+      {
+        "url": "/fiche-service-public/contrat-de-travail-temporaire-interim",
+        "title": "Contrat de travail temporaire (intérim)",
+        "position": 6
       }
     ]
   },
@@ -13547,24 +13647,39 @@
     ],
     "refs": [
       {
-        "url": "/fiche-ministere-travail/emploi-et-handicap-la-reconnaissance-de-la-qualite-de-travailleur-handicape-rqth#Comment-etre-reconnu-travailleur-handicape",
-        "title": "RQTH: comment être reconnu travailleur handicapé ?",
+        "url": "/fiche-ministere-travail/la-reconnaissance-de-linaptitude-medicale-au-travail-et-ses-consequences#Dans-quels-cas-l-inaptitude-medicale-au-travail-peut-etre-prononcee-nbsp",
+        "title": "La reconnaissance de l’inaptitude médicale au travail et ses conséquences : dans quels cas l’inaptitude médicale au travail peut être prononcée ?",
+        "position": 0
+      },
+      {
+        "url": "/fiche-service-public/inaptitude-au-travail-dun-salarie-apres-un-arret-maladie",
+        "title": "Inaptitude au travail d'un salarié après un arrêt maladie",
         "position": 1
       },
       {
-        "url": "/fiche-ministere-travail/la-reconnaissance-de-linaptitude-medicale-au-travail-et-ses-consequences#Dans-quels-cas-l-inaptitude-medicale-au-travail-peut-etre-prononcee-nbsp",
-        "title": "La reconnaissance de l’inaptitude médicale au travail et ses conséquences: dans quels cas l’inaptitude médicale au travail peut être prononcée ?",
+        "url": "/fiche-service-public/inaptitude-au-travail-du-salarie-suite-a-un-accident-du-travail",
+        "title": "Inaptitude au travail du salarié suite à un accident du travail",
         "position": 2
       },
       {
-        "url": "/fiche-ministere-travail/5-questions-reponses-sur-le-handicap-et-lemploi#Question-1-Comment-faire-reconnaitre-son-handicap",
-        "title": "Le handicap et l’emploi : comment faire reconnaître son handicap ?",
+        "url": "/fiche-service-public/inaptitude-au-travail-du-salarie-suite-a-une-maladie-professionnelle",
+        "title": "Inaptitude au travail du salarié suite à une maladie professionnelle",
         "position": 3
       },
       {
-        "url": "/fiche-ministere-travail/la-reconnaissance-de-linaptitude-medicale-au-travail-et-ses-consequences#Que-mentionne-l-avis-d-inaptitude-medicale",
-        "title": "La reconnaissance de l’inaptitude médicale au travail et ses conséquences: que mentionne l’avis d’inaptitude médicale ?",
+        "url": "/fiche-ministere-travail/emploi-et-handicap-travail-en-milieu-ordinaire#Les-personnes-en-situation-de-handicap-beneficient-elles-d-un-suivi-medical-nbsp",
+        "title": "Emploi et handicap : les personnes en situation de handicap bénéficient-elles d’un suivi médical particulier ?",
         "position": 4
+      },
+      {
+        "url": "/fiche-service-public/handicap-travail-en-milieu-ordinaire",
+        "title": "Handicap : travail en milieu ordinaire",
+        "position": 5
+      },
+      {
+        "url": "/fiche-ministere-travail/emploi-et-handicap-travail-en-milieu-ordinaire#Qui-est-concerne-par-le-travail-des-personnes-en-situation-de-handicap-en-nbsp",
+        "title": "Emploi et handicap : qui est concerné par le travail des personnes en situation de handicap en milieu ordinaire ?",
+        "position": 6
       }
     ]
   },
@@ -14083,11 +14198,6 @@
         "url": "/fiche-ministere-travail/les-conges-payes#Qui-a-droit-aux-conges-payes",
         "title": "Congés payés : qui a droit aux congés payés ?",
         "position": 5
-      },
-      {
-        "url": "/fiche-ministere-travail/les-garanties-liees-a-la-maternite-ou-a-ladoption#Comment-est-garanti-le-droit-aux-conges-payes",
-        "title": "Maternité ou adoption : comment est garanti le droit aux congés payés ?",
-        "position": 6
       }
     ]
   },
@@ -14842,11 +14952,6 @@
         "position": 6
       },
       {
-        "url": "/fiche-service-public/cas-ou-lemployeur-peut-embaucher-en-contrat-a-duree-determinee-cdd",
-        "title": "Cas où l'employeur peut embaucher en contrat à durée déterminée (CDD)",
-        "position": 7
-      },
-      {
         "url": "/fiche-service-public/droits-du-salarie-en-contrat-de-travail-a-duree-determinee-cdd",
         "title": "Droits du salarié en contrat de travail à durée déterminée (CDD)",
         "position": 8
@@ -14872,19 +14977,9 @@
         "position": 12
       },
       {
-        "url": "/fiche-ministere-travail/le-contrat-a-duree-determinee-a-objet-defini#Quelle-est-sa-duree",
-        "title": "Le contrat à durée déterminée à objet défini : quelle est sa durée ?",
-        "position": 13
-      },
-      {
         "url": "/fiche-ministere-travail/le-contrat-a-duree-determinee-cdd",
         "title": "CDD : l’embauche sous contrat à durée déterminée",
         "position": 14
-      },
-      {
-        "url": "/fiche-ministere-travail/le-contrat-a-duree-determinee-senior-cdd-senior#Quelle-est-la-duree-du-CDD-lt-lt-senior",
-        "title": "Le contrat à durée déterminée \"Senior\" (CDD Senior) : quelle est la durée du CDD « senior » ?",
-        "position": 15
       },
       {
         "url": "/fiche-service-public/conclusion-du-contrat-de-travail-a-duree-determinee-cdd",
@@ -14895,21 +14990,6 @@
         "url": "/fiche-service-public/renouvellement-dun-contrat-de-travail-a-duree-determinee-cdd",
         "title": "Renouvellement d'un contrat de travail à durée déterminée (CDD)",
         "position": 17
-      },
-      {
-        "url": "/fiche-ministere-travail/le-contrat-a-duree-determinee-senior-cdd-senior#Qui-peut-conclure-un-CDD-lt-lt-senior",
-        "title": "Le contrat à durée déterminée \"Senior\" (CDD Senior) : qui peut conclure un CDD « senior » ?",
-        "position": 18
-      },
-      {
-        "url": "/fiche-ministere-travail/le-contrat-a-duree-determinee-senior-cdd-senior#Quel-est-le-statut-du-titulaire-d-un-CDD-lt-lt-senior-nbsp",
-        "title": "Le contrat à durée déterminée \"Senior\" (CDD Senior) : quel est le statut du titulaire d’un CDD « senior » ?",
-        "position": 19
-      },
-      {
-        "url": "/fiche-ministere-travail/le-contrat-a-duree-determinee-a-objet-defini#Quels-sont-la-forme-et-le-contenu-du-contrat",
-        "title": "Le contrat à durée déterminée à objet défini : quels sont la forme et le contenu du contrat ?",
-        "position": 20
       }
     ]
   },
@@ -16745,6 +16825,38 @@
         "url": "/code-du-travail/l8271-6-4",
         "title": "Article L8271-6-4",
         "position": 13
+      }
+    ]
+  },
+  {
+    "title": "travail intermittent",
+    "variants": [
+      "travail intermittent",
+      "CDI intermittent",
+      "CDII",
+      "CD2I",
+      "contrat de travail intermittent"
+    ],
+    "refs": [
+      {
+        "url": "/fiche-service-public/quest-ce-que-le-cdi-intermittent-cdii-ou-cd2i",
+        "title": "Qu'est-ce que le CDI intermittent (CDII ou CD2I) ?",
+        "position": 0
+      },
+      {
+        "url": "/fiche-ministere-travail/le-contrat-de-travail-intermittent#Travail-intermittent-de-quoi-s-agit-il",
+        "title": "Le contrat de travail intermittent : travail intermittent : de quoi s’agit-il ?",
+        "position": 1
+      },
+      {
+        "url": "/fiche-ministere-travail/le-contrat-de-travail-intermittent#Quelles-sont-les-dispositions-d-ordre-public",
+        "title": "Le contrat de travail intermittent : quelles sont les dispositions d’ordre public ?",
+        "position": 2
+      },
+      {
+        "url": "/fiche-ministere-travail/le-contrat-de-travail-intermittent#Quels-sont-les-domaines-ouverts-a-la-negociation-collective-nbsp",
+        "title": "Le contrat de travail intermittent : quels sont les domaines ouverts à la négociation collective ?",
+        "position": 4
       }
     ]
   },

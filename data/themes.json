@@ -1,15 +1,5 @@
 [
   {
-    "breadcrumbs": [],
-    "children": [],
-    "position": null,
-    "refs": [
-      {}
-    ],
-    "title": "",
-    "variants": []
-  },
-  {
     "breadcrumbs": [
       {
         "label": "Santé, sécurité et conditions de travail",
@@ -24,79 +14,60 @@
     "position": 632,
     "refs": [
       {
+        "title": "",
         "url": "/fiche-service-public/quest-ce-quun-accident-du-travail"
       },
       {
+        "title": "",
         "url": "/fiche-service-public/accident-du-travail-demarches-a-effectuer"
       },
       {
-        "url": "/fiche-service-public/accident-du-travail-indemnisation-en-cas-dincapacite-permanente"
-      },
-      {
-        "url": "/fiche-service-public/accident-du-travail-indemnisation-des-ayants-droit-en-cas-de-deces-du-salarie"
-      },
-      {
-        "url": "/fiche-service-public/accident-du-travail-indemnites-journalieres-pendant-larret-de-travail"
-      },
-      {
-        "url": "/fiche-service-public/accident-du-travail-reprise-du-travail-du-salarie"
-      },
-      {
-        "url": "/fiche-service-public/quest-ce-quun-accident-de-trajet"
-      },
-      {
-        "url": "/fiche-service-public/comment-calculer-les-cotisations-accident-du-travail-et-maladie-professionnelle"
-      },
-      {
-        "title": "Les absences liées à la maladie ou à l’accident non professionnel : quelles sont les obligations du salarié en cas d’absence pour maladie ou accident non professionnel ?",
-        "url": "/fiche-ministere-travail/les-absences-liees-a-la-maladie-ou-a-laccident-non-professionnel#Quelles-sont-les-obligations-du-salarie-en-cas-d-absence-pour-maladie-ou-nbsp"
-      },
-      {
-        "title": "Les absences liées à la maladie ou à l’accident non professionnel : peut-il y avoir licenciement pour maladie ?",
-        "url": "/fiche-ministere-travail/les-absences-liees-a-la-maladie-ou-a-laccident-non-professionnel#Peut-il-y-avoir-licenciement-pour-maladie"
-      },
-      {
-        "title": "Les absences liées à la maladie ou à l’accident non professionnel : que faire en cas de cure thermale ?",
-        "url": "/fiche-ministere-travail/les-absences-liees-a-la-maladie-ou-a-laccident-non-professionnel#Que-faire-en-cas-de-cure-thermale"
-      },
-      {
-        "title": "L’arrêt de travail pour accident du travail ou maladie professionnelle : que se passe-t-il pendant l’arrêt de travail ?",
-        "url": "/fiche-ministere-travail/larret-de-travail-pour-accident-du-travail-ou-maladie-professionnelle#Que-se-passe-t-il-pendant-l-arret-de-travail"
-      },
-      {
-        "title": "L’arrêt de travail pour accident du travail ou maladie professionnelle : que se passe-t-il à l’issue des périodes de suspension du contrat de travail ?",
-        "url": "/fiche-ministere-travail/larret-de-travail-pour-accident-du-travail-ou-maladie-professionnelle#Que-se-passe-t-il-a-l-issue-des-periodes-de-suspension-du-contrat-de-nbsp"
-      },
-      {
+        "title": "",
         "url": "/fiche-service-public/maladie-professionnelle-indemnites-journalieres-pendant-larret-de-travail"
       },
       {
+        "title": "",
+        "url": "/fiche-service-public/accident-du-travail-indemnites-journalieres-pendant-larret-de-travail"
+      },
+      {
+        "title": "",
+        "url": "/fiche-service-public/accident-du-travail-indemnisation-en-cas-dincapacite-permanente"
+      },
+      {
+        "title": "",
+        "url": "/fiche-service-public/accident-du-travail-indemnisation-des-ayants-droit-en-cas-de-deces-du-salarie"
+      },
+      {
+        "title": "",
+        "url": "/fiche-service-public/quest-ce-quun-accident-de-trajet"
+      },
+      {
+        "title": "",
         "url": "/fiche-service-public/quest-ce-quune-maladie-professionnelle"
       },
       {
+        "title": "",
         "url": "/fiche-service-public/maladie-professionnelle-demarches-a-effectuer"
       },
       {
-        "url": "/fiche-service-public/maladie-professionnelle-reprise-du-travail-du-salarie"
-      },
-      {
+        "title": "",
         "url": "/fiche-service-public/maladie-professionnelle-indemnisation-en-cas-dincapacite-permanente"
       },
       {
-        "title": "L’indemnisation légale des absences pour maladie ou accident : des contrôles sont-ils possibles ?",
-        "url": "/fiche-ministere-travail/lindemnisation-legale-des-absences-pour-maladie-ou-accident#Des-controles-sont-ils-possibles"
+        "title": "",
+        "url": "/fiche-service-public/maladie-professionnelle-reprise-du-travail-du-salarie"
       },
       {
-        "title": "L’indemnisation légale des absences pour maladie ou accident : quelles sont les bénéficiaires et les conditions à remplir ?",
-        "url": "/fiche-ministere-travail/lindemnisation-legale-des-absences-pour-maladie-ou-accident#Quelles-sont-les-beneficiaires-et-les-conditions-a-remplir"
+        "title": "",
+        "url": "/fiche-service-public/comment-calculer-les-cotisations-accident-du-travail-et-maladie-professionnelle"
       },
       {
-        "title": "L’indemnisation légale des absences pour maladie ou accident : quand débute l’indemnisation complémentaire ?",
-        "url": "/fiche-ministere-travail/lindemnisation-legale-des-absences-pour-maladie-ou-accident#Quand-debute-l-indemnisation-complementaire"
+        "title": "",
+        "url": "/fiche-ministere-travail/larret-de-travail-pour-accident-du-travail-ou-maladie-professionnelle"
       },
       {
-        "title": "L’indemnisation légale des absences pour maladie ou accident : que perçoit le salarié ?",
-        "url": "/fiche-ministere-travail/lindemnisation-legale-des-absences-pour-maladie-ou-accident#Que-percoit-le-salarie"
+        "title": "",
+        "url": "/fiche-ministere-travail/lindemnisation-legale-des-absences-pour-maladie-ou-accident"
       }
     ],
     "title": "Accident du travail et maladie professionnelle",
@@ -169,6 +140,45 @@
     "title": "Acteurs de la formation",
     "variants": [
       "Acteurs de la formation"
+    ]
+  },
+  {
+    "breadcrumbs": [
+      {
+        "label": "Emploi et formation professionnelle",
+        "position": 5
+      },
+      {
+        "label": "Entreprises en difficulté",
+        "position": 53
+      }
+    ],
+    "children": [],
+    "position": null,
+    "refs": [
+      {
+        "title": "",
+        "url": "/fiche-ministere-travail/activite-partielle-chomage-partiel"
+      },
+      {
+        "title": "",
+        "url": "/fiche-ministere-travail/fiche-activite-partielle-chomage-partiel"
+      },
+      {
+        "title": "",
+        "url": "/fiche-service-public/quelles-sont-les-incidences-du-chomage-partiel-sur-le-contrat-de-travail"
+      },
+      {
+        "title": "",
+        "url": "/fiche-service-public/activite-partielle-demarches-de-lemployeur-chomage-partiel-ou-technique"
+      },
+      {
+        "url": "https://activitepartielle.emploi.gouv.fr/apart/"
+      }
+    ],
+    "title": "Activité partielle (anciennement chômage partiel)",
+    "variants": [
+      "Activité partielle (anciennement chômage partiel)"
     ]
   },
   {
@@ -430,6 +440,10 @@
       {
         "title": "",
         "url": "/fiche-service-public/versement-mobilite-transport"
+      },
+      {
+        "title": "",
+        "url": "/contribution/comment-determiner-lanciennete-du-salarie"
       }
     ],
     "title": "Bulletin de salaire et cotisations sociales",
@@ -456,10 +470,6 @@
         "url": "/fiche-ministere-travail/le-contrat-a-duree-determinee-cdd"
       },
       {
-        "title": " Embauche en contrat d'extra (CDD d'usage)",
-        "url": "/contribution/embauche-en-contrat-dextra-cdd-dusage"
-      },
-      {
         "url": "/fiche-service-public/cas-ou-lemployeur-peut-embaucher-en-contrat-a-duree-determinee-cdd"
       },
       {
@@ -475,13 +485,26 @@
         "url": "/fiche-service-public/quest-ce-quun-cdd-sans-terme-precis"
       },
       {
+        "title": " Embauche en contrat d'extra (CDD d'usage)",
+        "url": "/contribution/embauche-en-contrat-dextra-cdd-dusage"
+      },
+      {
         "url": "/fiche-service-public/embauche-en-contrat-dextra-cdd-dusage"
       },
       {
-        "url": "/fiche-service-public/doit-on-respecter-un-delai-de-carence-entre-2-cdd"
+        "title": "Le Contrat à durée déterminée d’usage",
+        "url": "/fiche-ministere-travail/le-contrat-a-duree-determinee-dusage"
       },
       {
-        "url": "/fiche-service-public/dans-quels-cas-un-cdd-est-il-requalifie-en-cdi"
+        "title": "Dans quel secteur peut-on recourir au CDD d'usage ou à l'intérim ?",
+        "url": "/fiche-service-public/dans-quel-secteur-peut-on-recourir-au-cdd-dusage-ou-a-linterim"
+      },
+      {
+        "title": "Qu'est-ce qu'un CDD à objet défini (ou CDD de mission) ?",
+        "url": "/fiche-service-public/quest-ce-quun-cdd-a-objet-defini-ou-cdd-de-mission"
+      },
+      {
+        "url": "/fiche-service-public/doit-on-respecter-un-delai-de-carence-entre-2-cdd"
       },
       {
         "title": "Faut-il respecter un délai de carence entre deux CDD ? Si oui, quelle est sa durée ?",
@@ -492,16 +515,7 @@
         "url": "/contribution/quelle-peut-etre-la-duree-maximale-dun-cdd"
       },
       {
-        "title": "Qu'est-ce qu'un CDD à objet défini (ou CDD de mission) ?",
-        "url": "/fiche-service-public/quest-ce-quun-cdd-a-objet-defini-ou-cdd-de-mission"
-      },
-      {
-        "title": "Dans quel secteur peut-on recourir au CDD d'usage ou à l'intérim ?",
-        "url": "/fiche-service-public/dans-quel-secteur-peut-on-recourir-au-cdd-dusage-ou-a-linterim"
-      },
-      {
-        "title": "Le Contrat à durée déterminée d’usage",
-        "url": "/fiche-ministere-travail/le-contrat-a-duree-determinee-dusage"
+        "url": "/fiche-service-public/dans-quels-cas-un-cdd-est-il-requalifie-en-cdi"
       }
     ],
     "title": "CDD",
@@ -531,64 +545,16 @@
         "url": "/fiche-service-public/conclusion-dun-contrat-de-travail-a-duree-indeterminee-cdi"
       },
       {
-        "title": "Contrat de travail : qui peut conclure un contrat de travail ?",
-        "url": "/fiche-ministere-travail/contrat-de-travail-les-principales-caracteristiques#Qui-peut-conclure-un-contrat-de-travail"
-      },
-      {
-        "title": "Contrat de travail : le contrat doit-il être écrit ?",
-        "url": "/fiche-ministere-travail/contrat-de-travail-les-principales-caracteristiques#Le-contrat-doit-il-etre-ecrit"
-      },
-      {
-        "title": "Contrat de travail : rédiger le contrat de travail : quelles règles respecter ?",
-        "url": "/fiche-ministere-travail/contrat-de-travail-les-principales-caracteristiques#Rediger-le-contrat-de-travail-quelles-regles-respecter"
-      },
-      {
-        "title": "Quelle forme doit revêtir le CDI ?",
-        "url": "/fiche-ministere-travail/le-contrat-de-travail-a-duree-indeterminee-cdi#Quelle-forme-doit-revetir-le-CDI"
-      },
-      {
-        "title": "Quel est le contenu du CDI ?",
-        "url": "/fiche-ministere-travail/le-contrat-de-travail-a-duree-indeterminee-cdi#Quel-est-le-contenu-du-CDI"
-      },
-      {
-        "title": "Contrat de travail : le contrat de travail peut-il comporter une période d’essai ?",
-        "url": "/fiche-ministere-travail/contrat-de-travail-les-principales-caracteristiques#Le-contrat-de-travail-peut-il-comporter-une-periode-d-essai-nbsp"
-      },
-      {
-        "title": "Contrat de travail : quelles obligations découlent du contrat de travail ?",
-        "url": "/fiche-ministere-travail/contrat-de-travail-les-principales-caracteristiques#Quelles-obligations-decoulent-du-contrat-de-travail"
-      },
-      {
-        "title": "Contrat de travail : quelles sont les situations entraînant la suspension du contrat de travail ?",
-        "url": "/fiche-ministere-travail/contrat-de-travail-les-principales-caracteristiques#Quelles-sont-les-situations-entrainant-la-suspension-du-contrat-de-travail-nbsp"
-      },
-      {
-        "title": "Comment le CDI peut-il prendre fin ?",
-        "url": "/fiche-ministere-travail/le-contrat-de-travail-a-duree-indeterminee-cdi#Comment-le-CDI-peut-il-prendre-fin"
-      },
-      {
-        "title": "Dans quels cas un CDI doit-il être conclu ?",
-        "url": "/fiche-ministere-travail/le-contrat-de-travail-a-duree-indeterminee-cdi#Dans-quels-cas-un-CDI-doit-il-etre-conclu"
-      },
-      {
-        "title": "Le contrat à durée indéterminée de chantier ou d’opération : qu’est-ce qu’un contrat de chantier ou d’opération ?",
-        "url": "/fiche-ministere-travail/le-contrat-a-duree-indeterminee-de-chantier-ou-doperation#Qu-est-ce-qu-un-contrat-de-chantier-ou-d-operation"
-      },
-      {
-        "title": "Le contrat à durée indéterminée de chantier ou d’opération : quelle entreprise peut recourir au cdi de chantier ou d’opération ?",
-        "url": "/fiche-ministere-travail/le-contrat-a-duree-indeterminee-de-chantier-ou-doperation#Quelle-entreprise-peut-recourir-au-CDI-de-chantier-ou-d-operation-nbsp"
-      },
-      {
-        "title": "Le contrat à durée indéterminée de chantier ou d’opération : cdi de chantier ou d’opération : comment est-il rompu ?",
-        "url": "/fiche-ministere-travail/le-contrat-a-duree-indeterminee-de-chantier-ou-doperation#CDI-de-chantier-ou-d-operation-comment-est-il-rompu"
-      },
-      {
         "title": "Qu'est-ce que le contrat de chantier ou d'opération ?",
         "url": "/fiche-service-public/quest-ce-que-le-contrat-de-chantier-ou-doperation"
       },
       {
         "title": "L'entreprise peut-elle embaucher dans le cadre d'un CDI de chantier ou d’opération ? ",
         "url": "/contribution/lentreprise-peut-elle-embaucher-dans-le-cadre-dun-cdi-de-chantier-ou-doperation"
+      },
+      {
+        "title": "",
+        "url": "/fiche-ministere-travail/le-contrat-a-duree-indeterminee-de-chantier-ou-doperation"
       }
     ],
     "title": "CDI",
@@ -1142,52 +1108,24 @@
     "position": null,
     "refs": [
       {
+        "title": "",
+        "url": "/fiche-ministere-travail/les-conges-payes"
+      },
+      {
         "title": "Congés payés",
         "url": "/fiche-service-public/conges-payes"
       },
       {
-        "title": "Les congés payés : qui a droit aux congés payés ?",
-        "url": "/fiche-ministere-travail/les-conges-payes#Qui-a-droit-aux-conges-payes"
+        "title": "Si le salarié est malade pendant ses congés, quelles en sont les conséquences ?",
+        "url": "/contribution/si-le-salarie-est-malade-pendant-ses-conges-quelles-en-sont-les-consequences"
       },
       {
-        "title": "Les congés payés : comment calculer le nombre de jours de congés ?",
-        "url": "/fiche-ministere-travail/les-conges-payes#Comment-calculer-le-nombre-de-jours-de-conges"
+        "title": "Un employeur peut-il imposer au salarié en congé payés de revenir travailler ?",
+        "url": "/fiche-service-public/un-employeur-peut-il-imposer-au-salarie-en-conge-payes-de-revenir-travailler"
       },
       {
         "title": "Arrêt maladie et congés payés annuels",
         "url": "/fiche-service-public/arret-maladie-et-conges-payes-annuels"
-      },
-      {
-        "title": "Les congés payés : qu’appelle-t-on période de référence ?",
-        "url": "/fiche-ministere-travail/les-conges-payes#Qu-appelle-t-on-periode-de-reference"
-      },
-      {
-        "title": "Les congés payés : « jour ouvrable » : de quoi s’agit-il ?",
-        "url": "/fiche-ministere-travail/les-conges-payes#lt-lt-Jour-ouvrable-de-quoi-s-agit-il"
-      },
-      {
-        "title": "Les congés payés : à quel moment prendre les congés payés ?",
-        "url": "/fiche-ministere-travail/les-conges-payes#A-quel-moment-prendre-les-conges-payes"
-      },
-      {
-        "title": "Les congés payés : quelles sont les modalités de prise des congés payés ?",
-        "url": "/fiche-ministere-travail/les-conges-payes#Quelles-sont-les-modalites-de-prise-des-conges-payes"
-      },
-      {
-        "title": "Les congés payés : dans quels cas le salarié a-t-il droit à des congés supplémentaires ?",
-        "url": "/fiche-ministere-travail/les-conges-payes#Dans-quels-cas-le-salarie-a-t-il-droit-a-des-conges-supplementaires-nbsp"
-      },
-      {
-        "title": "Les congés payés : quelle est l’incidence de l’absence pour maladie sur le droit aux congés payés ?",
-        "url": "/fiche-ministere-travail/les-conges-payes#Quelle-est-l-incidence-de-l-absence-pour-maladie-sur-le-droit-aux-conges-nbsp"
-      },
-      {
-        "title": "Les congés payés : quelles sont les conséquences de la maladie durant les congés payés ?",
-        "url": "/fiche-ministere-travail/les-conges-payes#Quelles-sont-les-consequences-de-la-maladie-durant-les-conges-payes-nbsp"
-      },
-      {
-        "title": "Si le salarié est malade pendant ses congés, quelles en sont les conséquences ?",
-        "url": "/contribution/si-le-salarie-est-malade-pendant-ses-conges-quelles-en-sont-les-consequences"
       },
       {
         "title": "A-t-on droit à des congés payés pendant un CDD ?",
@@ -1208,10 +1146,6 @@
       {
         "title": "Comment calculer l'indemnité de congés payés du salarié ?",
         "url": "/fiche-service-public/comment-calculer-lindemnite-de-conges-payes-du-salarie"
-      },
-      {
-        "title": "Un employeur peut-il imposer au salarié en congé payés de revenir travailler ?",
-        "url": "/fiche-service-public/un-employeur-peut-il-imposer-au-salarie-en-conge-payes-de-revenir-travailler"
       },
       {
         "title": "Fermeture de l'entreprise pour congés annuels : le salarié est-il indemnisé ?",
@@ -1266,8 +1200,8 @@
     "position": 413,
     "refs": [
       {
-        "title": "Les congés pour événements familiaux : quels sont les événements ouvrant droit à congé ?",
-        "url": "/fiche-ministere-travail/les-conges-pour-evenements-familiaux#Quels-sont-les-evenements-ouvrant-droit-a-conge"
+        "title": "",
+        "url": "/fiche-ministere-travail/les-conges-pour-evenements-familiaux"
       },
       {
         "title": "Les congés pour événements familiaux",
@@ -1281,34 +1215,6 @@
         "url": "/fiche-service-public/autorisation-dabsence-pour-deces-dun-membre-de-la-famille-salarie-du-prive"
       },
       {
-        "title": "Les congés pour événements familiaux : quelle est la durée du congé ?",
-        "url": "/fiche-ministere-travail/les-conges-pour-evenements-familiaux#Quelle-est-la-duree-du-conge"
-      },
-      {
-        "title": "L’allocation journalière d’accompagnement d’une personne en fin de vie",
-        "url": "/fiche-ministere-travail/lallocation-journaliere-daccompagnement-dune-personne-en-fin-de-vie"
-      },
-      {
-        "title": "L’allocation journalière d’accompagnement d’une personne en fin de vie : quels sont les bénéficiaires de l’allocation ?",
-        "url": "/fiche-ministere-travail/lallocation-journaliere-daccompagnement-dune-personne-en-fin-de-vie#Quels-sont-les-beneficiaires-de-l-allocation"
-      },
-      {
-        "title": "L’allocation journalière d’accompagnement d’une personne en fin de vie : quelle est la durée de versement ?",
-        "url": "/fiche-ministere-travail/lallocation-journaliere-daccompagnement-dune-personne-en-fin-de-vie#Quelle-est-la-duree-de-versement"
-      },
-      {
-        "title": "L’allocation journalière d’accompagnement d’une personne en fin de vie : quel est le montant de l’allocation ?",
-        "url": "/fiche-ministere-travail/lallocation-journaliere-daccompagnement-dune-personne-en-fin-de-vie#Quel-est-le-montant-de-l-allocation"
-      },
-      {
-        "title": "L’allocation journalière d’accompagnement d’une personne en fin de vie : quelles sont les conditions de cumul avec d’autres prestations ?",
-        "url": "/fiche-ministere-travail/lallocation-journaliere-daccompagnement-dune-personne-en-fin-de-vie#Quelles-sont-les-conditions-de-cumul-avec-d-autres-prestations-nbsp"
-      },
-      {
-        "title": "L’allocation journalière d’accompagnement d’une personne en fin de vie : quelle est la procédure ?",
-        "url": "/fiche-ministere-travail/lallocation-journaliere-daccompagnement-dune-personne-en-fin-de-vie#Quelle-est-la-procedure"
-      },
-      {
         "title": "Autorisation d'absence pour décès d'un membre de la famille (salarié du privé)",
         "url": "/fiche-service-public/autorisation-dabsence-pour-deces-dun-membre-de-la-famille-salarie-du-prive"
       },
@@ -1319,6 +1225,10 @@
       {
         "title": "Congé du salarié pour le mariage de son enfant",
         "url": "/fiche-service-public/conge-du-salarie-pour-le-mariage-de-son-enfant"
+      },
+      {
+        "title": "L’allocation journalière d’accompagnement d’une personne en fin de vie",
+        "url": "/fiche-ministere-travail/lallocation-journaliere-daccompagnement-dune-personne-en-fin-de-vie"
       }
     ],
     "title": "Congés pour événément familial",
@@ -1480,12 +1390,16 @@
     "position": 12,
     "refs": [
       {
+        "title": " Quelles informations doivent figurer dans le contrat de travail ou la lettre d'engagement ?",
+        "url": "/contribution/quelles-informations-doivent-figurer-dans-le-contrat-de-travail-ou-la-lettre-dengagement"
+      },
+      {
         "title": "Est-il obligatoire d'avoir un contrat de travail écrit et signé ?",
         "url": "/contribution/est-il-obligatoire-davoir-un-contrat-de-travail-ecrit-et-signe"
       },
       {
-        "title": " Quelles informations doivent figurer dans le contrat de travail ou la lettre d'engagement ?",
-        "url": "/contribution/quelles-informations-doivent-figurer-dans-le-contrat-de-travail-ou-la-lettre-dengagement"
+        "title": "Le contrat de travail est-il obligatoirement écrit ?",
+        "url": "/fiche-service-public/le-contrat-de-travail-est-il-obligatoirement-ecrit"
       },
       {
         "url": "/fiche-service-public/quest-ce-quune-clause-de-non-concurrence"
@@ -1507,16 +1421,8 @@
         "url": "/fiche-service-public/portage-salarial"
       },
       {
-        "title": "Comment déterminer l'ancienneté du salarié ?",
-        "url": "/contribution/comment-determiner-lanciennete-du-salarie"
-      },
-      {
         "title": "Qu'est-ce qu'un contrat de travail à durée indéterminée (CDI) intérimaire ?",
         "url": "/fiche-service-public/quest-ce-quun-contrat-de-travail-a-duree-indeterminee-cdi-interimaire"
-      },
-      {
-        "title": "Le contrat de travail est-il obligatoirement écrit ?",
-        "url": "/fiche-service-public/le-contrat-de-travail-est-il-obligatoirement-ecrit"
       },
       {
         "title": "Quels sont les droits du salarié dont le contrat de travail est suspendu ?",
@@ -1550,16 +1456,20 @@
         "url": "/contribution/si-un-poste-se-libere-ou-est-cree-dans-lentreprise-lemployeur-doit-il-en-informer-les-salaries-ou-le-leur-proposer-en-priorite"
       },
       {
+        "title": "Comment déterminer l'ancienneté du salarié ?",
+        "url": "/contribution/comment-determiner-lanciennete-du-salarie"
+      },
+      {
         "title": "",
         "url": "/fiche-ministere-travail/embauche-demission-sanctions-licenciement"
       },
       {
         "title": "",
-        "url": "/fiche-service-public/comment-faire-garder-son-enfant-dans-une-maison-dassistantes-maternelles"
+        "url": "/fiche-service-public/quels-sont-les-droits-dun-salarie-elu-local-qui-continue-de-travailler"
       },
       {
         "title": "",
-        "url": "/fiche-service-public/quels-sont-les-droits-dun-salarie-elu-local-qui-continue-de-travailler"
+        "url": "/fiche-ministere-travail/contrat-de-travail-les-principales-caracteristiques"
       }
     ],
     "title": "Contrat de travail",
@@ -1784,6 +1694,10 @@
       {
         "title": "",
         "url": "/fiche-ministere-travail/le-travail-saisonnier"
+      },
+      {
+        "title": "Qu'est-ce que le CDI intermittent (CDII ou CD2I) ?",
+        "url": "/fiche-service-public/quest-ce-que-le-cdi-intermittent-cdii-ou-cd2i"
       }
     ],
     "title": "Contrats divers et professions particulières",
@@ -1889,48 +1803,33 @@
     "position": 81,
     "refs": [
       {
+        "title": "",
+        "url": "/fiche-ministere-travail/la-demission"
+      },
+      {
         "url": "/fiche-service-public/demission-dun-salarie"
       },
       {
-        "title": "La démission : comment présenter une démission ?",
-        "url": "/fiche-ministere-travail/la-demission#Comment-presenter-une-demission"
-      },
-      {
         "url": "/fiche-service-public/le-salarie-peut-il-revenir-sur-sa-demission"
-      },
-      {
-        "title": "La démission : quelle est la situation du salarié à la fin du contrat ?",
-        "url": "/fiche-ministere-travail/la-demission#Quelle-est-la-situation-du-salarie-a-la-fin-du-contrat"
-      },
-      {
-        "title": "La démission : faut-il respecter un préavis ?",
-        "url": "/fiche-ministere-travail/la-demission#Faut-il-respecter-un-preavis"
       },
       {
         "title": " Quelle est la durée du préavis en cas de démission ?",
         "url": "/contribution/quelle-est-la-duree-du-preavis-en-cas-de-demission"
       },
       {
-        "title": "Le préavis de démission doit-il être exécuté en totalité ? Y compris si le salarié a retrouvé un emploi ?",
-        "url": "/contribution/le-preavis-de-demission-doit-il-etre-execute-en-totalite-y-compris-si-le-salarie-a-retrouve-un-emploi"
-      },
-      {
         "title": "Simulateur de délais de préavis de démission",
         "url": "/outils/preavis-demission"
       },
       {
-        "title": "La démission : et les heures pour recherche d’emploi ?",
-        "url": "/fiche-ministere-travail/la-demission#Et-les-heures-pour-recherche-d-emploi"
+        "title": "Le préavis de démission doit-il être exécuté en totalité ? Y compris si le salarié a retrouvé un emploi ?",
+        "url": "/contribution/le-preavis-de-demission-doit-il-etre-execute-en-totalite-y-compris-si-le-salarie-a-retrouve-un-emploi"
       },
       {
         "url": "/fiche-service-public/est-on-dispense-de-preavis-en-cas-de-demission-liee-a-la-mutation-du-conjoint"
       },
       {
-        "url": "/fiche-service-public/peut-on-percevoir-lallocation-chomage-en-cas-de-demission"
-      },
-      {
-        "title": "La démission : le salarié peut-il « démissionner » dans le cadre d’un contrat à durée déterminée ?",
-        "url": "/fiche-ministere-travail/la-demission#Le-salarie-peut-il-lt-lt-demissionner-dans-le-cadre-d-un-contrat-a-nbsp"
+        "title": "Bénéficie-t-on d'heures de recherche d'emploi pendant le préavis de démission ?",
+        "url": "/fiche-service-public/beneficie-t-on-dheures-de-recherche-demploi-pendant-le-preavis-de-demission"
       },
       {
         "url": "/fiche-service-public/peut-on-demissionner-pendant-un-conge-maternite"
@@ -1948,36 +1847,19 @@
         "url": "/fiche-service-public/peut-on-demissionner-pendant-un-conge-parental"
       },
       {
-        "title": "La démission : l’absence prolongée du salarié est-elle une démission ?",
-        "url": "/fiche-ministere-travail/la-demission#L-absence-prolongee-du-salarie-est-elle-une-demission"
-      },
-      {
-        "title": "La démission : le refus, par le salarié, d’accepter un changement des conditions de travail est-il une démission ?",
-        "url": "/fiche-ministere-travail/la-demission#Le-refus-par-le-salarie-d-accepter-un-changement-des-conditions-de-nbsp"
-      },
-      {
-        "title": "Le droit aux allocations chômage du salarié démissionnaire : quelles sont les démissions considérées comme légitimes ?",
-        "url": "/fiche-ministere-travail/le-droit-aux-allocations-chomage-du-salarie-demissionnaire#Quelles-sont-les-demissions-considerees-comme-legitimes"
-      },
-      {
         "title": "Le droit aux allocations chômage du salarié démissionnaire : que se passe-t-il dans les autres cas ?",
         "url": "/fiche-ministere-travail/le-droit-aux-allocations-chomage-du-salarie-demissionnaire"
+      },
+      {
+        "url": "/fiche-service-public/peut-on-percevoir-lallocation-chomage-en-cas-de-demission"
       },
       {
         "title": "De nouveaux droits pour les salariés démissionnaires",
         "url": "/fiche-ministere-travail/de-nouveaux-droits-pour-les-salaries-demissionnaires"
       },
       {
-        "title": "De nouveaux droits pour les salariés : tous les salariés ayant au moins 5 ans d’ancienneté dans leur entreprise auront droit à l’assurance chômage quand ils démissionnent pour réaliser un projet professionnel.",
-        "url": "/fiche-ministere-travail/de-nouveaux-droits-pour-les-salaries#Tous-les-salaries-ayant-au-moins-5-ans-d-anciennete-dans-leur-entreprise-nbsp"
-      },
-      {
-        "title": "De nouveaux droits pour les salariés : tous les salariés seront gratuitement accompagnés pour élaborer et réaliser leur projet professionnel lorsqu’ils démissionnent.",
-        "url": "/fiche-ministere-travail/de-nouveaux-droits-pour-les-salaries#Tous-les-salaries-seront-gratuitement-accompagnes-pour-elaborer-et-realiser-nbsp"
-      },
-      {
-        "title": "Bénéficie-t-on d'heures de recherche d'emploi pendant le préavis de démission ?",
-        "url": "/fiche-service-public/beneficie-t-on-dheures-de-recherche-demploi-pendant-le-preavis-de-demission"
+        "title": "",
+        "url": "/fiche-ministere-travail/de-nouveaux-droits-pour-les-salaries"
       }
     ],
     "title": "Démission",
@@ -2413,6 +2295,10 @@
       {
         "title": "Combien d'heures un salarié peut-il travailler en continu ?",
         "url": "/fiche-service-public/combien-dheures-un-salarie-peut-il-travailler-en-continu"
+      },
+      {
+        "title": "",
+        "url": "/fiche-service-public/accident-du-travail-reprise-du-travail-du-salarie"
       }
     ],
     "title": "Durée du travail",
@@ -2903,7 +2789,12 @@
         "position": 5
       }
     ],
-    "children": [],
+    "children": [
+      {
+        "label": "Activité partielle (anciennement chômage partiel)",
+        "position": null
+      }
+    ],
     "position": 53,
     "refs": [
       {
@@ -3289,6 +3180,25 @@
   {
     "breadcrumbs": [
       {
+        "label": "Embauche et contrat de travail",
+        "position": 1
+      },
+      {
+        "label": "Embauche",
+        "position": 11
+      }
+    ],
+    "children": [],
+    "position": 118,
+    "refs": [],
+    "title": "Handicap",
+    "variants": [
+      "Handicap"
+    ]
+  },
+  {
+    "breadcrumbs": [
+      {
         "label": "Santé, sécurité et conditions de travail",
         "position": 6
       },
@@ -3315,38 +3225,6 @@
       {
         "title": "",
         "url": "/fiche-ministere-travail/les-aides-de-lagefiph"
-      }
-    ],
-    "title": "Handicap",
-    "variants": [
-      "Handicap"
-    ]
-  },
-  {
-    "breadcrumbs": [
-      {
-        "label": "Embauche et contrat de travail",
-        "position": 1
-      },
-      {
-        "label": "Embauche",
-        "position": 11
-      }
-    ],
-    "children": [],
-    "position": 118,
-    "refs": [
-      {
-        "title": "Qui est concerné par l’obligation d’emploi des travailleurs handicapés (OETH) ?",
-        "url": "/fiche-ministere-travail/obligation-demploi-en-faveur-des-travailleurs-handicapes-oeth#Qui-est-concerne-par-l-obligation-d-emploi-des-travailleurs-handicapes-nbsp"
-      },
-      {
-        "title": "Comment l’employeur peut-il s’acquitter de son OETH ?",
-        "url": "/fiche-ministere-travail/obligation-demploi-en-faveur-des-travailleurs-handicapes-oeth#Comment-l-employeur-peut-il-s-acquitter-de-son-OETH"
-      },
-      {
-        "title": "OETH : comment l’obligation d’emploi des travailleurs handicapés est-elle contrôlée ?",
-        "url": "/fiche-ministere-travail/obligation-demploi-en-faveur-des-travailleurs-handicapes-oeth#Comment-l-obligation-d-emploi-des-travailleurs-handicapes-est-elle-nbsp"
       }
     ],
     "title": "Handicap",
@@ -3435,43 +3313,15 @@
     "position": 34,
     "refs": [
       {
-        "title": "Les heures supplémentaires : quel est le cadre de décompte des heures supplémentaires ?",
-        "url": "/fiche-ministere-travail/les-heures-supplementaires-definition-et-limites#Quel-est-le-cadre-de-decompte-des-heures-supplementaires"
+        "url": "/fiche-service-public/heures-supplementaires-dun-salarie-du-secteur-prive"
+      },
+      {
+        "title": "Relevé d’heures supplémentaires",
+        "url": "/modeles-de-courriers/releve-dheures-supplementaires"
       },
       {
         "title": "Modèle : lettre de réclamation des heures supplémentaires",
         "url": "/modeles-de-courriers/lettre-de-reclamation-des-heures-supplementaires"
-      },
-      {
-        "title": "Les heures supplémentaires : quels sont les principes d’ordre public ?",
-        "url": "/fiche-ministere-travail/les-heures-supplementaires-contreparties#Quels-sont-les-principes-d-ordre-public"
-      },
-      {
-        "title": "Les heures supplémentaires : quelles sont les majorations de salaire applicables ?",
-        "url": "/fiche-ministere-travail/les-heures-supplementaires-contreparties#Quelles-sont-les-majorations-de-salaire-applicables"
-      },
-      {
-        "title": "Les heures supplémentaires : en quoi consiste le « repos compensateur de remplacement » ?",
-        "url": "/fiche-ministere-travail/les-heures-supplementaires-contreparties#En-quoi-consiste-le-lt-lt-repos-compensateur-de-remplacement-nbsp"
-      },
-      {
-        "title": "Les heures supplémentaires : la contrepartie obligatoire en repos (cor) : dans quels cas et pour quelle durée ?",
-        "url": "/fiche-ministere-travail/les-heures-supplementaires-contreparties#La-contrepartie-obligatoire-en-repos-COR-dans-quels-cas-et-pour-quelle-nbsp"
-      },
-      {
-        "title": "Les heures supplémentaires : qu’est-ce qu’une heure supplémentaire ?",
-        "url": "/fiche-ministere-travail/les-heures-supplementaires-definition-et-limites#Qu-est-ce-qu-une-heure-supplementaire"
-      },
-      {
-        "url": "/fiche-service-public/heures-supplementaires-dun-salarie-du-secteur-prive"
-      },
-      {
-        "title": "Les heures supplémentaires : quelles sont les règles applicables au contingent d’heures supplémentaires ?",
-        "url": "/fiche-ministere-travail/les-heures-supplementaires-definition-et-limites#Quelles-sont-les-regles-applicables-au-contingent-d-heures-supplementaires-nbsp"
-      },
-      {
-        "title": "Les heures supplémentaires : quelles sont les limites à l’accomplissement d’heures supplémentaires ?",
-        "url": "/fiche-ministere-travail/les-heures-supplementaires-definition-et-limites#Quelles-sont-les-limites-a-l-accomplissement-d-heures-supplementaires-nbsp"
       },
       {
         "title": "Heures d'équivalence dans le secteur privé",
@@ -3482,8 +3332,12 @@
         "url": "/fiche-service-public/astreinte-dans-le-secteur-prive"
       },
       {
-        "title": "Relevé d’heures supplémentaires",
-        "url": "/modeles-de-courriers/releve-dheures-supplementaires"
+        "title": "",
+        "url": "/fiche-ministere-travail/les-heures-supplementaires-contreparties"
+      },
+      {
+        "title": "",
+        "url": "/fiche-ministere-travail/les-heures-supplementaires-definition-et-limites"
       }
     ],
     "title": "Heures supplémentaires, d'équivalence et astreintes",
@@ -3657,32 +3511,12 @@
         "url": "/fiche-service-public/contrat-de-travail-temporaire-interim"
       },
       {
-        "title": "Le contrat de travail temporaire : qu’est-ce qu’une mission ?",
-        "url": "/fiche-ministere-travail/le-contrat-de-travail-temporaire#Qu-est-ce-qu-une-mission"
-      },
-      {
-        "title": "Le contrat de travail temporaire : quelles sont les mentions qui doivent figurer sur les contrats ?",
-        "url": "/fiche-ministere-travail/le-contrat-de-travail-temporaire#Quelles-sont-les-mentions-qui-doivent-figurer-sur-les-contrats-nbsp"
-      },
-      {
-        "title": "Le contrat de travail temporaire : quelle est la durée du contrat ?",
-        "url": "/fiche-ministere-travail/le-contrat-de-travail-temporaire#Quelle-est-la-duree-du-contrat"
-      },
-      {
-        "title": "Le contrat de travail temporaire : quelle est la durée de la période d’essai ?",
-        "url": "/fiche-ministere-travail/le-contrat-de-travail-temporaire#Quelle-est-la-duree-de-la-periode-d-essai"
-      },
-      {
-        "title": "Le contrat de travail temporaire : quels sont les droits collectifs et individuels du salarié intérimaire ?",
-        "url": "/fiche-ministere-travail/le-contrat-de-travail-temporaire#Quels-sont-les-droits-collectifs-et-individuels-du-salarie-interimaire-nbsp"
-      },
-      {
-        "title": "Le contrat de travail temporaire : dans quels cas l’employeur encourt-il des sanctions pénales ?",
-        "url": "/fiche-ministere-travail/le-contrat-de-travail-temporaire#Dans-quels-cas-l-employeur-encourt-il-des-sanctions-penales-nbsp"
-      },
-      {
         "title": " Quelle est la durée maximale du contrat de mission (intérim) ? ",
         "url": "/contribution/quelle-est-la-duree-maximale-du-contrat-de-mission-interim"
+      },
+      {
+        "title": "",
+        "url": "/fiche-ministere-travail/le-contrat-de-travail-temporaire"
       }
     ],
     "title": "Intérim",
@@ -3708,20 +3542,8 @@
         "url": "/fiche-service-public/a-partir-de-quel-age-peut-on-travailler"
       },
       {
-        "title": "Job d’été : quels jeunes peuvent être embauchés dans le cadre d’un job d’été ?",
-        "url": "/fiche-ministere-travail/job-dete-formalites-et-obligations#Quels-jeunes-peuvent-etre-embauches-dans-le-cadre-d-un-job-d-ete-nbsp"
-      },
-      {
-        "title": "Job d’été : quelles formalités ?",
-        "url": "/fiche-ministere-travail/job-dete-formalites-et-obligations#Quelles-formalites"
-      },
-      {
-        "title": "Job d’été : quelles conditions de travail ?",
-        "url": "/fiche-ministere-travail/job-dete-formalites-et-obligations#Job-d-ete-quelles-conditions-de-travail"
-      },
-      {
-        "title": "Job d’été : quel avantage fiscal pour le jeune salarié ?",
-        "url": "/fiche-ministere-travail/job-dete-formalites-et-obligations#Quel-avantage-fiscal-pour-le-jeune-salarie"
+        "title": "",
+        "url": "/fiche-ministere-travail/job-dete-formalites-et-obligations"
       }
     ],
     "title": "Jeunes",
@@ -3975,22 +3797,11 @@
         "url": "/fiche-service-public/allocation-chomage-daide-au-retour-a-lemploi-are-dun-salarie-du-prive"
       },
       {
-        "url": "/fiche-service-public/activite-partielle-demarches-de-lemployeur-chomage-partiel-ou-technique"
-      },
-      {
         "url": "/fiche-service-public/aide-a-lembauche-de-travailleurs-saisonniers-agricoles"
       },
       {
         "title": "Garantie jeunes (accompagnement pour trouver un travail)",
         "url": "/fiche-service-public/garantie-jeunes-accompagnement-pour-trouver-un-travail"
-      },
-      {
-        "title": "",
-        "url": "/fiche-ministere-travail/activite-partielle-chomage-partiel"
-      },
-      {
-        "title": "",
-        "url": "/fiche-ministere-travail/fiche-activite-partielle-chomage-partiel"
       },
       {
         "title": "",
@@ -4035,10 +3846,6 @@
       {
         "title": "",
         "url": "/fiche-ministere-travail/interessement-a-la-reprise-dactivite-des-beneficiaires-des-allocations-du-regime-de-solidarite"
-      },
-      {
-        "title": "",
-        "url": "/fiche-service-public/quelles-sont-les-incidences-du-chomage-partiel-sur-le-contrat-de-travail"
       }
     ],
     "title": "Les aides à l'emploi",
@@ -4296,6 +4103,18 @@
         "url": "/outils/indemnite-licenciement"
       },
       {
+        "title": "",
+        "url": "/fiche-service-public/indemnite-de-licenciement-du-salarie-en-cdi"
+      },
+      {
+        "title": "",
+        "url": "/fiche-ministere-travail/lindemnite-legale-de-licenciement"
+      },
+      {
+        "title": "",
+        "url": "/fiche-service-public/comment-calculer-lanciennete-pour-le-montant-de-lindemnite-de-licenciement"
+      },
+      {
         "url": "/fiche-service-public/licenciement-quest-ce-quun-conseiller-du-salarie"
       },
       {
@@ -4311,7 +4130,20 @@
         "url": "/fiche-service-public/preavis-de-licenciement"
       },
       {
-        "url": "/fiche-service-public/licenciement-abusif-a-quelle-indemnisation-peut-pretendre-le-salarie"
+        "title": " Quelle est la durée de préavis en cas de licenciement ?",
+        "url": "/contribution/quelle-est-la-duree-de-preavis-en-cas-de-licenciement"
+      },
+      {
+        "title": "Simulateur de durée de préavis de licenciement",
+        "url": "/outils/preavis-licenciement"
+      },
+      {
+        "title": "",
+        "url": "/contribution/le-preavis-de-licenciement-doit-il-etre-execute-en-totalite-y-compris-si-le-salarie-a-retrouve-un-emploi"
+      },
+      {
+        "title": "Peut-on bénéficier d'heures de recherche d'emploi pendant le préavis de licenciement ?",
+        "url": "/fiche-service-public/peut-on-beneficier-dheures-de-recherche-demploi-pendant-le-preavis-de-licenciement"
       },
       {
         "title": "Convocation à un entretien préalable au licenciement pour motif personnel",
@@ -4322,36 +4154,11 @@
         "url": "/modeles-de-courriers/convocation-a-un-entretien-prealable-au-licenciement-economique-de-moins-de-10-salaries-pendant-30-jours"
       },
       {
-        "title": "Simulateur de durée de préavis de licenciement",
-        "url": "/outils/preavis-licenciement"
-      },
-      {
-        "title": " Quelle est la durée de préavis en cas de licenciement ?",
-        "url": "/contribution/quelle-est-la-duree-de-preavis-en-cas-de-licenciement"
-      },
-      {
-        "title": "Peut-on bénéficier d'heures de recherche d'emploi pendant le préavis de licenciement ?",
-        "url": "/fiche-service-public/peut-on-beneficier-dheures-de-recherche-demploi-pendant-le-preavis-de-licenciement"
-      },
-      {
-        "title": "",
-        "url": "/fiche-service-public/comment-calculer-lanciennete-pour-le-montant-de-lindemnite-de-licenciement"
-      },
-      {
         "title": "",
         "url": "/fiche-ministere-travail/la-protection-en-cas-de-licenciement"
       },
       {
-        "title": "",
-        "url": "/contribution/le-preavis-de-licenciement-doit-il-etre-execute-en-totalite-y-compris-si-le-salarie-a-retrouve-un-emploi"
-      },
-      {
-        "title": "",
-        "url": "/fiche-service-public/indemnite-de-licenciement-du-salarie-en-cdi"
-      },
-      {
-        "title": "",
-        "url": "/fiche-ministere-travail/lindemnite-legale-de-licenciement"
+        "url": "/fiche-service-public/licenciement-abusif-a-quelle-indemnisation-peut-pretendre-le-salarie"
       }
     ],
     "title": "Licenciement",
@@ -4639,27 +4446,27 @@
     "position": 631,
     "refs": [
       {
+        "title": "",
+        "url": "/fiche-ministere-travail/les-absences-liees-a-la-maladie-ou-a-laccident-non-professionnel"
+      },
+      {
         "url": "/fiche-service-public/arret-maladie-demarches-a-effectuer"
       },
       {
         "url": "/fiche-service-public/arret-maladie-indemnites-journalieres-versees-au-salarie"
       },
       {
-        "url": "/fiche-service-public/lemployeur-peut-il-exiger-un-arret-de-travail-pour-une-journee-dabsence"
-      },
-      {
         "title": "En cas d’arrêt maladie du salarié, l’employeur doit-il assurer le maintien de salaire ?",
         "url": "/contribution/en-cas-darret-maladie-du-salarie-lemployeur-doit-il-assurer-le-maintien-de-salaire"
       },
       {
-        "title": "En cas de maladie, le salarié a-t-il droit à une garantie d’emploi ?",
-        "url": "/contribution/en-cas-de-maladie-le-salarie-a-t-il-droit-a-une-garantie-demploi"
-      },
-      {
-        "url": "/fiche-service-public/le-salarie-doit-il-passer-une-visite-medicale-apres-un-arret-de-travail"
+        "url": "/fiche-service-public/lemployeur-peut-il-exiger-un-arret-de-travail-pour-une-journee-dabsence"
       },
       {
         "url": "/fiche-service-public/arret-maladie-reprise-du-travail-du-salarie"
+      },
+      {
+        "url": "/fiche-service-public/le-salarie-doit-il-passer-une-visite-medicale-apres-un-arret-de-travail"
       },
       {
         "url": "/fiche-service-public/quelles-sont-les-heures-dautorisation-de-sortie-du-salarie-en-arret-maladie"
@@ -4686,6 +4493,10 @@
       {
         "title": "Mutuelle d'entreprise (complémentaire santé) : obligations de l'employeur",
         "url": "/fiche-service-public/mutuelle-dentreprise-complementaire-sante-obligations-de-lemployeur"
+      },
+      {
+        "title": "En cas de maladie, le salarié a-t-il droit à une garantie d’emploi ?",
+        "url": "/contribution/en-cas-de-maladie-le-salarie-a-t-il-droit-a-une-garantie-demploi"
       }
     ],
     "title": "Maladie",
@@ -4711,6 +4522,10 @@
         "url": "/fiche-service-public/candidat-a-une-offre-demploi-methodes-de-recrutement-autorisees"
       },
       {
+        "title": "",
+        "url": "/fiche-ministere-travail/offre-demploi-et-embauche-les-droits-du-candidat"
+      },
+      {
         "url": "/fiche-service-public/curriculum-vitae-cv-candidature-a-une-offre-demploi"
       },
       {
@@ -4720,10 +4535,6 @@
       {
         "title": "",
         "url": "/fiche-ministere-travail/entreprises-bonnes-pratiques-pour-recruter-sans-discriminer"
-      },
-      {
-        "title": "",
-        "url": "/fiche-ministere-travail/offre-demploi-et-embauche-les-droits-du-candidat"
       }
     ],
     "title": "Méthodes de recrutement",
@@ -5074,19 +4885,18 @@
         "url": "/fiche-service-public/periode-dessai"
       },
       {
-        "title": "La période d’essai : quelles sont les conditions pour qu’il existe une période d’essai ?",
-        "url": "/fiche-ministere-travail/la-periode-dessai#Quelles-sont-les-conditions-pour-qu-il-existe-une-periode-d-essai-nbsp"
+        "title": "La période d’essai peut-elle être renouvelée ?",
+        "url": "/contribution/la-periode-dessai-peut-elle-etre-renouvelee"
       },
       {
-        "title": "La période d’essai : quelle est la durée de la période d’essai ?",
-        "url": "/fiche-ministere-travail/la-periode-dessai#Quelle-est-la-duree-de-la-periode-d-essai"
+        "url": "/fiche-service-public/quest-ce-quun-essai-professionnel"
       },
       {
-        "title": "La période d’essai peut-elle être rompue ?",
-        "url": "/fiche-ministere-travail/la-periode-dessai#La-periode-d-essai-peut-elle-etre-rompue"
+        "url": "/fiche-service-public/quest-ce-quune-periode-probatoire-pour-le-salarie"
       },
       {
-        "url": "/fiche-service-public/un-salarie-peut-il-effectuer-plusieurs-periodes-dessai-chez-le-meme-employeur"
+        "title": "Quelle est la durée maximale de la période d'essai, sans et avec renouvellement ? ",
+        "url": "/contribution/quelle-est-la-duree-maximale-de-la-periode-dessai-sans-et-avec-renouvellement"
       },
       {
         "url": "/fiche-service-public/embauche-a-la-fin-dun-stage-quelles-consequences-sur-la-periode-dessai"
@@ -5098,34 +4908,27 @@
         "url": "/fiche-service-public/arret-maladie-pendant-la-periode-dessai-quelles-sont-les-regles"
       },
       {
-        "title": "Modèle : Demande d'accord du salarié pour le renouvellement de période d’essai",
-        "url": "/modeles-de-courriers/demande-daccord-du-salarie-pour-le-renouvellement-dune-periode-dessai"
+        "title": "Modèle de rupture du contrat en période d’essai à l'initiative du salarié",
+        "url": "/modeles-de-courriers/rupture-du-contrat-en-periode-dessai-a-linitiative-du-salarie"
       },
       {
         "title": "Modèle : rupture de période d’essai, à l'initiative de l'employeur",
         "url": "/modeles-de-courriers/rupture-de-periode-dessai-a-linitiative-de-lemployeur"
       },
       {
-        "title": "Modèle de rupture du contrat en période d’essai à l'initiative du salarié",
-        "url": "/modeles-de-courriers/rupture-du-contrat-en-periode-dessai-a-linitiative-du-salarie"
+        "title": "Modèle : Demande d'accord du salarié pour le renouvellement de période d’essai",
+        "url": "/modeles-de-courriers/demande-daccord-du-salarie-pour-le-renouvellement-dune-periode-dessai"
       },
       {
-        "url": "/fiche-service-public/quest-ce-quune-periode-probatoire-pour-le-salarie"
-      },
-      {
-        "url": "/fiche-service-public/quest-ce-quun-essai-professionnel"
-      },
-      {
-        "title": "Quelle est la durée maximale de la période d'essai, sans et avec renouvellement ? ",
-        "url": "/contribution/quelle-est-la-duree-maximale-de-la-periode-dessai-sans-et-avec-renouvellement"
+        "url": "/fiche-service-public/un-salarie-peut-il-effectuer-plusieurs-periodes-dessai-chez-le-meme-employeur"
       },
       {
         "title": "Arrêt maladie pendant la période d'essai : quelles sont les règles ?",
         "url": "/contribution/arret-maladie-pendant-la-periode-dessai-quelles-sont-les-regles"
       },
       {
-        "title": "La période d’essai peut-elle être renouvelée ?",
-        "url": "/contribution/la-periode-dessai-peut-elle-etre-renouvelee"
+        "title": "",
+        "url": "/fiche-ministere-travail/la-periode-dessai"
       }
     ],
     "title": "Période d'essai",
@@ -5332,30 +5135,6 @@
       {
         "title": "La prime exceptionnelle de pouvoir d’achat",
         "url": "/fiche-ministere-travail/la-prime-exceptionnelle-de-pouvoir-dachat"
-      },
-      {
-        "title": "La prime exceptionnelle de pouvoir d’achat : quelles sont les conditions des exonérations sociales et fiscales ?",
-        "url": "/fiche-ministere-travail/la-prime-exceptionnelle-de-pouvoir-dachat#Quelles-sont-les-conditions-des-exonerations-sociales-et-fiscales-nbsp"
-      },
-      {
-        "title": "La prime exceptionnelle de pouvoir d’achat : quels sont les employeurs concernés ?",
-        "url": "/fiche-ministere-travail/la-prime-exceptionnelle-de-pouvoir-dachat#Quels-sont-les-employeurs-concernes"
-      },
-      {
-        "title": "La prime exceptionnelle de pouvoir d’achat : quels sont les salariés concernés ?",
-        "url": "/fiche-ministere-travail/la-prime-exceptionnelle-de-pouvoir-dachat#Quels-sont-les-salaries-concernes"
-      },
-      {
-        "title": "La prime exceptionnelle de pouvoir d’achat : qui décide du versement de la prime et de son montant ?",
-        "url": "/fiche-ministere-travail/la-prime-exceptionnelle-de-pouvoir-dachat#Qui-decide-du-versement-de-la-prime-et-de-son-montant"
-      },
-      {
-        "title": "La prime exceptionnelle de pouvoir d’achat : quelles sont les modalités de versement de la prime ?",
-        "url": "/fiche-ministere-travail/la-prime-exceptionnelle-de-pouvoir-dachat#Quelles-sont-les-modalites-de-versement-de-la-prime"
-      },
-      {
-        "title": "La prime exceptionnelle de pouvoir d’achat : en quoi consiste l’exonération sociale et fiscale ?",
-        "url": "/fiche-ministere-travail/la-prime-exceptionnelle-de-pouvoir-dachat#En-quoi-consiste-l-exoneration-sociale-et-fiscale"
       },
       {
         "title": "",
@@ -5708,6 +5487,10 @@
       {
         "title": "",
         "url": "/fiche-ministere-travail/certification-des-competences-des-representants-du-personnel-et-des-mandataires-syndicaux"
+      },
+      {
+        "title": "",
+        "url": "/fiche-ministere-travail/les-regles-de-decompte-des-effectifs"
       }
     ],
     "title": "Représentation du personnel",
@@ -5742,18 +5525,6 @@
       {
         "title": "Contribution patronale au dialogue social",
         "url": "/fiche-service-public/contribution-patronale-au-dialogue-social"
-      },
-      {
-        "title": "Les règles de décompte des effectifs : comment les salariés sont-ils pris en compte dans l’effectif ?",
-        "url": "/fiche-ministere-travail/les-regles-de-decompte-des-effectifs#Comment-les-salaries-sont-ils-pris-en-compte-dans-l-effectif-nbsp"
-      },
-      {
-        "title": "Les règles de décompte des effectifs : quelles sont les règles applicables aux entreprises de travail temporaire ?",
-        "url": "/fiche-ministere-travail/les-regles-de-decompte-des-effectifs#Quelles-sont-les-regles-applicables-aux-entreprises-de-travail-temporaire-nbsp"
-      },
-      {
-        "title": "Les règles de décompte des effectifs : quels sont les salariés non pris en compte dans le calcul des effectifs ?",
-        "url": "/fiche-ministere-travail/les-regles-de-decompte-des-effectifs#Quels-sont-les-salaries-non-pris-en-compte-dans-le-calcul-des-effectifs-nbsp"
       },
       {
         "title": "",
@@ -6428,26 +6199,6 @@
     "position": 63,
     "refs": [
       {
-        "title": "Réforme de la médecine du travail et des services de santé au travail : i. dispositions transitoires",
-        "url": "/fiche-ministere-travail/reforme-de-la-medecine-du-travail-et-des-services-de-sante-au-travail-questions-les-plus-frequentes#I-Dispositions-transitoires"
-      },
-      {
-        "title": "Réforme de la médecine du travail et des services de santé au travail : ii. visites d’information et de prévention",
-        "url": "/fiche-ministere-travail/reforme-de-la-medecine-du-travail-et-des-services-de-sante-au-travail-questions-les-plus-frequentes#II-Visites-d-information-et-de-prevention"
-      },
-      {
-        "title": "Réforme de la médecine du travail et des services de santé au travail : iii. suivi individuel renforcé de l’état de santé des travailleurs affectés à des postes à risque",
-        "url": "/fiche-ministere-travail/reforme-de-la-medecine-du-travail-et-des-services-de-sante-au-travail-questions-les-plus-frequentes#III-Suivi-individuel-renforce-de-l-etat-de-sante-des-travailleurs-affectes-nbsp"
-      },
-      {
-        "title": "Réforme de la médecine du travail et des services de santé au travail : iv. autres visites et examens",
-        "url": "/fiche-ministere-travail/reforme-de-la-medecine-du-travail-et-des-services-de-sante-au-travail-questions-les-plus-frequentes#IV-Autres-visites-et-examens"
-      },
-      {
-        "title": "Réforme de la médecine du travail et des services de santé au travail : v. la déclaration d’inaptitude et ses suites",
-        "url": "/fiche-ministere-travail/reforme-de-la-medecine-du-travail-et-des-services-de-sante-au-travail-questions-les-plus-frequentes#V-La-declaration-d-inaptitude-et-ses-suites"
-      },
-      {
         "title": "Prestations sociales pour les commerçants et les artisans indépendants",
         "url": "/fiche-service-public/prestations-sociales-pour-les-commercants-et-les-artisans-independants"
       },
@@ -6462,6 +6213,10 @@
       {
         "title": "",
         "url": "/fiche-ministere-travail/quelles-mesures-lemployeur-doit-il-prendre-pour-proteger-la-sante-de-ses-salaries"
+      },
+      {
+        "title": "",
+        "url": "/fiche-ministere-travail/reforme-de-la-medecine-du-travail-et-des-services-de-sante-au-travail-questions-les-plus-frequentes"
       }
     ],
     "title": "Santé au travail",
@@ -6730,8 +6485,8 @@
         "url": "/fiche-service-public/temps-partiel-dans-le-secteur-prive"
       },
       {
-        "title": "Demande de dérogation à la durée minimale de travail pour un temps partiel",
-        "url": "/modeles-de-courriers/demande-de-derogation-a-la-duree-minimale-de-travail-pour-un-temps-partiel"
+        "title": "",
+        "url": "/fiche-ministere-travail/le-travail-a-temps-partiel-contrat-et-statut-du-salarie"
       },
       {
         "url": "/fiche-service-public/lemployeur-peut-il-instaurer-du-travail-a-temps-partiel-dans-lentreprise"
@@ -6740,11 +6495,12 @@
         "url": "/fiche-service-public/comment-faire-pour-passer-a-temps-partiel-dans-le-secteur-prive"
       },
       {
-        "title": "Le travail à temps partiel : quelle forme et quel contenu obligatoires pour le contrat de travail à temps partiel ?",
-        "url": "/fiche-ministere-travail/le-travail-a-temps-partiel-contrat-et-statut-du-salarie#Quelle-forme-et-quel-contenu-obligatoires-pour-le-contrat-de-travail-a-nbsp"
+        "title": "",
+        "url": "/fiche-ministere-travail/5-questions-reponses-sur-le-passage-a-temps-partiel"
       },
       {
-        "url": "/fiche-service-public/quest-ce-quun-complement-dheures-pour-le-salarie-a-temps-partiel"
+        "title": "Temps partiel : quelle est la durée minimale de travail ?",
+        "url": "/fiche-service-public/temps-partiel-quelle-est-la-duree-minimale-de-travail"
       },
       {
         "url": "/fiche-service-public/temps-partiel-quelle-incidence-sur-les-droits-a-conges-payes-du-salarie"
@@ -6753,64 +6509,15 @@
         "url": "/fiche-service-public/lemployeur-peut-il-modifier-les-horaires-du-salarie-a-temps-partiel"
       },
       {
-        "title": "Le travail à temps partiel : est-il possible de faire varier la durée du travail d’un salarié à temps partiel ?",
-        "url": "/fiche-ministere-travail/le-travail-a-temps-partiel-contrat-et-statut-du-salarie#Est-il-possible-de-faire-varier-la-duree-du-travail-d-un-salarie-a-temps-nbsp"
+        "url": "/fiche-service-public/quest-ce-quun-complement-dheures-pour-le-salarie-a-temps-partiel"
       },
       {
-        "title": "Le travail à temps partiel : en quoi consistent les heures complémentaires et comment sont-elles rémunérées ?",
-        "url": "/fiche-ministere-travail/le-travail-a-temps-partiel-contrat-et-statut-du-salarie#En-quoi-consistent-les-heures-complementaires-et-comment-sont-elles-nbsp"
-      },
-      {
-        "title": "Le travail à temps partiel : en quoi consistent les compléments d’heures par avenant ?",
-        "url": "/fiche-ministere-travail/le-travail-a-temps-partiel-contrat-et-statut-du-salarie#En-quoi-consistent-les-complements-d-heures-par-avenant"
-      },
-      {
-        "title": "Le travail à temps partiel : en quoi consiste le temps partiel en raison des besoins de la vie personnelle ?",
-        "url": "/fiche-ministere-travail/le-travail-a-temps-partiel-contrat-et-statut-du-salarie#En-quoi-consiste-le-temps-partiel-en-raison-des-besoins-de-la-vie-nbsp"
-      },
-      {
-        "title": "Le travail à temps partiel : des coupures d’activité au cours de la journée de travail : est-ce possible ?",
-        "url": "/fiche-ministere-travail/le-travail-a-temps-partiel-contrat-et-statut-du-salarie#Des-coupures-d-activite-au-cours-de-la-journee-de-travail-est-ce-possible-nbsp"
-      },
-      {
-        "title": "Le travail à temps partiel : quels sont les droits des salariés à temps partiel ?",
-        "url": "/fiche-ministere-travail/le-travail-a-temps-partiel-contrat-et-statut-du-salarie#Quels-sont-les-droits-des-salaries-a-temps-partiel"
-      },
-      {
-        "title": "Le passage à temps partiel : passage à temps partiel : comment obtenir un temps partiel ?",
-        "url": "/fiche-ministere-travail/5-questions-reponses-sur-le-passage-a-temps-partiel#Question-1-Passage-a-temps-partiel-comment-obtenir-un-temps-partiel-nbsp"
-      },
-      {
-        "title": "Le passage à temps partiel : passage à temps partiel : faut-il modifier le contrat de travail ?",
-        "url": "/fiche-ministere-travail/5-questions-reponses-sur-le-passage-a-temps-partiel#Question-2-Passage-a-temps-partiel-faut-il-modifier-le-contrat-de-travail-nbsp"
-      },
-      {
-        "title": "Le passage à temps partiel : passage à temps partiel : peut-on choisir ses horaires ?",
-        "url": "/fiche-ministere-travail/5-questions-reponses-sur-le-passage-a-temps-partiel#Question-3-Passage-a-temps-partiel-peut-on-choisir-ses-horaires-nbsp"
-      },
-      {
-        "title": "Le passage à temps partiel : passage à temps partiel : peut-on revenir à temps plein ?",
-        "url": "/fiche-ministere-travail/5-questions-reponses-sur-le-passage-a-temps-partiel#Question-4-Passage-a-temps-partiel-peut-on-revenir-a-temps-plein-nbsp"
-      },
-      {
-        "title": "Le passage à temps partiel : passage à temps partiel : quels droits pour les salariés à temps partiel ?",
-        "url": "/fiche-ministere-travail/5-questions-reponses-sur-le-passage-a-temps-partiel#Question-5-Passage-a-temps-partiel-quels-droits-pour-les-salaries-a-temps-nbsp"
+        "title": "Demande de dérogation à la durée minimale de travail pour un temps partiel",
+        "url": "/modeles-de-courriers/demande-de-derogation-a-la-duree-minimale-de-travail-pour-un-temps-partiel"
       },
       {
         "title": "Qu'est-ce que le temps partiel annualisé pour raisons familiales ?",
         "url": "/fiche-service-public/quest-ce-que-le-temps-partiel-annualise-pour-raisons-familiales"
-      },
-      {
-        "title": "Temps partiel : quelle est la durée minimale de travail ?",
-        "url": "/fiche-service-public/temps-partiel-quelle-est-la-duree-minimale-de-travail"
-      },
-      {
-        "title": "Qu'est-ce que le CDI intermittent (CDII ou CD2I) ?",
-        "url": "/fiche-service-public/quest-ce-que-le-cdi-intermittent-cdii-ou-cd2i"
-      },
-      {
-        "title": "Le travail à temps partiel : la répartition de la durée du travail prévue au contrat peut-elle être modifiée ?",
-        "url": "/fiche-ministere-travail/le-travail-a-temps-partiel-contrat-et-statut-du-salarie#La-repartition-de-la-duree-du-travail-prevue-au-contrat-peut-elle-etre-nbsp"
       },
       {
         "title": "À quelles conditions un salarié peut-il cumuler plusieurs emplois ?",
@@ -7171,6 +6878,10 @@
       {
         "title": "",
         "url": "/fiche-ministere-travail/emploi-et-handicap-acceder-a-un-emploi-dans-la-fonction-publique"
+      },
+      {
+        "title": "",
+        "url": "/fiche-ministere-travail/obligation-demploi-en-faveur-des-travailleurs-handicapes-oeth"
       }
     ],
     "title": "Travailleurs handicapés",
