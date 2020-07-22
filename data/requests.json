@@ -4163,33 +4163,33 @@
         "position": 2
       },
       {
-        "url": "/fiche-service-public/licenciement-dune-salariee-enceinte-ou-en-conge-de-maternite",
-        "title": "Licenciement d'une salariée enceinte ou en congé de maternité",
-        "position": 3
-      },
-      {
         "url": "/fiche-ministere-travail/le-conge-de-maternite#Quelle-est-la-situation-a-l-issue-du-conge",
         "title": "Le congé de maternité : quelle est la situation à l’issue du congé ?",
-        "position": 4
+        "position": 3
       },
       {
         "url": "/fiche-ministere-travail/le-conge-de-maternite#Quelle-est-la-duree-du-conge-de-maternite",
         "title": "Le congé de maternité : quelle est la durée du congé de maternité ?",
-        "position": 5
+        "position": 4
       },
       {
         "url": "/fiche-ministere-travail/le-conge-de-maternite#Quelles-sont-les-dispositions-specifiques",
         "title": "Le congé de maternité : quelles sont les dispositions spécifiques ?",
-        "position": 6
-      },
-      {
-        "url": "/fiche-service-public/maternite-pendant-le-conge-parental-quelles-sont-les-regles",
-        "title": "Maternité pendant le congé parental : quelles sont les règles ?",
-        "position": 7
+        "position": 5
       },
       {
         "url": "/fiche-service-public/une-salariee-enceinte-est-elle-obligee-de-reveler-sa-grossesse-a-son-employeur",
         "title": "Une salariée enceinte est-elle obligée de révéler sa grossesse à son employeur ?",
+        "position": 6
+      },
+      {
+        "url": "/fiche-service-public/licenciement-dune-salariee-enceinte-ou-en-conge-de-maternite",
+        "title": "Licenciement d'une salariée enceinte ou en congé de maternité",
+        "position": 7
+      },
+      {
+        "url": "/fiche-service-public/peut-on-demissionner-pendant-un-conge-maternite",
+        "title": "Peut-on démissionner pendant un congé maternité ?",
         "position": 8
       },
       {
@@ -4198,34 +4198,29 @@
         "position": 9
       },
       {
-        "url": "/fiche-service-public/peut-on-demissionner-pendant-un-conge-maternite",
-        "title": "Peut-on démissionner pendant un congé maternité ?",
-        "position": 10
-      },
-      {
         "url": "/fiche-service-public/peut-on-beneficier-de-plusieurs-conges-parentaux-successifs",
         "title": "Peut-on bénéficier de plusieurs congés parentaux successifs ?",
-        "position": 11
+        "position": 10
       },
       {
         "url": "/code-du-travail/l1225-24",
         "title": "Article L1225-24",
-        "position": 13
+        "position": 11
       },
       {
         "url": "/code-du-travail/l1225-17",
         "title": "Article L1225-17",
-        "position": 14
+        "position": 12
       },
       {
         "url": "/code-du-travail/l1225-25",
         "title": "Article L1225-25",
-        "position": 15
+        "position": 13
       },
       {
         "url": "/code-du-travail/l1225-18",
         "title": "Article L1225-18",
-        "position": 16
+        "position": 14
       }
     ]
   },
@@ -6150,13 +6145,13 @@
         "position": 0
       },
       {
-        "url": "/fiche-ministere-travail/le-cse-dans-les-entreprises-de-11-a-49-salaries#Comment-mettre-en-place-le-CSE",
-        "title": "Le CSE dans les entreprises de 11 à 49 salariés : comment mettre en place le cse ?",
+        "url": "/fiche-ministere-travail/cse-definition-et-cadre-de-mise-en-place",
+        "title": "CSE : définition et cadre de mise en place",
         "position": 1
       },
       {
-        "url": "/fiche-ministere-travail/cse-definition-et-cadre-de-mise-en-place",
-        "title": "CSE : définition et cadre de mise en place",
+        "url": "/fiche-ministere-travail/le-cse-dans-les-entreprises-de-11-a-49-salaries#Comment-mettre-en-place-le-CSE",
+        "title": "Le CSE dans les entreprises de 11 à 49 salariés : comment mettre en place le cse ?",
         "position": 2
       },
       {
@@ -6175,54 +6170,59 @@
         "position": 5
       },
       {
-        "url": "/fiche-ministere-travail/cse-information-et-consultation",
-        "title": "CSE : information et consultation",
-        "position": 6
-      },
-      {
-        "url": "/fiche-ministere-travail/cse-information-et-consultation#Quel-est-le-processus-de-consultation",
-        "title": "CSE : quel est le processus de consultation ?",
-        "position": 7
-      },
-      {
         "url": "/fiche-ministere-travail/cse-attributions",
         "title": "CSE : attributions",
-        "position": 8
-      },
-      {
-        "url": "/fiche-ministere-travail/cse-fonctionnement-et-moyens-dactions",
-        "title": "CSE : fonctionnement et moyens d’actions",
-        "position": 9
-      },
-      {
-        "url": "/fiche-service-public/hygiene-et-securite-quand-faut-il-consulter-le-cse-ex-chsct",
-        "title": "Hygiène et sécurité : quand faut-il consulter le CSE (ex-CHSCT) ?",
-        "position": 10
+        "position": 6
       },
       {
         "url": "/fiche-service-public/comment-se-deroulent-les-reunions-du-comite-social-et-economique-cse",
         "title": "Comment se déroulent les réunions du comité social et économique (CSE) ?",
-        "position": 11
-      },
-      {
-        "url": "/fiche-ministere-travail/cse-commissions-sante-securite-et-conditions-de-travail-cssct",
-        "title": "CSE : commissions santé, sécurité et conditions de travail (CSSCT)",
-        "position": 12
-      },
-      {
-        "url": "/fiche-ministere-travail/cse-recours-a-des-experts#A-qui-revient-la-prise-en-charge-du-cout-de-l-expertise",
-        "title": "CSE : a qui revient la prise en charge du coût de l’expertise ?",
-        "position": 13
+        "position": 7
       },
       {
         "url": "/fiche-ministere-travail/cse-fonctionnement-et-moyens-dactions#Quelles-sont-les-dispositions-communes-a-toutes-les-entreprises-quelle-que-nbsp",
         "title": "CSE : quelles sont les dispositions communes à toutes les entreprises, quelle que soit leur taille ?",
+        "position": 8
+      },
+      {
+        "url": "/fiche-ministere-travail/cse-information-et-consultation",
+        "title": "CSE : information et consultation",
+        "position": 9
+      },
+      {
+        "url": "/fiche-ministere-travail/cse-information-et-consultation#Quel-est-le-processus-de-consultation",
+        "title": "CSE : quel est le processus de consultation ?",
+        "position": 10
+      },
+      {
+        "url": "/fiche-ministere-travail/cse-information-et-consultation#Sur-quels-sujets-le-CSE-doit-il-etre-regulierement-consulte-nbsp",
+        "title": "Sur quels sujets le CSE doit-il être régulièrement consulté ?",
+        "position": 11
+      },
+      {
+        "url": "/fiche-ministere-travail/cse-fonctionnement-et-moyens-dactions",
+        "title": "CSE : fonctionnement et moyens d’actions",
+        "position": 12
+      },
+      {
+        "url": "/fiche-service-public/hygiene-et-securite-quand-faut-il-consulter-le-cse-ex-chsct",
+        "title": "Hygiène et sécurité : quand faut-il consulter le CSE (ex-CHSCT) ?",
+        "position": 13
+      },
+      {
+        "url": "/fiche-ministere-travail/cse-commissions-sante-securite-et-conditions-de-travail-cssct",
+        "title": "CSE : commissions santé, sécurité et conditions de travail (CSSCT)",
         "position": 14
       },
       {
         "url": "/fiche-ministere-travail/cse-attributions-du-cse-en-matiere-de-sante-de-securite-et-de-conditions-de-travail#Quelles-sont-les-dispositions-applicables-dans-les-entreprises-de-moins-de-nbsp",
         "title": "CSE : quelles sont les dispositions applicables dans les entreprises de moins de 50 salariés ?",
         "position": 15
+      },
+      {
+        "url": "/fiche-ministere-travail/cse-recours-a-des-experts#A-qui-revient-la-prise-en-charge-du-cout-de-l-expertise",
+        "title": "CSE : a qui revient la prise en charge du coût de l’expertise ?",
+        "position": 16
       }
     ]
   },
@@ -7270,12 +7270,31 @@
     "title": "document unique d'évaluation des risques",
     "variants": [
       "document unique d'évaluation des risques",
-      "DUERP"
+      "DUERP",
+      "due",
+      "document unique"
     ],
     "refs": [
       {
         "url": "/fiche-service-public/securite-et-sante-au-travail-obligations-de-lemployeur",
         "title": "Sécurité et santé au travail : obligations de l'employeur",
+        "position": 0
+      },
+      {
+        "url": "/fiche-ministere-travail/risques-psychosociaux#A-quoi-sert-le-document-unique-d-evaluation-des-risques",
+        "title": "Risques psychosociaux : a quoi sert le document unique d’évaluation des risques ?"
+      },
+      {
+        "url": "/fiche-ministere-travail/employeurs-vos-formalites-prealables-obligatoires#Documents-traduits-en-francais-a-conserver-et-a-presenter-sans-nbsp",
+        "title": "Employeurs : documents traduits en français à conserver et à présenter sans délai"
+      },
+      {
+        "url": "/fiche-ministere-travail/troubles-musculo-squelettiques#A-quoi-sert-le-document-unique-d-evaluation-des-risques",
+        "title": "Troubles musculo-squelettiques : a quoi sert le document unique d’évaluation des risques ?"
+      },
+      {
+        "url": "/fiche-service-public/quelles-sont-les-obligations-daffichage-dans-une-entreprise",
+        "title": "Quelles sont les obligations d'affichage dans une entreprise ?",
         "position": 1
       },
       {
@@ -7317,11 +7336,6 @@
         "url": "/code-du-travail/r4121-4",
         "title": "R4121-4",
         "position": 9
-      },
-      {
-        "url": "/fiche-service-public/quelles-sont-les-obligations-daffichage-dans-une-entreprise",
-        "title": "Quelles sont les obligations d'affichage dans une entreprise ?",
-        "position": 10
       }
     ]
   },
@@ -9331,18 +9345,18 @@
     ],
     "refs": [
       {
-        "url": "/outils/indemnite-licenciement",
-        "title": "Simulateur d'indemnité de licenciement",
-        "position": 0
-      },
-      {
         "url": "/fiche-service-public/indemnite-de-licenciement-du-salarie-en-cdi",
         "title": "Indemnité de licenciement du salarié en CDI",
-        "position": 1
+        "position": 0
       },
       {
         "url": "/fiche-ministere-travail/lindemnite-legale-de-licenciement#Comment-determiner-le-montant-de-l-indemnite",
         "title": "L’indemnité légale de licenciement : comment déterminer le montant de l’indemnité ?",
+        "position": 1
+      },
+      {
+        "url": "/outils/indemnite-licenciement",
+        "title": "Simulateur d'indemnité de licenciement",
         "position": 2
       },
       {
@@ -9427,29 +9441,24 @@
     ],
     "refs": [
       {
+        "url": "/fiche-service-public/percoit-on-des-indemnites-en-cas-de-licenciement-pour-inaptitude-physique",
+        "title": "/fiche-service-public/percoit-on-des-indemnites-en-cas-de-licenciement-pour-inaptitude-physique",
+        "position": 0
+      },
+      {
         "url": "/outils/indemnite-licenciement",
         "title": "/outils/indemnite-licenciement",
         "position": 1
       },
       {
-        "url": "/fiche-service-public/percoit-on-des-indemnites-en-cas-de-licenciement-pour-inaptitude-physique",
-        "title": "/fiche-service-public/percoit-on-des-indemnites-en-cas-de-licenciement-pour-inaptitude-physique",
-        "position": 2
-      },
-      {
-        "url": "/code-du-travail/l1226-14",
-        "title": "Article L1226-14",
-        "position": 3
-      },
-      {
         "url": "/fiche-service-public/inaptitude-au-travail-du-salarie-suite-a-un-accident-du-travail",
         "title": "Inaptitude au travail du salarié suite à un accident du travail",
-        "position": 4
+        "position": 2
       },
       {
         "url": "/fiche-service-public/inaptitude-au-travail-du-salarie-suite-a-une-maladie-professionnelle",
         "title": "Inaptitude au travail du salarié suite à une maladie professionnelle",
-        "position": 5
+        "position": 3
       }
     ]
   },
@@ -9464,19 +9473,29 @@
     ],
     "refs": [
       {
-        "url": "/fiche-service-public/indemnite-de-licenciement-du-salarie-en-cdi",
-        "title": "Indemnité de licenciement du salarié en CDI",
-        "position": 1
-      },
-      {
         "url": "/fiche-service-public/faute-simple-grave-ou-lourde-quelles-differences-pour-le-salarie-licencie",
         "title": "Faute simple, grave ou lourde : quelles différences pour le salarié licencié ?",
-        "position": 2
+        "position": 0
       },
       {
         "url": "/outils/indemnite-licenciement",
         "title": "Simulateur d'indemnité de licenciement",
+        "position": 1
+      },
+      {
+        "url": "/fiche-service-public/indemnite-de-licenciement-du-salarie-en-cdi",
+        "title": "Indemnité de licenciement du salarié en CDI",
+        "position": 2
+      },
+      {
+        "url": "/fiche-ministere-travail/lindemnite-legale-de-licenciement",
+        "title": "L’indemnité légale de licenciement",
         "position": 3
+      },
+      {
+        "url": "/fiche-ministere-travail/lindemnite-legale-de-licenciement#Comment-determiner-le-montant-de-l-indemnite",
+        "title": "L’indemnité légale de licenciement : comment déterminer le montant de l’indemnité ?",
+        "position": 4
       }
     ]
   },
@@ -10953,24 +10972,64 @@
     ],
     "refs": [
       {
-        "url": "/outils/indemnite-licenciement",
-        "title": "calculateur d'indemnité de licenciement",
-        "position": 0
-      },
-      {
-        "url": "/fiche-service-public/percoit-on-des-indemnites-en-cas-de-licenciement-pour-inaptitude-physique",
-        "title": "Perçoit-on des indemnités en cas de licenciement pour inaptitude physique ?",
-        "position": 1
-      },
-      {
         "url": "/fiche-ministere-travail/la-reconnaissance-de-linaptitude-medicale-au-travail-et-ses-consequences#Que-recouvre-l-effort-de-reclassement-impose-aux-employeurs-nbsp",
         "title": "La reconnaissance de l’inaptitude médicale au travail et ses conséquences : que recouvre l’effort de reclassement imposé aux employeurs ?",
-        "position": 2
+        "position": 0
       },
       {
         "url": "/fiche-service-public/motifs-du-licenciement-personnel",
         "title": "Motifs du licenciement personnel",
+        "position": 1
+      },
+      {
+        "url": "/fiche-service-public/percoit-on-des-indemnites-en-cas-de-licenciement-pour-inaptitude-physique",
+        "title": "Perçoit-on des indemnités en cas de licenciement pour inaptitude physique ?",
+        "position": 2
+      },
+      {
+        "url": "/outils/indemnite-licenciement",
+        "title": "calculateur d'indemnité de licenciement",
         "position": 3
+      },
+      {
+        "url": "/fiche-ministere-travail/5-questions-reponses-sur-la-sante-au-travail#t4-Constat-d-inaptitude-dans-quels-cas",
+        "title": "La santé au travail : constat d’inaptitude : dans quels cas ?",
+        "position": 4
+      },
+      {
+        "url": "/fiche-ministere-travail/5-questions-reponses-sur-la-sante-au-travail#t4-Constat-d-inaptitude-dans-quels-cas",
+        "title": "La santé au travail : constat d’inaptitude : dans quels cas ?",
+        "position": 5
+      },
+      {
+        "url": "/fiche-ministere-travail/la-reconnaissance-de-linaptitude-medicale-au-travail-et-ses-consequences#Dans-quels-cas-l-inaptitude-medicale-au-travail-peut-etre-prononcee-nbsp",
+        "title": "La reconnaissance de l’inaptitude médicale au travail et ses conséquences : dans quels cas l’inaptitude médicale au travail peut être prononcée ?",
+        "position": 6
+      },
+      {
+        "url": "/fiche-ministere-travail/la-reconnaissance-de-linaptitude-medicale-au-travail-et-ses-consequences#Que-mentionne-l-avis-d-inaptitude-medicale",
+        "title": "La reconnaissance de l’inaptitude médicale au travail et ses conséquences : que mentionne l’avis d’inaptitude médicale ?",
+        "position": 7
+      },
+      {
+        "url": "/fiche-ministere-travail/la-reconnaissance-de-linaptitude-medicale-au-travail-et-ses-consequences",
+        "title": "La reconnaissance de l’inaptitude médicale au travail et ses conséquences",
+        "position": 8
+      },
+      {
+        "url": "/fiche-service-public/inaptitude-au-travail-dun-salarie-apres-un-arret-maladie",
+        "title": "Inaptitude au travail d'un salarié après un arrêt maladie",
+        "position": 9
+      },
+      {
+        "url": "/fiche-service-public/inaptitude-au-travail-du-salarie-suite-a-un-accident-du-travail",
+        "title": "Inaptitude au travail du salarié suite à un accident du travail",
+        "position": 10
+      },
+      {
+        "url": "/fiche-service-public/inaptitude-au-travail-du-salarie-suite-a-une-maladie-professionnelle",
+        "title": "Inaptitude au travail du salarié suite à une maladie professionnelle",
+        "position": 11
       }
     ]
   },
@@ -14272,6 +14331,94 @@
         "url": "/code-du-travail/l1237-11",
         "title": "L1237-11",
         "position": 4
+      }
+    ]
+  },
+  {
+    "title": "règlement intérieur",
+    "variants": [
+      "règlement intérieur",
+      "règlement entreprise",
+      "règlement établissement",
+      "RI",
+      "Comment est établi le règlement intérieur ?",
+      "quand établir un règlement intérieur",
+      "Dans quel cas faut-il établir un règlement intérieur ?",
+      "quels sont les clauses du règlement intérieur?",
+      "exigible 20 salariés",
+      "portée ri",
+      "portée règlement intérieur"
+    ],
+    "refs": [
+      {
+        "url": "/fiche-service-public/reglement-interieur-dune-entreprise",
+        "title": "Règlement intérieur d'une entreprise",
+        "position": 0
+      },
+      {
+        "url": "/fiche-ministere-travail/le-reglement-interieur",
+        "title": "Le règlement intérieur",
+        "position": 1
+      },
+      {
+        "url": "/fiche-ministere-travail/le-reglement-interieur#Comment-est-etabli-le-reglement-interieur",
+        "title": "Le règlement intérieur : comment est établi le règlement intérieur ?",
+        "position": 2
+      },
+      {
+        "url": "/fiche-ministere-travail/le-reglement-interieur#Dans-quel-cas-faut-il-etablir-un-reglement-interieur",
+        "title": "Le règlement intérieur : dans quel cas faut-il établir un règlement intérieur ?",
+        "position": 3
+      },
+      {
+        "url": "/fiche-ministere-travail/le-reglement-interieur#Quelles-sont-les-clauses-obligatoires",
+        "title": "Le règlement intérieur : quelles sont les clauses obligatoires ?",
+        "position": 4
+      },
+      {
+        "url": "/fiche-ministere-travail/le-reglement-interieur#L-intervention-de-l-inspecteur-du-travail",
+        "title": "Le règlement intérieur : l’intervention de l’inspecteur du travail",
+        "position": 5
+      },
+      {
+        "url": "/fiche-service-public/sanctions-disciplinaires-dans-le-secteur-prive",
+        "title": "Sanctions disciplinaires dans le secteur privé",
+        "position": 6
+      },
+      {
+        "url": "/themes/92-sanctions-disciplinaires",
+        "title": "Sanctions disciplinaires",
+        "position": 7
+      },
+      {
+        "url": "/fiche-service-public/peut-on-consommer-de-lalcool-dans-lentreprise",
+        "title": "Peut-on consommer de l'alcool dans l'entreprise ?",
+        "position": 8
+      },
+      {
+        "url": "/fiche-service-public/quelles-sont-les-obligations-daffichage-dans-une-entreprise",
+        "title": "Quelles sont les obligations d'affichage dans une entreprise ?",
+        "position": 9
+      },
+      {
+        "url": "/fiche-service-public/videosurveillance-de-la-voie-publique-et-des-lieux-ouverts-au-public",
+        "title": "Vidéosurveillance de la voie publique et des lieux ouverts au public",
+        "position": 10
+      },
+      {
+        "url": "/fiche-service-public/securite-et-sante-au-travail-obligations-de-lemployeur",
+        "title": "Sécurité et santé au travail : obligations de l'employeur",
+        "position": 11
+      },
+      {
+        "url": "/fiche-ministere-travail/responsabilite-de-lemployeur-droit-de-retrait",
+        "title": "Responsabilité de l’employeur - Droit de retrait",
+        "position": 12
+      },
+      {
+        "url": "/themes/618-libertes-du-salarie",
+        "title": "Libertés du salarié",
+        "position": 13
       }
     ]
   },
