@@ -15,6 +15,7 @@ type ThemeRaw = {
 };
 
 export type Theme = {
+  id: string;
   breadcrumbs: SubTheme[];
   children: SubTheme[];
   icon?: string;
@@ -62,6 +63,7 @@ export function processThemes(items: ThemeRaw[]): Theme[] {
     return {
       breadcrumbs,
       children,
+      id: theme.id,
       icon: theme.icon,
       introduction: theme.introduction,
       position: theme.position,
