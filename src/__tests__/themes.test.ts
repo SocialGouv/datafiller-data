@@ -43,6 +43,7 @@ test("processThemes", () => {
     {
       title: "theme 2",
       variants: ["theme 2"],
+      id: "2",
       position: 2,
       icon: "icon clock",
       breadcrumbs: [],
@@ -52,6 +53,7 @@ test("processThemes", () => {
     {
       title: "theme 1",
       variants: ["theme 1"],
+      id: "1",
       position: 1,
       icon: "icon page",
       introduction: "I'm theme #1 !",
@@ -65,6 +67,7 @@ test("processThemes", () => {
     {
       title: "theme1 > soustheme 2",
       variants: ["theme1 > soustheme 2", "sous-theme-1", "sous-theme2"],
+      id: "3",
       position: 4,
       breadcrumbs: [{ label: "theme 1", position: 1 }],
       children: [],
@@ -73,6 +76,7 @@ test("processThemes", () => {
     {
       title: "theme1 > soustheme 1",
       variants: ["theme1 > soustheme 1"],
+      id: "4",
       position: 3,
       breadcrumbs: [{ label: "theme 1", position: 1 }],
       children: [],
