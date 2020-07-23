@@ -67,7 +67,7 @@ export function processThemes(items: ThemeRaw[]): Theme[] {
       icon: theme.icon,
       introduction: theme.introduction,
       position: theme.position,
-      refs: theme.refs.map(({ title, url }) => ({ title, url })),
+      refs: theme.refs.filter((ref) => ref.url).map(({ title, url }) => ({ title, url })),
       title: theme.title,
       variants: getVariants(theme)
     };
