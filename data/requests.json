@@ -16292,6 +16292,10 @@
     ],
     "refs": [
       {
+        "url": "/fiche-ministere-travail/teletravail",
+        "title": "Télétravail"
+      },
+      {
         "url": "/fiche-service-public/teletravail-dans-le-secteur-prive",
         "title": "Télétravail dans le secteur privé",
         "position": 1
@@ -17241,59 +17245,93 @@
     ],
     "refs": [
       {
+        "url": "/fiche-ministere-travail/la-validation-des-acquis-de-lexperience-vae",
+        "title": "La validation des acquis de l’expérience (VAE)",
+        "position": 0
+      },
+      {
+        "url": "/fiche-ministere-travail/la-validation-des-acquis-de-lexperience-vae#Quelles-sont-les-aides-pour-les-demandeurs-d-emploi-qui-montent-un-dossier-nbsp",
+        "title": "Quelles sont les aides pour les demandeurs d’emploi qui montent un dossier de VAE ?"
+      },
+      {
+        "url": "/fiche-ministere-travail/5-questions-reponses-sur-la-validation-des-acquis-de-lexperience-vae#Question-1-VAE-a-quoi-ca-sert-et-pour-quelle-reconnaissance-nbsp",
+        "title": "VAE : à quoi ça sert et pour quelle reconnaissance ?",
+        "position": 1
+      },
+      {
+        "url": "/fiche-ministere-travail/la-validation-des-acquis-de-lexperience-vae#Quelle-certification-peut-on-obtenir-avec-la-VAE",
+        "title": "Quelle certification peut-on obtenir avec la VAE ?",
+        "position": 2
+      },
+      {
+        "url": "/fiche-ministere-travail/la-validation-des-acquis-de-lexperience-vae#Le-repertoire-national-des-certifications-professionnelles-RNCP-de-quoi-nbsp",
+        "title": "VAE : le répertoire national des certifications professionnelles (rncp) : de quoi s’agit-il ?",
+        "position": 3
+      },
+      {
         "url": "/fiche-ministere-travail/la-validation-des-acquis-de-lexperience-vae#Qui-peut-beneficier-de-la-VAE",
         "title": "Qui peut bénéficier de la VAE ?",
-        "position": 1
+        "position": 4
+      },
+      {
+        "url": "/fiche-ministere-travail/5-questions-reponses-sur-la-validation-des-acquis-de-lexperience-vae#Question-2-La-VAE-qui-peut-en-beneficier",
+        "title": "La VAE : qui peut en bénéficier ?",
+        "position": 5
+      },
+      {
+        "url": "/fiche-ministere-travail/formation-professionnelle-des-salaries-en-activite-partielle#VAE-une-opportunite-pour-entamer-une-demarche-de-validation-des-acquis-de-nbsp",
+        "title": "Formation professionnelle des salariés en activité partielle : vae : une opportunité pour entamer une démarche de validation des acquis de l’expérience ou rédiger son dossier de validation",
+        "position": 6
+      },
+      {
+        "url": "/fiche-ministere-travail/la-validation-des-acquis-de-lexperience-vae#La-VAE-pour-les-salaries-selon-quelles-modalites",
+        "title": "La VAE pour les salariés : selon quelles modalités ?",
+        "position": 7
+      },
+      {
+        "url": "/fiche-ministere-travail/la-validation-des-acquis-de-lexperience-vae#La-VAE-pour-les-salaries-selon-quelles-modalites",
+        "title": "La VAE pour les salariés : selon quelles modalités ?",
+        "position": 8
+      },
+      {
+        "url": "/fiche-ministere-travail/la-validation-des-acquis-de-lexperience-vae#Quelle-est-la-procedure-pour-une-VAE",
+        "title": "Quelle est la procédure pour une VAE ?",
+        "position": 9
       },
       {
         "url": "/fiche-ministere-travail/5-questions-reponses-sur-la-validation-des-acquis-de-lexperience-vae#Question-3-La-VAE-quelles-sont-les-etapes-d-une-demarche-de-VAE-nbsp",
         "title": "La VAE : quelles sont les étapes d’une démarche de VAE ?",
-        "position": 2
+        "position": 10
       },
       {
         "url": "/fiche-ministere-travail/5-questions-reponses-sur-la-validation-des-acquis-de-lexperience-vae#Question-4-La-VAE-Le-conge-VAE-selon-quelle-modalite",
         "title": "La VAE : Le congé VAE selon quelle modalité ?",
-        "position": 3
-      },
-      {
-        "url": "/fiche-ministere-travail/la-validation-des-acquis-de-lexperience-vae#Comment-monter-un-dossier-de-demande-de-VAE",
-        "title": "Comment monter un dossier de demande de VAE ?",
-        "position": 4
+        "position": 11
       },
       {
         "url": "/fiche-ministere-travail/5-questions-reponses-sur-la-validation-des-acquis-de-lexperience-vae#Question-5-La-VAE-quel-financement-pour-la-VAE",
         "title": "La VAE : quel financement pour la VAE ?",
-        "position": 5
+        "position": 12
       },
       {
-        "url": "/fiche-ministere-travail/la-validation-des-acquis-de-lexperience-vae#Comment-est-evaluee-une-demande-de-VAE",
-        "title": "Comment est évaluée une demande de VAE ?",
-        "position": 6
+        "url": "/fiche-ministere-travail/la-validation-des-acquis-de-lexperience-vae#Quels-sont-les-frais-des-actions-de-VAE-pouvant-etre-pris-en-charge-nbsp",
+        "title": "Quels sont les frais des actions de VAE pouvant être pris en charge ?",
+        "position": 13
       },
       {
-        "url": "/fiche-ministere-travail/la-validation-des-acquis-de-lexperience-vae#Qui-contacter",
-        "title": "VAE : qui contacter ?",
-        "position": 7
+        "url": "/fiche-ministere-travail/la-validation-des-acquis-de-lexperience-vae#Comment-se-deroule-l-etape-d-evaluation-des-acquis-de-l-experience-nbsp",
+        "title": "VAE : comment se déroule l’étape d’évaluation des acquis de l’expérience ?",
+        "position": 14
       },
       {
-        "url": "/code-du-travail/l6421-1",
-        "title": "L6421-1",
-        "position": 8
+        "url": "/fiche-ministere-travail/titres-professionnels#Comment-acceder-a-un-titre-professionnel",
+        "title": "Titres professionnels : comment accéder à un titre professionnel ?",
+        "position": 15
       },
       {
-        "url": "/code-du-travail/l6422-1",
-        "title": "L6422-1",
-        "position": 9
-      },
-      {
-        "url": "/code-du-travail/r6422-8-1",
-        "title": "R6422-8-1",
-        "position": 10
-      },
-      {
-        "url": "/code-du-travail/r6422-7-1",
-        "title": "R6422-7-1",
-        "position": 11
+        "url": "/fiche-ministere-travail/la-validation-des-acquis-de-lexperience-vae#Comment-s-informer-sur-la-VAE",
+        "title": "Comment s’informer sur la VAE ?",
+        "position": 16
       }
     ]
   },
