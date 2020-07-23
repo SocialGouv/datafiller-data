@@ -7830,44 +7830,54 @@
         "position": 1
       },
       {
-        "url": "/fiche-service-public/comite-social-et-economique-cse",
-        "title": "Comité social et économique (CSE)",
-        "position": 2
-      },
-      {
-        "url": "/fiche-ministere-travail/cse-election-de-la-delegation-du-personnel#Comment-se-deroulent-les-deux-tours-de-l-election",
-        "title": "CSE : comment se déroulent les deux tours de l’élection ?",
-        "position": 3
-      },
-      {
         "url": "/fiche-ministere-travail/le-cse-dans-les-entreprises-de-11-a-49-salaries#Comment-mettre-en-place-le-CSE",
         "title": "Le CSE dans les entreprises de 11 à 49 salariés : comment mettre en place le cse ?",
-        "position": 4
-      },
-      {
-        "url": "/fiche-ministere-travail/cse-election-de-la-delegation-du-personnel#Qui-est-electeur-qui-est-eligible",
-        "title": "CSE : qui est électeur, qui est éligible ?",
-        "position": 5
-      },
-      {
-        "url": "/fiche-ministere-travail/cse-election-de-la-delegation-du-personnel#Qui-doit-prendre-l-initiative-d-organiser-les-elections",
-        "title": "CSE : qui doit prendre l’initiative d’organiser les élections ?",
-        "position": 6
-      },
-      {
-        "url": "/fiche-ministere-travail/cse-election-de-la-delegation-du-personnel#Organiser-les-elections-quelles-formalites-accomplir",
-        "title": "CSE : organiser les élections : quelles formalités accomplir ?",
-        "position": 7
+        "position": 2
       },
       {
         "url": "/fiche-ministere-travail/cse-definition-et-cadre-de-mise-en-place#Dans-quel-cadre-le-CSE-doit-il-etre-mis-en-place",
         "title": "Dans quel cadre le CSE doit-il être mis en place ?",
-        "position": 8
+        "position": 3
+      },
+      {
+        "url": "/fiche-ministere-travail/cse-election-de-la-delegation-du-personnel#Qui-doit-prendre-l-initiative-d-organiser-les-elections",
+        "title": "CSE : qui doit prendre l’initiative d’organiser les élections ?",
+        "position": 4
+      },
+      {
+        "url": "/fiche-ministere-travail/cse-election-de-la-delegation-du-personnel#Organiser-les-elections-quelles-formalites-accomplir",
+        "title": "CSE : organiser les élections : quelles formalités accomplir ?",
+        "position": 5
+      },
+      {
+        "url": "/fiche-ministere-travail/cse-election-de-la-delegation-du-personnel#Qui-est-electeur-qui-est-eligible",
+        "title": "CSE : qui est électeur, qui est éligible ?",
+        "position": 6
+      },
+      {
+        "url": "/fiche-ministere-travail/cse-election-de-la-delegation-du-personnel#Comment-se-deroulent-les-deux-tours-de-l-election",
+        "title": "CSE : comment se déroulent les deux tours de l’élection ?",
+        "position": 7
       },
       {
         "url": "/fiche-ministere-travail/cse-election-de-la-delegation-du-personnel#Comment-se-deroule-le-vote-electronique",
         "title": "CSE : comment se déroule le vote électronique ?",
+        "position": 8
+      },
+      {
+        "url": "/fiche-service-public/comite-social-et-economique-cse",
+        "title": "Comité social et économique (CSE)",
         "position": 9
+      },
+      {
+        "url": "/fiche-service-public/comment-calculer-les-effectifs-dune-entreprise",
+        "title": "Comment calculer les effectifs d'une entreprise ?",
+        "position": 10
+      },
+      {
+        "url": "/fiche-ministere-travail/les-regles-de-decompte-des-effectifs",
+        "title": "Les règles de décompte des effectifs",
+        "position": 11
       }
     ]
   },
