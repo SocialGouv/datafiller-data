@@ -1,16 +1,5 @@
 [
   {
-    "breadcrumbs": [],
-    "children": [],
-    "id": "5b22367d-7130-49e0-bf3b-ee82a2c1944d",
-    "position": null,
-    "refs": [
-      {}
-    ],
-    "title": "",
-    "variants": []
-  },
-  {
     "breadcrumbs": [
       {
         "label": "Santé, sécurité et conditions de travail",
@@ -3843,10 +3832,6 @@
       },
       {
         "url": "/fiche-service-public/un-salarie-peut-il-etre-licencie-a-cause-du-retrait-de-son-permis-de-conduire"
-      },
-      {
-        "title": "",
-        "url": ""
       }
     ],
     "title": "Licenciement pour motif personnel",

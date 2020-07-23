@@ -7727,6 +7727,18 @@
     ],
     "refs": [
       {
+        "url": "/fiche-service-public/discrimination-au-travail",
+        "title": "Discrimination au travail"
+      },
+      {
+        "url": "/fiche-ministere-travail/la-protection-contre-les-discriminations",
+        "title": "La protection contre les discriminations"
+      },
+      {
+        "url": "/fiche-ministere-travail/entreprises-bonnes-pratiques-pour-recruter-sans-discriminer#Sanctions-encourues-en-cas-de-discrimination-a-l-embauche",
+        "title": "Entreprises : sanctions encourues en cas de discrimination à l’embauche"
+      },
+      {
         "url": "/fiche-ministere-travail/index-de-legalite-professionnelle-calcul-et-questions-reponses#Questions-reponses-sur-le-calcul-de-l-Index",
         "title": "Index de l’égalité professionnelle : questions - réponses sur le calcul de l’index",
         "position": 1
@@ -14426,9 +14438,14 @@
         "position": 12
       },
       {
+        "url": "/fiche-service-public/religion-dans-lentreprise-quelles-sont-les-regles",
+        "title": "Religion dans l'entreprise : quelles sont les règles ?",
+        "position": 13
+      },
+      {
         "url": "/themes/618-libertes-du-salarie",
         "title": "Libertés du salarié",
-        "position": 13
+        "position": 14
       }
     ]
   },
@@ -15959,16 +15976,33 @@
       {
         "url": "/modeles-de-courriers/rupture-de-periode-dessai-a-linitiative-de-lemployeur",
         "title": "Modèle : rupture de période d’essai, à l'initiative de l'employeur",
-        "position": 1
+        "position": 0
+      },
+      {
+        "url": "/contribution/la-periode-dessai-peut-elle-etre-renouvelee",
+        "title": "La période d’essai peut-elle être renouvelée ?"
+      },
+      {
+        "url": "/contribution/quelle-est-la-duree-maximale-de-la-periode-dessai-sans-et-avec-renouvellement",
+        "title": "Quelle est la durée maximale de la période d'essai, sans et avec renouvellement ?"
+      },
+      {
+        "url": "/contribution/arret-maladie-pendant-la-periode-dessai-quelles-sont-les-regles",
+        "title": "Arrêt maladie pendant la période d'essai : quelles sont les règles ?"
       },
       {
         "url": "/modeles-de-courriers/rupture-du-contrat-en-periode-dessai-a-linitiative-du-salarie",
         "title": "Modèle de rupture du contrat en période d’essai à l'initiative du salarié",
-        "position": 2
+        "position": 1
       },
       {
         "url": "/fiche-ministere-travail/la-periode-dessai#La-periode-d-essai-peut-elle-etre-rompue",
         "title": "La période d’essai peut-elle être rompue ?",
+        "position": 2
+      },
+      {
+        "url": "/outils/heures-recherche-emploi",
+        "title": "Heures pour recherche d’emploi",
         "position": 3
       },
       {
@@ -15982,19 +16016,14 @@
         "position": 5
       },
       {
-        "url": "/fiche-service-public/rupture-conventionnelle",
-        "title": "Rupture conventionnelle",
-        "position": 6
-      },
-      {
         "url": "/fiche-ministere-travail/contrat-de-professionnalisation#Quelles-sont-les-modalites-de-rupture-du-contrat-de-professionnalisation-et-nbsp",
         "title": "Contrat de professionnalisation : quelles sont les modalités de rupture du contrat de professionnalisation et quelles sont les démarches à effectuer ?",
-        "position": 7
+        "position": 6
       },
       {
         "url": "/fiche-ministere-travail/la-periode-dessai#Quelle-est-la-duree-de-la-periode-d-essai",
         "title": "La période d’essai : quelle est la durée de la période d’essai ?",
-        "position": 8
+        "position": 7
       }
     ]
   },
@@ -17326,8 +17355,13 @@
     ],
     "refs": [
       {
-        "url": "/fiche-service-public/le-salarie-doit-il-passer-une-visite-medicale-apres-un-arret-de-travail",
-        "title": "Le salarié doit-il passer une visite médicale après un arrêt de travail ?",
+        "url": "/information/report-ou-annulation-de-visites-medicales-nouveautes-covid-19",
+        "title": "Report ou annulation de visites médicales : nouveautés Covid-19",
+        "position": 0
+      },
+      {
+        "url": "/fiche-service-public/medecine-du-travail",
+        "title": "Médecine du travail",
         "position": 1
       },
       {
@@ -17341,73 +17375,83 @@
         "position": 3
       },
       {
-        "url": "/fiche-ministere-travail/reforme-de-la-medecine-du-travail-et-des-services-de-sante-au-travail-questions-les-plus-frequentes#II-Visites-d-information-et-de-prevention",
-        "title": "Réforme de la médecine du travail et des services de santé au travail : ii. visites d’information et de prévention",
+        "url": "/fiche-ministere-travail/le-suivi-de-letat-de-sante-des-salaries#Visite-de-prereprise-et-de-reprise-du-travail-dans-quels-cas-nbsp",
+        "title": "Le suivi de l’état de santé des salariés : visite de préreprise et de reprise du travail : dans quels cas ?",
         "position": 4
       },
       {
-        "url": "/fiche-ministere-travail/le-suivi-de-letat-de-sante-des-salaries#Visite-de-prereprise-et-de-reprise-du-travail-dans-quels-cas-nbsp",
-        "title": "Le suivi de l’état de santé des salariés : visite de préreprise et de reprise du travail : dans quels cas ?",
-        "position": 6
-      },
-      {
-        "url": "/fiche-service-public/un-interimaire-est-il-suivi-par-la-medecine-du-travail",
-        "title": "Un intérimaire est-il suivi par la médecine du travail ?",
-        "position": 7
-      },
-      {
-        "url": "/fiche-service-public/un-salarie-peut-il-revenir-travailler-avant-la-fin-de-son-arret-maladie",
-        "title": "Un salarié peut-il revenir travailler avant la fin de son arrêt maladie ?",
-        "position": 8
+        "url": "/fiche-service-public/le-salarie-doit-il-passer-une-visite-medicale-apres-un-arret-de-travail",
+        "title": "Le salarié doit-il passer une visite médicale après un arrêt de travail ?",
+        "position": 5
       },
       {
         "url": "/fiche-service-public/accident-du-travail-reprise-du-travail-du-salarie",
         "title": "Accident du travail : reprise du travail du salarié",
+        "position": 6
+      },
+      {
+        "url": "/fiche-service-public/un-salarie-peut-il-revenir-travailler-avant-la-fin-de-son-arret-maladie",
+        "title": "Un salarié peut-il revenir travailler avant la fin de son arrêt maladie ?",
+        "position": 7
+      },
+      {
+        "url": "/fiche-ministere-travail/reforme-de-la-medecine-du-travail-et-des-services-de-sante-au-travail-questions-les-plus-frequentes#II-Visites-d-information-et-de-prevention",
+        "title": "Réforme de la médecine du travail et des services de santé au travail : ii. visites d’information et de prévention",
+        "position": 8
+      },
+      {
+        "url": "/fiche-service-public/un-interimaire-est-il-suivi-par-la-medecine-du-travail",
+        "title": "Un intérimaire est-il suivi par la médecine du travail ?",
         "position": 9
       },
       {
         "url": "/fiche-ministere-travail/le-travail-de-nuit#De-quel-suivi-de-son-etat-de-sante-le-travailleur-de-nuit-beneficie-t-il-nbsp",
         "title": "Le travail de nuit : de quel suivi de son état de santé le travailleur de nuit bénéficie-t-il ?",
-        "position": 11
+        "position": 10
       },
       {
         "url": "/fiche-ministere-travail/le-suivi-de-letat-de-sante-des-salaries#En-quoi-consiste-le-suivi-individuel-renforce-des-salaries-affectes-sur-des-nbsp",
         "title": "Le suivi de l’état de santé des salariés : en quoi consiste le suivi individuel renforcé des salariés affectés sur des postes à risque ?",
-        "position": 12
+        "position": 11
       },
       {
         "url": "/fiche-ministere-travail/reforme-de-la-medecine-du-travail-et-des-services-de-sante-au-travail-questions-les-plus-frequentes#IV-Autres-visites-et-examens",
         "title": "Réforme de la médecine du travail et des services de santé au travail : iv. autres visites et examens",
-        "position": 13
+        "position": 12
       },
       {
         "url": "/code-du-travail/l4625-1-1",
         "title": "L4625-1-1",
-        "position": 14
+        "position": 13
       },
       {
         "url": "/code-du-travail/l4624-1",
         "title": "L4624-1",
-        "position": 15
+        "position": 14
       },
       {
         "url": "/code-du-travail/r4624-29",
         "title": "R4624-29",
-        "position": 16
+        "position": 15
       },
       {
         "url": "/code-du-travail/r4624-30",
         "title": "R4624-30",
-        "position": 17
+        "position": 16
       },
       {
         "url": "/code-du-travail/r4624-31",
         "title": "R4624-31",
-        "position": 18
+        "position": 17
       },
       {
         "url": "/code-du-travail/r4624-32",
         "title": "R4624-32",
+        "position": 18
+      },
+      {
+        "url": "/fiche-service-public/le-particulier-employeur-doit-il-soccuper-du-suivi-medical-de-son-salarie",
+        "title": "Le particulier employeur doit-il s'occuper du suivi médical de son salarié ?",
         "position": 19
       }
     ]
@@ -17475,6 +17519,10 @@
       "port de la burqa"
     ],
     "refs": [
+      {
+        "url": "/fiche-ministere-travail/le-reglement-interieur",
+        "title": "Le règlement intérieur"
+      },
       {
         "url": "/fiche-service-public/religion-dans-lentreprise-quelles-sont-les-regles",
         "title": "Religion dans l'entreprise : quelles sont les règles ?",
