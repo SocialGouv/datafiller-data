@@ -1498,92 +1498,92 @@
       {
         "url": "/fiche-service-public/licenciement-quest-ce-quun-conseiller-du-salarie",
         "title": "Licenciement : qu'est-ce qu'un conseiller du salarié ?",
-        "position": 1
-      },
-      {
-        "url": "/fiche-service-public/licenciement-economique-entretien-prealable",
-        "title": "Licenciement économique : entretien préalable",
-        "position": 2
+        "position": 0
       },
       {
         "url": "/fiche-service-public/procedure-de-licenciement-pour-motif-personnel",
         "title": "Procédure de licenciement pour motif personnel",
-        "position": 3
+        "position": 1
       },
       {
         "url": "/fiche-ministere-travail/la-procedure-en-cas-de-licenciement-pour-motif-personnel#En-quoi-consiste-l-entretien-prealable",
         "title": "La procédure en cas de licenciement pour motif personnel : en quoi consiste l’entretien préalable ?",
-        "position": 5
+        "position": 2
       },
       {
-        "url": "/code-du-travail/l1233-13",
-        "title": "Article L1233-13",
-        "position": 6
-      },
-      {
-        "url": "/code-du-travail/r4213-9",
-        "title": "Article R4213-9",
-        "position": 7
-      },
-      {
-        "url": "/code-du-travail/r1232-1",
-        "title": "Article R1232-1",
-        "position": 8
-      },
-      {
-        "url": "/code-du-travail/r1232-2",
-        "title": "Article R1232-2",
-        "position": 9
-      },
-      {
-        "url": "/code-du-travail/r1232-3",
-        "title": "Article R1232-3",
-        "position": 10
-      },
-      {
-        "url": "/code-du-travail/l1232-2",
-        "title": "Article L1232-2",
-        "position": 11
-      },
-      {
-        "url": "/code-du-travail/l1232-3",
-        "title": "Article L1232-3",
-        "position": 12
-      },
-      {
-        "url": "/code-du-travail/l1232-4",
-        "title": "Article L1232-4",
-        "position": 13
+        "url": "/fiche-service-public/licenciement-economique-entretien-prealable",
+        "title": "Licenciement économique : entretien préalable",
+        "position": 3
       },
       {
         "url": "/fiche-service-public/sanctions-disciplinaires-dans-le-secteur-prive",
         "title": "Sanctions disciplinaires dans le secteur privé",
-        "position": 14
+        "position": 4
+      },
+      {
+        "url": "/code-du-travail/l1233-13",
+        "title": "Article L1233-13",
+        "position": 5
+      },
+      {
+        "url": "/code-du-travail/r4213-9",
+        "title": "Article R4213-9",
+        "position": 6
+      },
+      {
+        "url": "/code-du-travail/r1232-1",
+        "title": "Article R1232-1",
+        "position": 7
+      },
+      {
+        "url": "/code-du-travail/r1232-2",
+        "title": "Article R1232-2",
+        "position": 8
+      },
+      {
+        "url": "/code-du-travail/r1232-3",
+        "title": "Article R1232-3",
+        "position": 9
+      },
+      {
+        "url": "/code-du-travail/l1232-2",
+        "title": "Article L1232-2",
+        "position": 10
+      },
+      {
+        "url": "/code-du-travail/l1232-3",
+        "title": "Article L1232-3",
+        "position": 11
+      },
+      {
+        "url": "/code-du-travail/l1232-4",
+        "title": "Article L1232-4",
+        "position": 12
       },
       {
         "url": "/fiche-ministere-travail/la-procedure-en-cas-de-licenciement-individuel-pour-motif-economique#En-quoi-consiste-l-entretien-prealable-au-licenciement",
         "title": "La procédure en cas de licenciement individuel pour motif économique : en quoi consiste l’entretien préalable au licenciement ?",
-        "position": 16
+        "position": 13
       },
       {
         "url": "/code-du-travail/d1232-4",
         "title": "Article D1232-4",
-        "position": 17
+        "position": 14
       },
       {
         "url": "/code-du-travail/d1232-5",
         "title": "Article D1232-5",
-        "position": 18
+        "position": 15
       },
       {
         "url": "/modeles-de-courriers/convocation-a-un-entretien-prealable-au-licenciement-pour-motif-personnel",
         "title": "Convocation à un entretien préalable au licenciement pour motif personnel",
-        "position": 19
+        "position": 16
       },
       {
         "url": "/modeles-de-courriers/convocation-a-un-entretien-prealable-au-licenciement-economique-de-moins-de-10-salaries-pendant-30-jours",
         "title": "Convocation à un entretien préalable au licenciement économique de moins de 10 salariés pendant 30 jours",
-        "position": 20
+        "position": 17
       }
     ]
   },
@@ -1629,6 +1629,11 @@
     ],
     "refs": [
       {
+        "url": "/fiche-service-public/harcelement-moral-au-travail",
+        "title": "Harcèlement moral au travail",
+        "position": 0
+      },
+      {
         "url": "/fiche-service-public/medecine-du-travail",
         "title": "Médecine du travail",
         "position": 1
@@ -1641,27 +1646,22 @@
       {
         "url": "/fiche-ministere-travail/linspection-du-travail#Quelles-sont-les-missions",
         "title": "L’inspection du travail : quelles sont les missions ?",
-        "position": 4
-      },
-      {
-        "url": "/fiche-service-public/harcelement-moral-au-travail",
-        "title": "Harcèlement moral au travail",
-        "position": 5
+        "position": 3
       },
       {
         "url": "/fiche-ministere-travail/le-harcelement-moral#Quels-recours",
         "title": "Le harcèlement moral : quels recours ?",
-        "position": 6
+        "position": 4
       },
       {
         "url": "/fiche-ministere-travail/le-harcelement-sexuel#Victime-ou-temoin-de-harcelement-sexuel-quel-recours",
         "title": "Le harcèlement sexuel : victime ou témoin de harcèlement sexuel, quel recours ?",
-        "position": 7
+        "position": 5
       },
       {
         "url": "/fiche-ministere-travail/le-harcelement-moral#Qui-organise-la-prevention-en-matiere-de-harcelement-moral",
         "title": "Le harcèlement moral : qui organise la prévention en matière de harcèlement moral ?",
-        "position": 13
+        "position": 6
       }
     ]
   },
@@ -3266,53 +3266,58 @@
     ],
     "refs": [
       {
-        "url": "/fiche-service-public/saisine-du-conseil-de-prudhommes-cph",
-        "title": "Saisine du conseil de prud'hommes (CPH)",
-        "position": 1
-      },
-      {
-        "url": "/fiche-ministere-travail/le-conseil-de-prudhommes",
-        "title": "Le conseil de prud’hommes : à quel conseil de prud’hommes s’adresser ?",
-        "position": 2
-      },
-      {
-        "url": "/code-du-travail/l1411-1",
-        "title": "Article L1411-1",
-        "position": 3
-      },
-      {
-        "url": "/code-du-travail/r1452-1",
-        "title": "Article R1452-1",
-        "position": 4
-      },
-      {
-        "url": "/code-du-travail/r1452-2",
-        "title": "Article R1452-2",
-        "position": 5
-      },
-      {
-        "url": "/fiche-service-public/peut-on-contester-un-licenciement-economique-apres-avoir-accepte-un-csp",
-        "title": "Peut-on contester un licenciement économique après avoir accepté un CSP ?",
-        "position": 6
-      },
-      {
         "url": "/fiche-service-public/conseil-de-prudhommes-cph-deroulement-dune-affaire",
         "title": "Conseil de prud'hommes (CPH) : déroulement d'une affaire",
-        "position": 7
-      },
-      {
-        "url": "/code-du-travail/l1235-7",
-        "title": "Article L1235-7",
-        "position": 8
-      },
-      {
-        "url": "/code-du-travail/l1471-1",
-        "title": "Article L1471-1",
-        "position": 9
+        "position": 0
       },
       {
         "url": "/fiche-service-public/motifs-du-licenciement-personnel",
         "title": "Motifs du licenciement personnel",
+        "position": 1
+      },
+      {
+        "url": "/fiche-service-public/saisine-du-conseil-de-prudhommes-cph",
+        "title": "Saisine du conseil de prud'hommes (CPH)",
+        "position": 2
+      },
+      {
+        "url": "/fiche-service-public/licenciement-economique-nul-injustifie-ou-irregulier",
+        "title": "Licenciement économique nul, injustifié ou irrégulier",
+        "position": 3
+      },
+      {
+        "url": "/fiche-ministere-travail/le-conseil-de-prudhommes",
+        "title": "Le conseil de prud’hommes : à quel conseil de prud’hommes s’adresser ?",
+        "position": 4
+      },
+      {
+        "url": "/code-du-travail/l1411-1",
+        "title": "Article L1411-1",
+        "position": 5
+      },
+      {
+        "url": "/code-du-travail/r1452-1",
+        "title": "Article R1452-1",
+        "position": 6
+      },
+      {
+        "url": "/code-du-travail/r1452-2",
+        "title": "Article R1452-2",
+        "position": 7
+      },
+      {
+        "url": "/fiche-service-public/peut-on-contester-un-licenciement-economique-apres-avoir-accepte-un-csp",
+        "title": "Peut-on contester un licenciement économique après avoir accepté un CSP ?",
+        "position": 8
+      },
+      {
+        "url": "/code-du-travail/l1235-7",
+        "title": "Article L1235-7",
+        "position": 9
+      },
+      {
+        "url": "/code-du-travail/l1471-1",
+        "title": "Article L1471-1",
         "position": 10
       },
       {
@@ -3321,44 +3326,39 @@
         "position": 11
       },
       {
-        "url": "/fiche-service-public/licenciement-economique-nul-injustifie-ou-irregulier",
-        "title": "Licenciement économique nul, injustifié ou irrégulier",
-        "position": 12
-      },
-      {
         "url": "/fiche-service-public/licenciement-pour-motif-personnel-nul-injustifie-ou-irregulier",
         "title": "Licenciement pour motif personnel nul, injustifié ou irrégulier",
-        "position": 13
+        "position": 12
       },
       {
         "url": "/fiche-service-public/doit-on-se-presenter-en-personne-devant-le-conseil-de-prudhommes-cph",
         "title": "Doit-on se présenter en personne devant le conseil de prud'hommes (CPH) ?",
-        "position": 14
+        "position": 13
       },
       {
         "url": "/fiche-ministere-travail/le-conseil-de-prudhommes#Peut-on-se-faire-representer-ou-assister-a-l-audience",
         "title": "Le conseil de prud’hommes : peut-on se faire représenter ou assister à l’audience ?",
-        "position": 15
+        "position": 14
       },
       {
         "url": "/code-du-travail/r1452-3",
         "title": "Article R1452-3",
-        "position": 16
+        "position": 15
       },
       {
         "url": "/code-du-travail/r1452-4",
         "title": "Article R1452-4",
-        "position": 17
+        "position": 16
       },
       {
         "url": "/fiche-service-public/quels-sont-les-recours-possibles-apres-un-jugement-du-conseil-de-prudhommes",
         "title": "Quels sont les recours possibles après un jugement du conseil de prud'hommes ?",
-        "position": 18
+        "position": 17
       },
       {
         "url": "/fiche-ministere-travail/le-licenciement-pour-motif-personnel-les-causes-possibles-les-sanctions-applicables#Qu-est-ce-qu-un-motif-personnel",
         "title": "Le licenciement pour motif personnel : qu’est ce qu’un motif personnel ?",
-        "position": 19
+        "position": 18
       }
     ]
   },
@@ -11370,6 +11370,11 @@
       {
         "url": "/fiche-service-public/liquidation-judiciaire",
         "title": "Liquidation judiciaire",
+        "position": 0
+      },
+      {
+        "url": "/fiche-ministere-travail/5-questions-reponses-sur-le-versement-du-salaire#t5-La-garantie-des-salaires-c-est-quoi",
+        "title": "Le versement du salaire : la garantie des salaires : c’est quoi ?",
         "position": 1
       },
       {
@@ -11381,11 +11386,6 @@
         "url": "/fiche-service-public/entreprise-en-difficulte-financiere-quest-ce-que-la-garantie-des-salaires",
         "title": "Entreprise en difficulté financière : qu'est-ce que la garantie des salaires ?",
         "position": 3
-      },
-      {
-        "url": "/fiche-ministere-travail/5-questions-reponses-sur-le-versement-du-salaire#t5-La-garantie-des-salaires-c-est-quoi",
-        "title": "Le versement du salaire : la garantie des salaires : c’est quoi ?",
-        "position": 5
       }
     ]
   },
@@ -15549,21 +15549,26 @@
       {
         "url": "/fiche-ministere-travail/rupture-conventionnelle-collective#Comment-la-rupture-conventionnelle-collective-est-elle-mise-en-oeuvre-nbsp",
         "title": "La rupture conventionnelle collective : comment la rupture conventionnelle collective est-elle mise en œuvre ?",
-        "position": 1
-      },
-      {
-        "url": "/fiche-ministere-travail/rupture-conventionnelle-collective#L-accord-de-rupture-conventionnelle-collective-peut-il-etre-conteste-nbsp",
-        "title": "La rupture conventionnelle collective : l’accord de rupture conventionnelle collective peut-il être contesté ?",
-        "position": 2
-      },
-      {
-        "url": "/fiche-ministere-travail/rupture-conventionnelle-collective#L-obligation-de-revitalisation-des-territoires-s-applique-t-elle-dans-le-nbsp",
-        "title": "La rupture conventionnelle collective : l’obligation de revitalisation des territoires s’applique-t-elle dans le cadre des accords portant rupture conventionnelle collective ?",
-        "position": 3
+        "position": 0
       },
       {
         "url": "/fiche-ministere-travail/rupture-conventionnelle-collective#Quel-est-le-suivi-de-mise-en-oeuvre-de-l-accord-de-rupture-conventionnelle-nbsp",
         "title": "La rupture conventionnelle collective : quel est le suivi de mise en œuvre de l’accord de rupture conventionnelle ?",
+        "position": 1
+      },
+      {
+        "url": "/fiche-service-public/rupture-conventionnelle",
+        "title": "Rupture conventionnelle",
+        "position": 2
+      },
+      {
+        "url": "/fiche-ministere-travail/rupture-conventionnelle-collective#L-accord-de-rupture-conventionnelle-collective-peut-il-etre-conteste-nbsp",
+        "title": "La rupture conventionnelle collective : l’accord de rupture conventionnelle collective peut-il être contesté ?",
+        "position": 3
+      },
+      {
+        "url": "/fiche-ministere-travail/rupture-conventionnelle-collective#L-obligation-de-revitalisation-des-territoires-s-applique-t-elle-dans-le-nbsp",
+        "title": "La rupture conventionnelle collective : l’obligation de revitalisation des territoires s’applique-t-elle dans le cadre des accords portant rupture conventionnelle collective ?",
         "position": 4
       },
       {
@@ -15627,14 +15632,9 @@
         "position": 16
       },
       {
-        "url": "/fiche-service-public/rupture-conventionnelle",
-        "title": "Rupture conventionnelle",
-        "position": 17
-      },
-      {
         "url": "/code-du-travail/l1237-16",
         "title": "Article L1237-16",
-        "position": 18
+        "position": 17
       }
     ]
   },
