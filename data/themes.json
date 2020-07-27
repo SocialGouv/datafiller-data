@@ -68,10 +68,6 @@
       },
       {
         "title": "",
-        "url": "/fiche-ministere-travail/lindemnisation-legale-des-absences-pour-maladie-ou-accident"
-      },
-      {
-        "title": "",
         "url": "/fiche-service-public/accident-du-travail-reprise-du-travail-du-salarie"
       }
     ],
@@ -295,6 +291,10 @@
       {
         "title": "",
         "url": "/fiche-ministere-travail/le-conge-de-proche-aidant"
+      },
+      {
+        "title": "",
+        "url": "/fiche-ministere-travail/lallocation-journaliere-daccompagnement-dune-personne-en-fin-de-vie"
       }
     ],
     "title": "Autres congés",
@@ -323,9 +323,6 @@
     "position": 86,
     "refs": [
       {
-        "url": "/fiche-service-public/labsence-de-lemployeur-met-elle-fin-au-contrat-de-travail-du-salarie-a-domicile"
-      },
-      {
         "url": "/fiche-service-public/depart-negocie-en-cas-de-difficultes-economiques"
       },
       {
@@ -344,6 +341,10 @@
       {
         "title": "",
         "url": "/fiche-service-public/mettre-fin-au-contrat-dune-assistante-maternelle"
+      },
+      {
+        "title": "",
+        "url": "/fiche-service-public/labsence-du-particulier-employeur-met-elle-fin-au-contrat-de-son-salarie"
       }
     ],
     "title": "Autres départs",
@@ -1500,14 +1501,6 @@
       },
       {
         "url": "/fiche-service-public/emploi-davenir"
-      },
-      {
-        "title": "",
-        "url": "/fiche-ministere-travail/les-emplois-davenir"
-      },
-      {
-        "title": "",
-        "url": "/fiche-ministere-travail/contrat-starter"
       }
     ],
     "title": "Contrats d'insertion et emplois aidés",
@@ -1645,6 +1638,10 @@
       {
         "title": "",
         "url": "/fiche-ministere-travail/accompagnement-des-personnes-sans-emploi-pour-la-creation-et-la-reprise-dentreprise"
+      },
+      {
+        "title": "",
+        "url": "/fiche-ministere-travail/les-creches-a-vocation-dinsertion-professionnelle-vip-en-quoi-cela-consiste"
       }
     ],
     "title": "Demandeurs d'emploi",
@@ -2446,6 +2443,10 @@
       },
       {
         "url": "/fiche-service-public/sauvegarde"
+      },
+      {
+        "title": "",
+        "url": "/fiche-ministere-travail/la-garantie-en-cas-de-sauvegarde-de-redressement-ou-de-liquidation-judiciaire"
       }
     ],
     "title": "Entreprises en difficulté",
@@ -2898,11 +2899,11 @@
     "position": 616,
     "refs": [
       {
-        "url": "/fiche-service-public/harcelement-moral-au-travail"
-      },
-      {
         "title": "",
         "url": "/fiche-ministere-travail/le-harcelement-moral"
+      },
+      {
+        "url": "/fiche-service-public/harcelement-moral-au-travail"
       },
       {
         "title": "Signalement de faits pouvant relever du harcèlement moral",
@@ -5705,10 +5706,6 @@
     "refs": [
       {
         "url": "/fiche-service-public/teletravail-dans-le-secteur-prive"
-      },
-      {
-        "title": "",
-        "url": "/fiche-ministere-travail/teletravail"
       }
     ],
     "title": "Télétravail",
