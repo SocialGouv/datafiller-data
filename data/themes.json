@@ -163,6 +163,10 @@
       {
         "title": "",
         "url": "/fiche-service-public/activite-partielle-demarches-de-lemployeur-chomage-partiel-ou-technique"
+      },
+      {
+        "title": "",
+        "url": "/fiche-ministere-travail/activite-partielle-de-longue-duree-apld"
       }
     ],
     "title": "Activité partielle (anciennement chômage partiel)",
@@ -1259,6 +1263,10 @@
       {
         "title": "",
         "url": "/fiche-service-public/travailleur-handicape-contrat-dapprentissage"
+      },
+      {
+        "title": "",
+        "url": "/fiche-ministere-travail/aide-exceptionnelle-aux-employeurs-qui-recrutent-en-apprentissage"
       }
     ],
     "title": "Contrat d'apprentissage",
@@ -6171,6 +6179,10 @@
       {
         "title": "",
         "url": "/fiche-service-public/handicap-contrat-ou-stage-de-reeducation-professionnelle"
+      },
+      {
+        "title": "",
+        "url": "/fiche-ministere-travail/aide-a-laccueil-a-lelaboration-et-a-levolution-professionnelle-des-personnes-handicapees"
       }
     ],
     "title": "Travailleurs handicapés",
