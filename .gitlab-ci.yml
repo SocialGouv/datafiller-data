@@ -1,0 +1,61 @@
+---
+stages:
+  - "Code Quality"
+  - "Data update"
+
+.node_stage: &node_stage
+  image: node:13-alpine
+  before_script:
+    - yarn --frozen-lockfile
+
+Quality tests:
+  <<: *node_stage
+  stage: "Code Quality"
+  retry: 2
+  cache:
+    key: ${CI_COMMIT_REF_SLUG}
+    paths:
+      - node_modules/
+  script:
+    - yarn lint
+    - yarn test
+
+Data test:
+  <<: *node_stage
+  stage: "Data update"
+  script:
+    - wget "${DATAFILLER_URL}/kinto/v1/buckets/datasets/collections/requetes/records"
+
+Data fetch:
+  <<: *node_stage
+  only:
+    - master
+  stage: "Data update"
+  before_script:
+    - yarn --frozen-lockfile
+    - yarn global add npx
+    - apk update && apk add git
+    - git config user.name "Social Groovy Bot"
+    - git config user.email "45039513+SocialGroovyBot@users.noreply.github.com"
+    - git remote set-url origin https://${GITHUB_TOKEN}@github.com/${CI_PROJECT_PATH}.git
+    - echo "//registry.npmjs.org/:_authToken=$NPM_TOKEN" > ~/.npmrc
+  script:
+    - yarn start
+    - |
+      if [[ "$(git status data/ --porcelain)" != "" ]]; then
+        # Check JSON files
+        for filename in ./data/*\.json; do
+          node "$filename" > /dev/null || {
+            echo "Error: Invalid JSON in $filename"
+            exit 1
+          }
+        done
+        NOW=$(date +"%Y%m%d_%H%M")
+        git config user.name "Social Groovy Bot"
+        git config user.email "45039513+SocialGroovyBot@users.noreply.github.com"
+        git commit -m"feat(data): $NOW update" . --no-verify
+        git push --no-verify
+        npx semantic-release
+      else
+        echo "no changes detected"
+      fi
