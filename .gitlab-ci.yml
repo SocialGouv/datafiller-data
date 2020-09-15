@@ -27,7 +27,6 @@ Data fetch:
   stage: "Data update"
   before_script:
     - yarn --frozen-lockfile
-    - yarn global add npx
     - apk update && apk add git
     - git config user.name "Social Groovy Bot"
     - git config user.email "45039513+SocialGroovyBot@users.noreply.github.com"
