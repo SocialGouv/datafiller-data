@@ -46,7 +46,7 @@ const wrap = <T>(dataFetcher: (u: string) => Promise<T[]>) => async (
   filename: string
 ): Promise<Result<T[]>> => ({
   filename,
-  data: await dataFetcher(DATAFILLER_URL)
+  data: await dataFetcher(DATAFILLER_URL),
 });
 
 function toFix(value: number, nb = 2): number {
@@ -60,14 +60,14 @@ const config = {
   hightlights: getHightlights,
   themes: getThemes,
   agreements: getAgreementArticles,
-  externals: getExternalDocUrl
+  externals: getExternalDocUrl,
 };
 
 async function main(): Promise<void> {
   const t0 = Date.now();
   if (!DATAFILLER_URL) {
     console.error(
-      "DATAFILLER_URL  env is missing, you can provide it using DATAFILLER_URL=url yarn start"
+      "DATAFILLER_URL env is missing, you can provide it using DATAFILLER_URL=url yarn start"
     );
     process.exit(1);
   }
