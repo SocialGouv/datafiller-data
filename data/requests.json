@@ -580,8 +580,8 @@
         "position": 2
       },
       {
-        "url": "/fiche-service-public/peut-on-percevoir-lallocation-chomage-en-cas-de-demission",
-        "title": "Peut-on percevoir l'allocation chômage en cas de démission ?",
+        "url": "/fiche-service-public/un-salarie-peut-il-percevoir-lallocation-chomage-en-cas-de-demission",
+        "title": "Un salarié peut-il percevoir l'allocation chômage en cas de démission ?",
         "position": 3
       },
       {
@@ -2277,8 +2277,8 @@
         "position": 1
       },
       {
-        "url": "/fiche-service-public/securite-et-sante-au-travail-obligations-de-lemployeur",
-        "title": "Sécurité et santé au travail : obligations de l'employeur",
+        "url": "/fiche-service-public/sante-et-securite-au-travail-obligations-de-lemployeur",
+        "title": "Santé et sécurité au travail : obligations de l'employeur",
         "position": 2
       },
       {
@@ -2993,8 +2993,8 @@
     ],
     "refs": [
       {
-        "url": "/fiche-service-public/securite-et-sante-au-travail-obligations-de-lemployeur",
-        "title": "Sécurité et santé au travail : obligations de l'employeur",
+        "url": "/fiche-service-public/sante-et-securite-au-travail-obligations-de-lemployeur",
+        "title": "Santé et sécurité au travail : obligations de l'employeur",
         "position": 0
       },
       {
@@ -3471,8 +3471,8 @@
         "position": 1
       },
       {
-        "url": "/fiche-service-public/peut-on-percevoir-lallocation-chomage-en-cas-de-demission",
-        "title": "Peut-on percevoir l'allocation chômage en cas de démission ?",
+        "url": "/fiche-service-public/un-salarie-peut-il-percevoir-lallocation-chomage-en-cas-de-demission",
+        "title": "Un salarié peut-il percevoir l'allocation chômage en cas de démission ?",
         "position": 2
       },
       {
@@ -4741,7 +4741,7 @@
       },
       {
         "url": "https://www.legifrance.gouv.fr/affichCodeArticle.do;jsessionid=824878D1C70B699E273444045FD6A090.tplgfr22s_3?idArticle=LEGIARTI000006798032&cidTexte=LEGITEXT000006074069&dateTexte=20190424",
-        "title": "\r\n\t\tCode de l'action sociale et des familles - Article L423-6 | Legifrance",
+        "title": "Sous-section 4 : Congés. (Articles L423-6 à L423-7) - Légifrance",
         "position": 3
       },
       {
@@ -6242,8 +6242,8 @@
         "position": 1
       },
       {
-        "url": "/fiche-service-public/travailler-apres-67-ans-quelles-consequences-pour-la-retraite",
-        "title": "Travailler après 67 ans : quelles conséquences pour la retraite ?",
+        "url": "/fiche-service-public/travailler-apres-67-ans-quelles-consequences-pour-la-retraite-du-salarie",
+        "title": "Travailler après 67 ans : quelles conséquences pour la retraite du salarié ?",
         "position": 2
       },
       {
@@ -6512,8 +6512,8 @@
     ],
     "refs": [
       {
-        "url": "/fiche-service-public/peut-on-percevoir-lallocation-chomage-en-cas-de-demission",
-        "title": "/fiche-service-public/peut-on-percevoir-lallocation-chomage-en-cas-de-demission",
+        "url": "/fiche-service-public/un-salarie-peut-il-percevoir-lallocation-chomage-en-cas-de-demission",
+        "title": "Un salarié peut-il percevoir l'allocation chômage en cas de démission ?",
         "position": 1
       },
       {
@@ -6742,8 +6742,8 @@
     ],
     "refs": [
       {
-        "url": "/fiche-service-public/peut-on-percevoir-lallocation-chomage-en-cas-de-demission",
-        "title": "Peut-on percevoir l'allocation chômage en cas de démission ?",
+        "url": "/fiche-service-public/un-salarie-peut-il-percevoir-lallocation-chomage-en-cas-de-demission",
+        "title": "Un salarié peut-il percevoir l'allocation chômage en cas de démission ?",
         "position": 1
       },
       {
@@ -6912,8 +6912,8 @@
         "position": 0
       },
       {
-        "url": "/fiche-service-public/recrutement-dun-travailleur-etranger-non-europeen",
-        "title": "Recrutement d'un travailleur étranger non européen",
+        "url": "/fiche-service-public/embaucher-un-salarie-etranger-non-europeen",
+        "title": "Embaucher un salarié étranger non européen",
         "position": 1
       },
       {
@@ -7222,13 +7222,7 @@
     "variants": [
       "documents embauche"
     ],
-    "refs": [
-      {
-        "url": "/fiche-service-public/procedure-dembauche",
-        "title": "Procédure d'embauche",
-        "position": 2
-      }
-    ]
+    "refs": []
   },
   {
     "title": "document unique d'évaluation des risques",
@@ -7240,69 +7234,74 @@
     ],
     "refs": [
       {
-        "url": "/fiche-service-public/securite-et-sante-au-travail-obligations-de-lemployeur",
-        "title": "Sécurité et santé au travail : obligations de l'employeur",
+        "url": "/fiche-service-public/quest-ce-que-le-document-unique-devaluation-des-risques-duer",
+        "title": "Qu'est-ce que le document unique d'évaluation des risques (DUER) ?",
         "position": 0
+      },
+      {
+        "url": "/fiche-service-public/sante-et-securite-au-travail-obligations-de-lemployeur",
+        "title": "Santé et sécurité au travail : obligations de l'employeur",
+        "position": 1
       },
       {
         "url": "/fiche-service-public/quelles-sont-les-obligations-daffichage-dans-une-entreprise",
         "title": "Quelles sont les obligations d'affichage dans une entreprise ?",
-        "position": 1
+        "position": 2
       },
       {
         "url": "/fiche-ministere-travail/employeurs-vos-formalites-prealables-obligatoires#Documents-traduits-en-francais-a-conserver-et-a-presenter-sans-nbsp",
         "title": "Employeurs : documents traduits en français à conserver et à présenter sans délai",
-        "position": 2
+        "position": 3
       },
       {
         "url": "/fiche-ministere-travail/risques-psychosociaux#A-quoi-sert-le-document-unique-d-evaluation-des-risques",
         "title": "Risques psychosociaux : a quoi sert le document unique d’évaluation des risques ?",
-        "position": 3
+        "position": 4
       },
       {
         "url": "/fiche-ministere-travail/troubles-musculo-squelettiques#A-quoi-sert-le-document-unique-d-evaluation-des-risques",
         "title": "Troubles musculo-squelettiques : a quoi sert le document unique d’évaluation des risques ?",
-        "position": 4
+        "position": 5
       },
       {
         "url": "/code-du-travail/r4121-1",
         "title": "R4121-1",
-        "position": 5
+        "position": 6
       },
       {
         "url": "/code-du-travail/l4121-1",
         "title": "L4121-1",
-        "position": 6
+        "position": 7
       },
       {
         "url": "/code-du-travail/l4121-2",
         "title": "L4121-2",
-        "position": 7
+        "position": 8
       },
       {
         "url": "/code-du-travail/r4121-3",
         "title": "R4121-3",
-        "position": 8
+        "position": 9
       },
       {
         "url": "/code-du-travail/r4121-2",
         "title": "R4121-2",
-        "position": 9
+        "position": 10
       },
       {
         "url": "/code-du-travail/l4121-3",
         "title": "L4121-3",
-        "position": 10
+        "position": 11
       },
       {
         "url": "/code-du-travail/r4121-1-1",
         "title": "R4121-1-1",
-        "position": 11
+        "position": 12
       },
       {
         "url": "/code-du-travail/r4121-4",
         "title": "R4121-4",
-        "position": 12
+        "position": 13
       }
     ]
   },
@@ -7361,8 +7360,8 @@
         "position": 3
       },
       {
-        "url": "/fiche-service-public/procedure-dembauche",
-        "title": "Procédure d'embauche",
+        "url": "/fiche-service-public/procedure-dembauche-et-formalites",
+        "title": "Procédure d'embauche et formalités",
         "position": 4
       },
       {
@@ -7433,8 +7432,8 @@
         "position": 0
       },
       {
-        "url": "/fiche-service-public/securite-et-sante-au-travail-obligations-de-lemployeur",
-        "title": "Sécurité et santé au travail : obligations de l'employeur",
+        "url": "/fiche-service-public/sante-et-securite-au-travail-obligations-de-lemployeur",
+        "title": "Santé et sécurité au travail : obligations de l'employeur",
         "position": 1
       },
       {
@@ -8013,7 +8012,7 @@
       },
       {
         "url": "https://www.service-public.fr/particuliers/vosdroits/N517",
-        "title": "https://www.service-public.fr/particuliers/vosdroits/N517",
+        "title": "Épargne salariale, participation et intéressement | service-public.fr",
         "position": 5
       },
       {
@@ -9860,8 +9859,8 @@
     ],
     "refs": [
       {
-        "url": "/fiche-service-public/securite-et-sante-au-travail-obligations-de-lemployeur",
-        "title": "Sécurité et santé au travail : obligations de l'employeur",
+        "url": "/fiche-service-public/sante-et-securite-au-travail-obligations-de-lemployeur",
+        "title": "Santé et sécurité au travail : obligations de l'employeur",
         "position": 1
       },
       {
@@ -10116,26 +10115,31 @@
       {
         "url": "/fiche-service-public/carte-de-sejour-temporaire-jeune-au-pair",
         "title": "Carte de séjour temporaire - Jeune au pair",
-        "position": 1
+        "position": 0
       },
       {
         "url": "/fiche-service-public/salarie-au-pair",
         "title": "Salarié au pair",
+        "position": 1
+      },
+      {
+        "url": "/fiche-service-public/un-particulier-employeur-peut-il-embaucher-un-salarie-etranger",
+        "title": "Un particulier employeur peut-il embaucher un salarié étranger ?",
         "position": 2
+      },
+      {
+        "url": "/fiche-service-public/embaucher-un-salarie-etranger-non-europeen",
+        "title": "Embaucher un salarié étranger non européen",
+        "position": 3
       },
       {
         "url": "/fiche-service-public/etudiant-etranger-comment-travailler-en-france-apres-ses-etudes",
         "title": "Étudiant étranger : comment travailler en France après ses études ?",
-        "position": 3
+        "position": 4
       },
       {
         "url": "/fiche-service-public/autorisation-de-travail-dun-etranger-salarie-en-france",
         "title": "Autorisation de travail d'un étranger salarié en France",
-        "position": 4
-      },
-      {
-        "url": "/fiche-service-public/recrutement-dun-travailleur-etranger-non-europeen",
-        "title": "Recrutement d'un travailleur étranger non européen",
         "position": 5
       }
     ]
@@ -12328,8 +12332,8 @@
     ],
     "refs": [
       {
-        "url": "/fiche-service-public/securite-et-sante-au-travail-obligations-de-lemployeur",
-        "title": "Sécurité et santé au travail : obligations de l'employeur",
+        "url": "/fiche-service-public/sante-et-securite-au-travail-obligations-de-lemployeur",
+        "title": "Santé et sécurité au travail : obligations de l'employeur",
         "position": 1
       },
       {
@@ -13495,8 +13499,8 @@
         "position": 1
       },
       {
-        "url": "/fiche-service-public/procedure-dembauche",
-        "title": "Procédure d'embauche",
+        "url": "/fiche-service-public/procedure-dembauche-et-formalites",
+        "title": "Procédure d'embauche et formalités",
         "position": 2
       }
     ]
@@ -14433,8 +14437,8 @@
         "position": 10
       },
       {
-        "url": "/fiche-service-public/securite-et-sante-au-travail-obligations-de-lemployeur",
-        "title": "Sécurité et santé au travail : obligations de l'employeur",
+        "url": "/fiche-service-public/sante-et-securite-au-travail-obligations-de-lemployeur",
+        "title": "Santé et sécurité au travail : obligations de l'employeur",
         "position": 11
       },
       {
@@ -16687,8 +16691,13 @@
     ],
     "refs": [
       {
-        "url": "/fiche-service-public/securite-et-sante-au-travail-obligations-de-lemployeur",
-        "title": "Sécurité et santé au travail : obligations de l'employeur",
+        "url": "/fiche-service-public/sante-et-securite-conception-et-amenagement-des-lieux-de-travail",
+        "title": "Santé et sécurité : conception et aménagement des lieux de travail",
+        "position": 0
+      },
+      {
+        "url": "/fiche-service-public/sante-et-securite-utilisation-et-amenagement-des-lieux-de-travail",
+        "title": "Santé et sécurité : utilisation et aménagement des lieux de travail",
         "position": 1
       },
       {
@@ -17061,8 +17070,8 @@
     ],
     "refs": [
       {
-        "url": "/fiche-service-public/securite-et-sante-au-travail-obligations-de-lemployeur",
-        "title": "Sécurité et santé au travail : obligations de l'employeur",
+        "url": "/fiche-service-public/sante-et-securite-au-travail-obligations-de-lemployeur",
+        "title": "Santé et sécurité au travail : obligations de l'employeur",
         "position": 1
       },
       {
