@@ -338,6 +338,48 @@
     ]
   },
   {
+    "cid": "KALICONT000005635444",
+    "groups": [
+      {
+        "id": "16",
+        "selection": [
+          "KALIARTI000005786596",
+          "KALIARTI000005786597"
+        ]
+      },
+      {
+        "id": "7",
+        "selection": [
+          "KALIARTI000005786612"
+        ]
+      },
+      {
+        "id": "10",
+        "selection": [
+          "KALIARTI000005786614"
+        ]
+      },
+      {
+        "id": "1",
+        "selection": [
+          "KALIARTI000005786617"
+        ]
+      },
+      {
+        "id": "6",
+        "selection": [
+          "KALIARTI000005786626",
+          "KALIARTI000005786627",
+          "KALIARTI000005786628",
+          "KALIARTI000005786629",
+          "KALIARTI000005786630",
+          "KALIARTI000005786632",
+          "KALIARTI000005786625"
+        ]
+      }
+    ]
+  },
+  {
     "cid": "KALICONT000005635467",
     "groups": [
       {
@@ -487,6 +529,54 @@
         "id": "1",
         "selection": [
           "KALIARTI000038162821"
+        ]
+      }
+    ]
+  },
+  {
+    "cid": "KALICONT000005635613",
+    "groups": [
+      {
+        "id": "16",
+        "selection": [
+          "KALIARTI000005786596",
+          "KALIARTI000005786597",
+          "KALIARTI000005846017",
+          "KALIARTI000005846018"
+        ]
+      },
+      {
+        "id": "7",
+        "selection": [
+          "KALIARTI000005786612"
+        ]
+      },
+      {
+        "id": "10",
+        "selection": [
+          "KALIARTI000005786614",
+          "KALIARTI000005846021"
+        ]
+      },
+      {
+        "id": "1",
+        "selection": [
+          "KALIARTI000005786617",
+          "KALIARTI000005846044"
+        ]
+      },
+      {
+        "id": "6",
+        "selection": [
+          "KALIARTI000005786626",
+          "KALIARTI000005786627",
+          "KALIARTI000005786628",
+          "KALIARTI000005786629",
+          "KALIARTI000005786630",
+          "KALIARTI000005786632",
+          "KALIARTI000005786625",
+          "KALIARTI000005846025",
+          "KALIARTI000005846034"
         ]
       }
     ]
