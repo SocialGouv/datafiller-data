@@ -331,10 +331,10 @@
     "position": 86,
     "refs": [
       {
-        "url": "/fiche-service-public/depart-negocie-en-cas-de-difficultes-economiques"
+        "url": "/fiche-service-public/rupture-du-contrat-de-travail-pour-cas-de-force-majeure"
       },
       {
-        "url": "/fiche-service-public/rupture-du-contrat-de-travail-pour-cas-de-force-majeure"
+        "url": "/fiche-service-public/depart-negocie-en-cas-de-difficultes-economiques"
       },
       {
         "url": "/fiche-service-public/que-devient-le-contrat-du-salarie-au-deces-du-particulier-employeur"
@@ -457,6 +457,14 @@
         "url": "/fiche-ministere-travail/le-contrat-a-duree-determinee-cdd"
       },
       {
+        "title": "",
+        "url": "/fiche-ministere-travail/le-contrat-a-duree-determinee-senior-cdd-senior"
+      },
+      {
+        "title": "",
+        "url": "/fiche-ministere-travail/le-contrat-a-duree-determinee-a-objet-defini"
+      },
+      {
         "url": "/fiche-service-public/cas-ou-lemployeur-peut-embaucher-en-contrat-a-duree-determinee-cdd"
       },
       {
@@ -480,11 +488,11 @@
         "url": "/contribution/embauche-en-contrat-dextra-cdd-dusage"
       },
       {
-        "url": "/fiche-service-public/embauche-en-contrat-dextra-cdd-dusage"
-      },
-      {
         "title": "Le Contrat à durée déterminée d’usage",
         "url": "/fiche-ministere-travail/le-contrat-a-duree-determinee-dusage"
+      },
+      {
+        "url": "/fiche-service-public/embauche-en-contrat-dextra-cdd-dusage"
       },
       {
         "title": "Dans quel secteur peut-on recourir au CDD d'usage ou à l'intérim ?",
@@ -503,14 +511,6 @@
       },
       {
         "url": "/fiche-service-public/dans-quels-cas-un-cdd-est-il-requalifie-en-cdi"
-      },
-      {
-        "title": "",
-        "url": "/fiche-ministere-travail/le-contrat-a-duree-determinee-a-objet-defini"
-      },
-      {
-        "title": "",
-        "url": "/fiche-ministere-travail/le-contrat-a-duree-determinee-senior-cdd-senior"
       }
     ],
     "title": "CDD",
@@ -770,10 +770,6 @@
     "position": 9,
     "refs": [
       {
-        "title": "",
-        "url": "/fiche-service-public/comment-obtenir-un-extrait-k-ou-kbis"
-      },
-      {
         "title": "Le salarié et l'employeur peuvent-ils régler un conflit à l'amiable ?",
         "url": "/fiche-service-public/le-salarie-et-lemployeur-peuvent-ils-regler-un-conflit-a-lamiable"
       },
@@ -785,20 +781,20 @@
         "url": "/fiche-service-public/justice-penale-quels-sont-les-delais-de-prescription"
       },
       {
-        "url": "/fiche-service-public/declaration-annuelle-des-donnees-sociales-unifiee-dads-u"
-      },
-      {
-        "url": "/fiche-service-public/declaration-sociale-nominative-dsn"
-      },
-      {
         "url": "/fiche-service-public/quels-sont-les-delais-de-conservation-des-documents-pour-les-entreprises"
       },
       {
         "url": "/fiche-service-public/quels-sont-les-delais-de-conservation-des-documents-dune-association"
       },
       {
-        "title": "Le salarié et l'employeur peuvent-ils régler un conflit à l'amiable ?",
-        "url": "/fiche-service-public/le-salarie-et-lemployeur-peuvent-ils-regler-un-conflit-a-lamiable"
+        "title": "",
+        "url": "/fiche-service-public/comment-obtenir-un-extrait-k-ou-kbis"
+      },
+      {
+        "url": "/fiche-service-public/declaration-sociale-nominative-dsn"
+      },
+      {
+        "url": "/fiche-service-public/declaration-annuelle-des-donnees-sociales-unifiee-dads-u"
       }
     ],
     "title": "Conflits au travail et contrôle de la réglementation",
@@ -1206,6 +1202,13 @@
     "refs": [
       {
         "title": "",
+        "url": "/fiche-ministere-travail/contrat-dapprentissage"
+      },
+      {
+        "url": "/fiche-service-public/contrat-dapprentissage"
+      },
+      {
+        "title": "",
         "url": "/fiche-ministere-travail/les-5-etapes-a-suivre-pour-entrer-en-apprentissage"
       },
       {
@@ -1215,13 +1218,6 @@
       {
         "title": "Être apprenti",
         "url": "/fiche-ministere-travail/etre-apprenti"
-      },
-      {
-        "url": "/fiche-service-public/contrat-dapprentissage"
-      },
-      {
-        "title": "",
-        "url": "/fiche-ministere-travail/contrat-dapprentissage"
       },
       {
         "url": "/fiche-service-public/peut-on-entrer-en-apprentissage-apres-la-classe-de-troisieme"
@@ -1235,17 +1231,6 @@
         "url": "/fiche-ministere-travail/apprentissage-financement-de-lapprentissage"
       },
       {
-        "url": "/fiche-service-public/mediateur-de-lapprentissage-comment-y-recourir"
-      },
-      {
-        "title": "Rupture d’un commun accord d’un contrat d’apprentissage",
-        "url": "/modeles-de-courriers/rupture-dun-commun-accord-dun-contrat-dapprentissage"
-      },
-      {
-        "title": "",
-        "url": "/fiche-ministere-travail/handicap-contrat-dapprentissage-amenage"
-      },
-      {
         "title": "",
         "url": "/fiche-service-public/contrat-dapprentissage-et-de-professionnalisation-quelles-differences"
       },
@@ -1255,15 +1240,26 @@
       },
       {
         "title": "",
-        "url": "/fiche-service-public/travailleur-handicape-contrat-dapprentissage"
-      },
-      {
-        "title": "",
         "url": "/fiche-ministere-travail/aide-exceptionnelle-aux-employeurs-qui-recrutent-en-apprentissage"
       },
       {
         "title": "",
         "url": "/fiche-service-public/aides-a-lembauche-pour-un-contrat-dapprentissage"
+      },
+      {
+        "url": "/fiche-service-public/mediateur-de-lapprentissage-comment-y-recourir"
+      },
+      {
+        "title": "Rupture d’un commun accord d’un contrat d’apprentissage",
+        "url": "/modeles-de-courriers/rupture-dun-commun-accord-dun-contrat-dapprentissage"
+      },
+      {
+        "title": "",
+        "url": "/fiche-service-public/travailleur-handicape-contrat-dapprentissage"
+      },
+      {
+        "title": "Handicap | Contrat d’apprentissage aménagé : qui peut bénéficier d’un contrat d’apprentissage aménagé ?",
+        "url": "/fiche-ministere-travail/handicap-contrat-dapprentissage-amenage#Qui-peut-beneficier-d-un-contrat-d-apprentissage-amenage"
       }
     ],
     "title": "Contrat d'apprentissage",
@@ -1363,16 +1359,16 @@
         "url": "/fiche-ministere-travail/contrat-de-travail-les-principales-caracteristiques"
       },
       {
-        "title": " Quelles informations doivent figurer dans le contrat de travail ou la lettre d'engagement ?",
-        "url": "/contribution/quelles-informations-doivent-figurer-dans-le-contrat-de-travail-ou-la-lettre-dengagement"
-      },
-      {
         "title": "Est-il obligatoire d'avoir un contrat de travail écrit et signé ?",
         "url": "/contribution/est-il-obligatoire-davoir-un-contrat-de-travail-ecrit-et-signe"
       },
       {
         "title": "Le contrat de travail est-il obligatoirement écrit ?",
         "url": "/fiche-service-public/le-contrat-de-travail-est-il-obligatoirement-ecrit"
+      },
+      {
+        "title": " Quelles informations doivent figurer dans le contrat de travail ou la lettre d'engagement ?",
+        "url": "/contribution/quelles-informations-doivent-figurer-dans-le-contrat-de-travail-ou-la-lettre-dengagement"
       },
       {
         "url": "/fiche-service-public/quest-ce-quune-clause-de-non-concurrence"
@@ -1458,14 +1454,13 @@
     "position": 126,
     "refs": [
       {
-        "title": "Garantie jeunes (accompagnement pour trouver un travail)",
-        "url": "/fiche-service-public/garantie-jeunes-accompagnement-pour-trouver-un-travail"
-      },
-      {
-        "url": "/fiche-service-public/quest-ce-quun-cdd-dinsertion-cddi"
+        "url": "/fiche-service-public/contrat-unique-dinsertion-cui-parcours-emploi-competences-pec"
       },
       {
         "url": "/fiche-service-public/un-ancien-contrat-aide-reste-t-il-valable-contrat-insertion-emploi-jeune"
+      },
+      {
+        "url": "/fiche-service-public/quest-ce-quun-cdd-dinsertion-cddi"
       },
       {
         "title": "",
@@ -1489,9 +1484,6 @@
       {
         "title": "",
         "url": "/fiche-ministere-travail/le-contrat-unique-dinsertion-contrat-initiative-emploi-cui-cie"
-      },
-      {
-        "url": "/fiche-service-public/contrat-unique-dinsertion-cui-parcours-emploi-competences-pec"
       },
       {
         "title": "Qu'est ce que la préprofessionnalisation pour étudiant apprenti professeur ?",
@@ -1770,6 +1762,10 @@
     "position": 8,
     "refs": [
       {
+        "title": "",
+        "url": "/fiche-service-public/rupture-du-contrat-de-travail-a-duree-indeterminee-cdi"
+      },
+      {
         "title": "Arrêt maladie pendant le préavis : quelles conséquences ?",
         "url": "/contribution/arret-maladie-pendant-le-preavis-quelles-consequences"
       },
@@ -1797,6 +1793,10 @@
       {
         "title": "Quelles sont les conséquences du non-respect du préavis par le salarié ou l'employeur ?",
         "url": "/contribution/quelles-sont-les-consequences-du-non-respect-du-preavis-par-le-salarie-ou-lemployeur"
+      },
+      {
+        "title": "",
+        "url": "/fiche-service-public/salarie-sans-papiers-quelles-regles-pour-la-rupture-du-contrat-de-travail"
       }
     ],
     "title": "Départ de l'entreprise",
@@ -1820,7 +1820,8 @@
     "position": 852,
     "refs": [
       {
-        "url": "/fiche-service-public/assure-polypensionne-quelles-demarches-effectuer-pour-demander-sa-retraite"
+        "title": "",
+        "url": "/fiche-service-public/depart-en-retraite-du-salarie-quelles-sont-les-demarches-a-effectuer"
       },
       {
         "url": "/fiche-service-public/un-salarie-peut-il-choisir-la-date-de-son-depart-a-la-retraite"
@@ -1830,8 +1831,7 @@
         "url": "/contribution/quelle-est-la-duree-de-preavis-en-cas-de-depart-a-la-retraite"
       },
       {
-        "title": "",
-        "url": "/fiche-service-public/depart-en-retraite-du-salarie-quelles-sont-les-demarches-a-effectuer"
+        "url": "/fiche-service-public/assure-polypensionne-quelles-demarches-effectuer-pour-demander-sa-retraite"
       }
     ],
     "title": "Départ volontaire à la retraite",
@@ -1855,8 +1855,8 @@
     "position": 116,
     "refs": [
       {
-        "title": "Salariés détachés : vos droits",
-        "url": "/fiche-ministere-travail/salaries-detaches-vos-droits"
+        "title": "Cadre général",
+        "url": "/fiche-ministere-travail/cadre-general"
       },
       {
         "title": "Employeurs : vos formalités préalables obligatoires",
@@ -1867,12 +1867,12 @@
         "url": "/external/sipsi"
       },
       {
-        "title": "Salarié détaché à l'étranger ou expatrié : quels effets sur la retraite ?",
-        "url": "/fiche-service-public/salarie-detache-a-letranger-ou-expatrie-quels-effets-sur-la-retraite"
+        "title": "Salariés détachés : vos droits",
+        "url": "/fiche-ministere-travail/salaries-detaches-vos-droits"
       },
       {
-        "title": "Cadre général",
-        "url": "/fiche-ministere-travail/cadre-general"
+        "title": "Salarié détaché à l'étranger ou expatrié : quels effets sur la retraite ?",
+        "url": "/fiche-service-public/salarie-detache-a-letranger-ou-expatrie-quels-effets-sur-la-retraite"
       }
     ],
     "title": "Détachement",
@@ -2252,16 +2252,7 @@
     ],
     "id": "e17c67b3-6a9f-4424-94d8-851c43b6057e",
     "position": 11,
-    "refs": [
-      {
-        "title": "Exonérations sur les bénéfices en zone franche urbaine-territoire entrepreneur",
-        "url": "/fiche-service-public/exonerations-sur-les-benefices-en-zone-franche-urbaine-territoire-entrepreneur"
-      },
-      {
-        "title": "Si un poste se libère ou est créé dans l’entreprise, l’employeur doit-il en informer les salariés ? Ou le leur proposer en priorité ?",
-        "url": "/contribution/si-un-poste-se-libere-ou-est-cree-dans-lentreprise-lemployeur-doit-il-en-informer-les-salaries-ou-le-leur-proposer-en-priorite"
-      }
-    ],
+    "refs": [],
     "title": "Embauche",
     "variants": [
       "Embauche"
@@ -2285,8 +2276,8 @@
     "position": 1,
     "refs": [
       {
-        "title": "À quoi correspond le code APE ?",
-        "url": "/fiche-service-public/a-quoi-correspond-le-code-ape"
+        "title": "",
+        "url": "/fiche-service-public/registres-du-personnel-obligatoires"
       },
       {
         "title": "Le registre unique du personnel",
@@ -2294,11 +2285,11 @@
       },
       {
         "title": "",
-        "url": "/fiche-service-public/registres-du-personnel-obligatoires"
+        "url": "/fiche-ministere-travail/mise-a-disposition-temporaire-de-salaries-volontaires-entre-deux-entreprises"
       },
       {
-        "title": "",
-        "url": "/fiche-ministere-travail/mise-a-disposition-temporaire-de-salaries-volontaires-entre-deux-entreprises"
+        "title": "À quoi correspond le code APE ?",
+        "url": "/fiche-service-public/a-quoi-correspond-le-code-ape"
       }
     ],
     "title": "Embauche et contrat de travail",
@@ -2621,6 +2612,10 @@
     "position": 82,
     "refs": [
       {
+        "title": "Fin d'un contrat à durée déterminée (CDD)",
+        "url": "/fiche-service-public/fin-dun-contrat-a-duree-determinee-cdd"
+      },
+      {
         "url": "/fiche-service-public/linaptitude-du-salarie-en-cdd-peut-elle-justifier-la-rupture-de-son-contrat"
       },
       {
@@ -2632,24 +2627,24 @@
         "url": "/fiche-service-public/qui-peut-toucher-la-prime-de-precarite-a-la-fin-dun-contrat-de-travail"
       },
       {
-        "title": "Simulateur d'indemnité de précarité",
-        "url": "/outils/indemnite-precarite"
+        "title": "Dans le cadre d’un contrat de mission (intérim), quel est le montant de l’indemnité de fin de contrat ? ",
+        "url": "/contribution/dans-le-cadre-dun-contrat-de-mission-interim-quel-est-le-montant-de-lindemnite-de-fin-de-contrat"
       },
       {
-        "title": "Fin d'un contrat à durée déterminée (CDD)",
-        "url": "/fiche-service-public/fin-dun-contrat-a-duree-determinee-cdd"
+        "title": "Simulateur d'indemnité de précarité",
+        "url": "/outils/indemnite-precarite"
       },
       {
         "title": "Faut-il respecter un délai de carence entre deux contrats de mission (intérim) ? ",
         "url": "/contribution/faut-il-respecter-un-delai-de-carence-entre-deux-contrats-de-mission-interim"
       },
       {
-        "title": "Rupture d’un commun accord d’un contrat de travail à durée déterminée",
-        "url": "/modeles-de-courriers/rupture-dun-commun-accord-dun-contrat-de-travail-a-duree-determinee"
+        "title": "Faut-il respecter un délai de carence entre deux CDD ? Si oui, quelle est sa durée ?",
+        "url": "/contribution/faut-il-respecter-un-delai-de-carence-entre-deux-cdd-si-oui-quelle-est-sa-duree"
       },
       {
-        "title": "Dans le cadre d’un contrat de mission (intérim), quel est le montant de l’indemnité de fin de contrat ? ",
-        "url": "/contribution/dans-le-cadre-dun-contrat-de-mission-interim-quel-est-le-montant-de-lindemnite-de-fin-de-contrat"
+        "title": "Rupture d’un commun accord d’un contrat de travail à durée déterminée",
+        "url": "/modeles-de-courriers/rupture-dun-commun-accord-dun-contrat-de-travail-a-duree-determinee"
       }
     ],
     "title": "Fin d'un CDD - CTT",
@@ -2674,6 +2669,10 @@
     "refs": [
       {
         "title": "",
+        "url": "/fiche-service-public/procedure-dembauche-et-formalites"
+      },
+      {
+        "title": "",
         "url": "/fiche-ministere-travail/les-obligations-de-lemployeur-lors-de-lembauche"
       },
       {
@@ -2683,24 +2682,24 @@
         "url": "/fiche-service-public/guichet-unique-du-spectacle-occasionnel-guso"
       },
       {
-        "url": "/fiche-service-public/cheque-emploi-associatif-cea"
+        "title": "",
+        "url": "/fiche-ministere-travail/recruter-un-e-assistant-e-maternel-le-les-obligations-a-respecter"
+      },
+      {
+        "url": "/fiche-service-public/contrat-de-travail-et-formalites-dembauche-de-lassistante-maternelle"
       },
       {
         "url": "/fiche-service-public/accueil-dun-enfant-par-une-assistante-maternelle-agreee"
       },
       {
-        "url": "/fiche-service-public/contrat-de-travail-et-formalites-dembauche-de-lassistante-maternelle"
+        "url": "/fiche-service-public/cheque-emploi-associatif-cea"
       },
       {
         "url": "/fiche-service-public/aide-a-domicile-services-a-la-personne-embauche-dun-salarie"
       },
       {
         "title": "",
-        "url": "/fiche-ministere-travail/recruter-un-e-assistant-e-maternel-le-les-obligations-a-respecter"
-      },
-      {
-        "title": "",
-        "url": "/fiche-service-public/procedure-dembauche-et-formalites"
+        "url": "/contribution/si-un-poste-se-libere-ou-est-cree-dans-lentreprise-lemployeur-doit-il-en-informer-les-salaries-ou-le-leur-proposer-en-priorite"
       }
     ],
     "title": "Formalités d'embauche",
@@ -2845,7 +2844,7 @@
       },
       {
         "title": "",
-        "url": "/fiche-service-public/travailleur-handicape-contrat-dapprentissage"
+        "url": "/fiche-ministere-travail/handicap-contrat-dapprentissage-amenage"
       }
     ],
     "title": "Handicap",
@@ -3653,13 +3652,22 @@
     "position": 841,
     "refs": [
       {
+        "url": "/fiche-service-public/quest-ce-quun-licenciement-pour-motif-economique"
+      },
+      {
+        "title": "",
+        "url": "/fiche-ministere-travail/la-definition-du-licenciement-pour-motif-economique"
+      },
+      {
+        "title": "",
+        "url": "/fiche-service-public/licenciement-economique-obligations-de-lemployeur"
+      },
+      {
+        "title": "",
+        "url": "/fiche-ministere-travail/la-procedure-en-cas-de-licenciement-individuel-pour-motif-economique"
+      },
+      {
         "url": "/fiche-service-public/licenciement-economique-quelles-indemnites-peut-percevoir-un-salarie"
-      },
-      {
-        "url": "/fiche-service-public/conge-de-reclassement"
-      },
-      {
-        "url": "/fiche-service-public/contrat-de-securisation-professionnelle-csp"
       },
       {
         "url": "/fiche-service-public/plan-de-sauvegarde-de-lemploi-pse-licenciement-economique"
@@ -3674,6 +3682,19 @@
         "url": "/fiche-service-public/licenciement-pour-motif-economique-adaptation-et-reclassement-des-salaries"
       },
       {
+        "url": "/fiche-service-public/licenciement-economique-lettre-de-licenciement"
+      },
+      {
+        "url": "/fiche-service-public/conge-de-reclassement"
+      },
+      {
+        "title": "",
+        "url": "/fiche-ministere-travail/plan-de-sauvegarde-de-lemploi-pse"
+      },
+      {
+        "url": "/fiche-service-public/contrat-de-securisation-professionnelle-csp"
+      },
+      {
         "url": "/fiche-service-public/peut-on-contester-un-licenciement-economique-apres-avoir-accepte-un-csp"
       },
       {
@@ -3681,12 +3702,6 @@
       },
       {
         "url": "/fiche-service-public/conge-de-mobilite"
-      },
-      {
-        "url": "/fiche-service-public/licenciement-economique-lettre-de-licenciement"
-      },
-      {
-        "url": "/fiche-service-public/quest-ce-quun-licenciement-pour-motif-economique"
       },
       {
         "url": "/fiche-service-public/licenciement-economique-allocation-temporaire-degressive-atd"
@@ -3710,9 +3725,6 @@
         "url": "/fiche-service-public/conge-de-conversion"
       },
       {
-        "url": "/fiche-service-public/licenciement-economique-les-obligations-de-lemployeur"
-      },
-      {
         "title": "Licenciement dans une entreprise en difficulté : quelles sont les règles ?",
         "url": "/fiche-service-public/licenciement-dans-une-entreprise-en-difficulte-quelles-sont-les-regles"
       },
@@ -3726,10 +3738,6 @@
       },
       {
         "title": "",
-        "url": "/fiche-ministere-travail/la-definition-du-licenciement-pour-motif-economique"
-      },
-      {
-        "title": "",
         "url": "/fiche-ministere-travail/la-procedure-de-licenciement-economique-de-2-a-9-salaries"
       },
       {
@@ -3738,23 +3746,11 @@
       },
       {
         "title": "",
-        "url": "/fiche-ministere-travail/la-procedure-en-cas-de-licenciement-individuel-pour-motif-economique"
-      },
-      {
-        "title": "",
         "url": "/fiche-ministere-travail/la-priorite-de-reembauche"
       },
       {
         "title": "",
         "url": "/fiche-ministere-travail/conge-de-reclassement"
-      },
-      {
-        "title": "",
-        "url": "/fiche-ministere-travail/contrat-de-securisation-professionnelle-csp"
-      },
-      {
-        "title": "",
-        "url": "/fiche-ministere-travail/plan-de-sauvegarde-de-lemploi-pse"
       }
     ],
     "title": "Licenciement pour motif économique",
@@ -3989,6 +3985,10 @@
       },
       {
         "title": "",
+        "url": "/fiche-ministere-travail/entreprises-bonnes-pratiques-pour-recruter-sans-discriminer"
+      },
+      {
+        "title": "",
         "url": "/fiche-ministere-travail/offre-demploi-et-embauche-les-droits-du-candidat"
       },
       {
@@ -3997,10 +3997,6 @@
       {
         "title": "Offre de contrat et promesse unilatérale",
         "url": "/fiche-service-public/offre-de-contrat-et-promesse-unilaterale"
-      },
-      {
-        "title": "",
-        "url": "/fiche-ministere-travail/entreprises-bonnes-pratiques-pour-recruter-sans-discriminer"
       }
     ],
     "title": "Méthodes de recrutement",
@@ -4093,9 +4089,6 @@
         "url": "/fiche-service-public/comment-consulter-un-accord-dentreprise"
       },
       {
-        "url": "/fiche-service-public/quest-ce-quun-usage-dentreprise"
-      },
-      {
         "url": "/fiche-service-public/comment-deposer-un-accord-dentreprise"
       },
       {
@@ -4105,6 +4098,9 @@
       {
         "title": "",
         "url": "/fiche-ministere-travail/gestion-previsionnelle-de-lemploi-et-des-competences-gpec"
+      },
+      {
+        "url": "/fiche-service-public/quest-ce-quun-usage-dentreprise"
       }
     ],
     "title": "Négociations dans l'entreprise",
@@ -4124,10 +4120,14 @@
     "position": 74,
     "refs": [
       {
+        "url": "/fiche-service-public/convention-collective"
+      },
+      {
         "url": "/fiche-service-public/comment-consulter-une-convention-collective"
       },
       {
-        "url": "/fiche-service-public/convention-collective"
+        "title": "Conventions collectives : nomenclatures",
+        "url": "/fiche-ministere-travail/conventions-collectives-nomenclatures"
       },
       {
         "title": "Une association employeur doit-elle appliquer une convention collective ?",
@@ -4140,10 +4140,6 @@
       {
         "title": "Comptes des organisations syndicales et professionnelles",
         "url": "/fiche-ministere-travail/comptes-des-organisations-syndicales-et-professionnelles"
-      },
-      {
-        "title": "Conventions collectives : nomenclatures",
-        "url": "/fiche-ministere-travail/conventions-collectives-nomenclatures"
       },
       {
         "title": "",
@@ -4251,14 +4247,17 @@
         "url": "/fiche-service-public/periode-dessai"
       },
       {
-        "title": "La période d’essai peut-elle être renouvelée ?",
-        "url": "/contribution/la-periode-dessai-peut-elle-etre-renouvelee"
-      },
-      {
         "url": "/fiche-service-public/quest-ce-quun-essai-professionnel"
       },
       {
         "url": "/fiche-service-public/quest-ce-quune-periode-probatoire-pour-le-salarie"
+      },
+      {
+        "title": "La période d’essai peut-elle être renouvelée ?",
+        "url": "/contribution/la-periode-dessai-peut-elle-etre-renouvelee"
+      },
+      {
+        "url": "/fiche-service-public/un-salarie-peut-il-effectuer-plusieurs-periodes-dessai-chez-le-meme-employeur"
       },
       {
         "title": "Quelle est la durée maximale de la période d'essai, sans et avec renouvellement ? ",
@@ -4271,7 +4270,8 @@
         "url": "/fiche-service-public/quelle-est-la-duree-de-la-periode-dessai-dun-contrat-de-mission-interim"
       },
       {
-        "url": "/fiche-service-public/arret-maladie-pendant-la-periode-dessai-quelles-sont-les-regles"
+        "title": "Arrêt maladie pendant la période d'essai : quelles sont les règles ?",
+        "url": "/contribution/arret-maladie-pendant-la-periode-dessai-quelles-sont-les-regles"
       },
       {
         "title": "Modèle de rupture du contrat en période d’essai à l'initiative du salarié",
@@ -4286,11 +4286,8 @@
         "url": "/modeles-de-courriers/demande-daccord-du-salarie-pour-le-renouvellement-dune-periode-dessai"
       },
       {
-        "url": "/fiche-service-public/un-salarie-peut-il-effectuer-plusieurs-periodes-dessai-chez-le-meme-employeur"
-      },
-      {
-        "title": "Arrêt maladie pendant la période d'essai : quelles sont les règles ?",
-        "url": "/contribution/arret-maladie-pendant-la-periode-dessai-quelles-sont-les-regles"
+        "title": "",
+        "url": "/fiche-service-public/arret-maladie-pendant-la-periode-dessai-quelles-sont-les-regles"
       }
     ],
     "title": "Période d'essai",
@@ -4380,6 +4377,10 @@
       {
         "title": "",
         "url": "/fiche-ministere-travail/cas-types-bonus-malus"
+      },
+      {
+        "title": "",
+        "url": "/fiche-service-public/exonerations-sur-les-benefices-en-zone-franche-urbaine-territoire-entrepreneur"
       }
     ],
     "title": "Politique de l'emploi",
@@ -4877,10 +4878,10 @@
     "position": 85,
     "refs": [
       {
-        "url": "/fiche-service-public/retraite-dans-le-prive-droit-a-linformation-sur-la-retraite-du-salarie"
+        "url": "/fiche-service-public/a-partir-de-quel-age-peut-on-partir-en-retraite-dans-le-secteur-prive"
       },
       {
-        "url": "/fiche-service-public/a-partir-de-quel-age-peut-on-partir-en-retraite-dans-le-secteur-prive"
+        "url": "/fiche-service-public/retraite-dans-le-prive-droit-a-linformation-sur-la-retraite-du-salarie"
       },
       {
         "url": "/fiche-service-public/retraite-dans-le-prive-pension-de-retraite-minimum"
@@ -5303,23 +5304,19 @@
     "position": 831,
     "refs": [
       {
+        "title": "",
+        "url": "/fiche-ministere-travail/la-rupture-conventionnelle-du-contrat-de-travail-a-duree-indeterminee"
+      },
+      {
         "title": "TéléRC",
         "url": "/external/telerc"
-      },
-      {
-        "title": "Rupture du contrat de travail à durée indéterminée (CDI)",
-        "url": "/fiche-service-public/rupture-du-contrat-de-travail-a-duree-indeterminee-cdi"
-      },
-      {
-        "url": "/fiche-service-public/comment-calculer-lindemnite-specifique-de-rupture-conventionnelle"
       },
       {
         "title": "Demande de rendez-vous en vue d’une rupture conventionnelle",
         "url": "/modeles-de-courriers/demande-de-rendez-vous-en-vue-dune-rupture-conventionnelle"
       },
       {
-        "title": "",
-        "url": "/fiche-ministere-travail/la-rupture-conventionnelle-du-contrat-de-travail-a-duree-indeterminee"
+        "url": "/fiche-service-public/comment-calculer-lindemnite-specifique-de-rupture-conventionnelle"
       }
     ],
     "title": "Rupture conventionnelle individuelle",
@@ -5477,7 +5474,8 @@
         "url": "/fiche-service-public/sanctions-disciplinaires-dans-le-secteur-prive"
       },
       {
-        "url": "/fiche-service-public/que-peut-faire-un-particulier-employeur-si-son-salarie-casse-un-objet"
+        "title": "",
+        "url": "/modeles-de-courriers/lettre-de-licenciement-pour-motif-disciplinaire"
       },
       {
         "title": "Faute grave ou lourde commise pendant un préavis : quelles conséquences ?",
@@ -5488,8 +5486,7 @@
         "url": "/fiche-service-public/un-salarie-doit-il-rembourser-du-materiel-de-lentreprise-casse-ou-perdu"
       },
       {
-        "title": "",
-        "url": "/modeles-de-courriers/lettre-de-licenciement-pour-motif-disciplinaire"
+        "url": "/fiche-service-public/que-peut-faire-un-particulier-employeur-si-son-salarie-casse-un-objet"
       }
     ],
     "title": "Sanctions disciplinaires",
@@ -6053,22 +6050,29 @@
     "position": 114,
     "refs": [
       {
+        "title": "",
+        "url": "/fiche-service-public/embaucher-un-salarie-etranger-non-europeen"
+      },
+      {
         "url": "/fiche-service-public/autorisation-de-travail-dun-etranger-salarie-en-france"
       },
       {
         "url": "/fiche-service-public/quest-ce-quune-autorisation-provisoire-de-travail-pour-un-etranger-en-france"
       },
       {
+        "url": "/fiche-service-public/salarie-etranger-quest-ce-que-lopposabilite-de-la-situation-de-lemploi"
+      },
+      {
         "url": "/fiche-service-public/un-mineur-etranger-peut-il-travailler-en-france"
+      },
+      {
+        "url": "/fiche-service-public/un-etranger-peut-il-travailler-durant-ses-etudes-en-france"
       },
       {
         "url": "/fiche-service-public/un-particulier-employeur-peut-il-embaucher-un-salarie-etranger"
       },
       {
         "url": "/fiche-service-public/etudiant-etranger-comment-travailler-en-france-apres-ses-etudes"
-      },
-      {
-        "url": "/fiche-service-public/un-etranger-peut-il-travailler-durant-ses-etudes-en-france"
       },
       {
         "url": "/fiche-service-public/un-salarie-etranger-qui-sinstalle-en-france-doit-il-connaitre-le-francais"
@@ -6081,17 +6085,6 @@
       },
       {
         "url": "/fiche-service-public/carte-de-sejour-temporaire-jeune-au-pair"
-      },
-      {
-        "url": "/fiche-service-public/salarie-etranger-quest-ce-que-lopposabilite-de-la-situation-de-lemploi"
-      },
-      {
-        "title": "",
-        "url": "/fiche-service-public/embaucher-un-salarie-etranger-non-europeen"
-      },
-      {
-        "title": "",
-        "url": "/fiche-service-public/salarie-sans-papiers-quelles-regles-pour-la-rupture-du-contrat-de-travail"
       }
     ],
     "title": "Travailleurs étrangers",
