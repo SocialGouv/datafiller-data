@@ -24,6 +24,22 @@
       },
       {
         "title": "",
+        "url": "/fiche-service-public/quest-ce-quune-maladie-professionnelle"
+      },
+      {
+        "title": "",
+        "url": "/fiche-service-public/maladie-professionnelle-demarches-a-effectuer"
+      },
+      {
+        "title": "",
+        "url": "/fiche-service-public/quest-ce-quun-accident-de-trajet"
+      },
+      {
+        "title": "",
+        "url": "/fiche-ministere-travail/larret-de-travail-pour-accident-du-travail-ou-maladie-professionnelle"
+      },
+      {
+        "title": "",
         "url": "/fiche-service-public/accident-du-travail-indemnites-journalieres-pendant-larret-de-travail"
       },
       {
@@ -33,18 +49,6 @@
       {
         "title": "",
         "url": "/fiche-service-public/accident-du-travail-indemnisation-des-ayants-droit-en-cas-de-deces-du-salarie"
-      },
-      {
-        "title": "",
-        "url": "/fiche-service-public/quest-ce-quun-accident-de-trajet"
-      },
-      {
-        "title": "",
-        "url": "/fiche-service-public/quest-ce-quune-maladie-professionnelle"
-      },
-      {
-        "title": "",
-        "url": "/fiche-service-public/maladie-professionnelle-demarches-a-effectuer"
       },
       {
         "title": "",
@@ -61,10 +65,6 @@
       {
         "title": "",
         "url": "/fiche-service-public/comment-calculer-les-cotisations-accident-du-travail-et-maladie-professionnelle"
-      },
-      {
-        "title": "",
-        "url": "/fiche-ministere-travail/larret-de-travail-pour-accident-du-travail-ou-maladie-professionnelle"
       },
       {
         "title": "",
@@ -2286,10 +2286,6 @@
       {
         "title": "",
         "url": "/fiche-ministere-travail/mise-a-disposition-temporaire-de-salaries-volontaires-entre-deux-entreprises"
-      },
-      {
-        "title": "À quoi correspond le code APE ?",
-        "url": "/fiche-service-public/a-quoi-correspond-le-code-ape"
       }
     ],
     "title": "Embauche et contrat de travail",
@@ -2567,13 +2563,22 @@
     "position": 642,
     "refs": [
       {
+        "title": "",
+        "url": "/fiche-ministere-travail/le-conge-de-maternite"
+      },
+      {
+        "title": "",
+        "url": "/fiche-ministere-travail/les-garanties-liees-a-la-maternite-ou-a-ladoption"
+      },
+      {
         "url": "/fiche-service-public/une-salariee-enceinte-est-elle-obligee-de-reveler-sa-grossesse-a-son-employeur"
       },
       {
-        "url": "/fiche-service-public/une-salariee-peut-elle-allaiter-pendant-les-heures-de-travail"
+        "url": "/fiche-service-public/grossesse-et-autorisation-dabsence-quelles-sont-les-regles"
       },
       {
-        "url": "/fiche-service-public/grossesse-et-autorisation-dabsence-quelles-sont-les-regles"
+        "title": "",
+        "url": "/fiche-ministere-travail/la-protection-des-femmes-enceintes-et-les-risques-lies-a-la-grossesse"
       },
       {
         "url": "/fiche-service-public/une-salariee-enceinte-peut-elle-refuser-deffectuer-certaines-taches"
@@ -2583,16 +2588,7 @@
         "url": "/fiche-service-public/une-salariee-enceinte-a-t-elle-droit-a-une-reduction-de-sa-duree-de-travail"
       },
       {
-        "title": "",
-        "url": "/fiche-ministere-travail/le-conge-de-maternite"
-      },
-      {
-        "title": "",
-        "url": "/fiche-ministere-travail/la-protection-des-femmes-enceintes-et-les-risques-lies-a-la-grossesse"
-      },
-      {
-        "title": "",
-        "url": "/fiche-ministere-travail/les-garanties-liees-a-la-maternite-ou-a-ladoption"
+        "url": "/fiche-service-public/une-salariee-peut-elle-allaiter-pendant-les-heures-de-travail"
       }
     ],
     "title": "Femme enceinte - Maternité",
@@ -2822,6 +2818,43 @@
   {
     "breadcrumbs": [
       {
+        "label": "Santé, sécurité et conditions de travail",
+        "position": 6
+      },
+      {
+        "label": "Travailleurs et secteurs spécifiques",
+        "position": 64
+      }
+    ],
+    "children": [],
+    "id": "b7c0ea1f-b09d-4a71-9254-82fcc2a29395",
+    "position": 644,
+    "refs": [
+      {
+        "title": "Handicap : travail en milieu ordinaire",
+        "url": "/fiche-service-public/handicap-travail-en-milieu-ordinaire"
+      },
+      {
+        "title": "Comment être reconnu travailleur handicapé (RQTH) ?",
+        "url": "/fiche-service-public/comment-etre-reconnu-travailleur-handicape-rqth"
+      },
+      {
+        "title": "Comment être reconnu travailleur handicapé (RQTH) ?",
+        "url": "/fiche-service-public/comment-etre-reconnu-travailleur-handicape-rqth"
+      },
+      {
+        "title": "",
+        "url": "/fiche-ministere-travail/les-aides-de-lagefiph"
+      }
+    ],
+    "title": "Handicap",
+    "variants": [
+      "Handicap"
+    ]
+  },
+  {
+    "breadcrumbs": [
+      {
         "label": "Embauche et contrat de travail",
         "position": 1
       },
@@ -2845,43 +2878,6 @@
       {
         "title": "",
         "url": "/fiche-ministere-travail/handicap-contrat-dapprentissage-amenage"
-      }
-    ],
-    "title": "Handicap",
-    "variants": [
-      "Handicap"
-    ]
-  },
-  {
-    "breadcrumbs": [
-      {
-        "label": "Santé, sécurité et conditions de travail",
-        "position": 6
-      },
-      {
-        "label": "Travailleurs et secteurs spécifiques",
-        "position": 64
-      }
-    ],
-    "children": [],
-    "id": "b7c0ea1f-b09d-4a71-9254-82fcc2a29395",
-    "position": 644,
-    "refs": [
-      {
-        "title": "Comment être reconnu travailleur handicapé (RQTH) ?",
-        "url": "/fiche-service-public/comment-etre-reconnu-travailleur-handicape-rqth"
-      },
-      {
-        "title": "Handicap : travail en milieu ordinaire",
-        "url": "/fiche-service-public/handicap-travail-en-milieu-ordinaire"
-      },
-      {
-        "title": "Comment être reconnu travailleur handicapé (RQTH) ?",
-        "url": "/fiche-service-public/comment-etre-reconnu-travailleur-handicape-rqth"
-      },
-      {
-        "title": "",
-        "url": "/fiche-ministere-travail/les-aides-de-lagefiph"
       }
     ],
     "title": "Handicap",
@@ -3026,6 +3022,14 @@
       {
         "title": "Inaptitude au travail du salarié suite à une maladie professionnelle",
         "url": "/fiche-service-public/inaptitude-au-travail-du-salarie-suite-a-une-maladie-professionnelle"
+      },
+      {
+        "title": "La reconnaissance de l’inaptitude médicale au travail et ses conséquences : que recouvre l’effort de reclassement imposé aux employeurs ?",
+        "url": "/fiche-ministere-travail/la-reconnaissance-de-linaptitude-medicale-au-travail-et-ses-consequences#Que-recouvre-l-effort-de-reclassement-impose-aux-employeurs-nbsp"
+      },
+      {
+        "title": "La santé au travail : constat d’inaptitude : dans quels cas ?",
+        "url": "/fiche-ministere-travail/5-questions-reponses-sur-la-sante-au-travail#t4-Constat-d-inaptitude-dans-quels-cas"
       }
     ],
     "title": "Inaptitude",
@@ -3179,16 +3183,16 @@
     "position": 641,
     "refs": [
       {
+        "title": "",
+        "url": "/fiche-ministere-travail/la-protection-de-la-sante-des-jeunes-travailleurs"
+      },
+      {
         "title": "Jeune de 15 à 18 ans en entreprise : travaux interdits et travaux réglementés",
         "url": "/fiche-service-public/jeune-de-15-a-18-ans-en-entreprise-travaux-interdits-et-travaux-reglementes"
       },
       {
         "title": "Travail de nuit d'un jeune de moins de 18 ans",
         "url": "/fiche-service-public/travail-de-nuit-dun-jeune-de-moins-de-18-ans"
-      },
-      {
-        "title": "",
-        "url": "/fiche-ministere-travail/la-protection-de-la-sante-des-jeunes-travailleurs"
       }
     ],
     "title": "Jeunes travailleurs",
@@ -3447,7 +3451,7 @@
     "refs": [
       {
         "title": "",
-        "url": "/fiche-service-public/quest-ce-quun-syndicat-representatif-dans-lentreprise"
+        "url": "/fiche-service-public/quest-ce-quune-section-syndicale"
       },
       {
         "title": "",
@@ -3455,14 +3459,7 @@
       },
       {
         "title": "",
-        "url": "/fiche-service-public/quest-ce-quune-section-syndicale"
-      },
-      {
-        "url": "/fiche-service-public/representant-de-la-section-syndicale-rss"
-      },
-      {
-        "title": "",
-        "url": "/fiche-ministere-travail/le-representant-de-la-section-syndicale-rss"
+        "url": "/fiche-service-public/quest-ce-quun-syndicat-representatif-dans-lentreprise"
       },
       {
         "title": "",
@@ -3470,6 +3467,13 @@
       },
       {
         "url": "/fiche-service-public/delegue-syndical"
+      },
+      {
+        "title": "",
+        "url": "/fiche-ministere-travail/le-representant-de-la-section-syndicale-rss"
+      },
+      {
+        "url": "/fiche-service-public/representant-de-la-section-syndicale-rss"
       }
     ],
     "title": "Les syndicats dans l'entreprise",
@@ -3693,6 +3697,10 @@
       },
       {
         "url": "/fiche-service-public/contrat-de-securisation-professionnelle-csp"
+      },
+      {
+        "title": "",
+        "url": "/fiche-ministere-travail/contrat-de-securisation-professionnelle-csp"
       },
       {
         "url": "/fiche-service-public/peut-on-contester-un-licenciement-economique-apres-avoir-accepte-un-csp"
@@ -4096,11 +4104,11 @@
         "url": "/fiche-ministere-travail/les-negociations-obligatoires-dans-lentreprise-theme-periodicite-et-deroulement"
       },
       {
-        "title": "",
-        "url": "/fiche-ministere-travail/gestion-previsionnelle-de-lemploi-et-des-competences-gpec"
+        "url": "/fiche-service-public/quest-ce-quun-usage-dentreprise"
       },
       {
-        "url": "/fiche-service-public/quest-ce-quun-usage-dentreprise"
+        "title": "",
+        "url": "/fiche-ministere-travail/gestion-previsionnelle-de-lemploi-et-des-competences-gpec"
       }
     ],
     "title": "Négociations dans l'entreprise",
@@ -4130,6 +4138,14 @@
         "url": "/fiche-ministere-travail/conventions-collectives-nomenclatures"
       },
       {
+        "title": "",
+        "url": "/fiche-ministere-travail/modalites-de-depot-dextension-et-de-diffusion-des-accords-interprofessionnels-et-de-branche"
+      },
+      {
+        "title": "À quoi correspond le code APE ?",
+        "url": "/fiche-service-public/a-quoi-correspond-le-code-ape"
+      },
+      {
         "title": "Une association employeur doit-elle appliquer une convention collective ?",
         "url": "/fiche-service-public/une-association-employeur-doit-elle-appliquer-une-convention-collective"
       },
@@ -4140,10 +4156,6 @@
       {
         "title": "Comptes des organisations syndicales et professionnelles",
         "url": "/fiche-ministere-travail/comptes-des-organisations-syndicales-et-professionnelles"
-      },
-      {
-        "title": "",
-        "url": "/fiche-ministere-travail/modalites-de-depot-dextension-et-de-diffusion-des-accords-interprofessionnels-et-de-branche"
       },
       {
         "title": "",
@@ -4703,38 +4715,38 @@
     "position": 71,
     "refs": [
       {
-        "title": "CSE : définition et cadre de mise en place",
-        "url": "/fiche-ministere-travail/cse-definition-et-cadre-de-mise-en-place"
+        "url": "/fiche-service-public/comite-social-et-economique-cse"
       },
       {
         "title": "",
         "url": "/fiche-ministere-travail/cse-election-de-la-delegation-du-personnel"
       },
       {
-        "title": "Élections professionnelles : obligations de l'employeur",
-        "url": "/fiche-service-public/elections-professionnelles-obligations-de-lemployeur"
+        "title": "CSE : définition et cadre de mise en place",
+        "url": "/fiche-ministere-travail/cse-definition-et-cadre-de-mise-en-place"
+      },
+      {
+        "url": "/fiche-service-public/comment-calculer-les-effectifs-dune-entreprise"
       },
       {
         "title": "Élections professionnelles",
         "url": "/external/elections-professionnelles"
       },
       {
-        "url": "/fiche-service-public/comment-calculer-les-effectifs-dune-entreprise"
+        "title": "Élections professionnelles : obligations de l'employeur",
+        "url": "/fiche-service-public/elections-professionnelles-obligations-de-lemployeur"
       },
       {
         "title": "",
         "url": "/fiche-ministere-travail/les-regles-de-decompte-des-effectifs"
       },
       {
-        "url": "/fiche-service-public/comite-social-et-economique-cse"
+        "title": "",
+        "url": "/fiche-ministere-travail/cse-attributions"
       },
       {
         "title": "",
         "url": "/fiche-ministere-travail/cse-information-et-consultation"
-      },
-      {
-        "title": "",
-        "url": "/fiche-ministere-travail/cse-attributions"
       },
       {
         "title": "",
@@ -5720,11 +5732,11 @@
         "url": "/fiche-service-public/un-interimaire-est-il-suivi-par-la-medecine-du-travail"
       },
       {
-        "url": "/fiche-service-public/le-particulier-employeur-doit-il-soccuper-du-suivi-medical-de-son-salarie"
-      },
-      {
         "title": "Un salarié saisonnier est-il suivi par la médecine du travail ?",
         "url": "/fiche-service-public/un-salarie-saisonnier-est-il-suivi-par-la-medecine-du-travail"
+      },
+      {
+        "url": "/fiche-service-public/le-particulier-employeur-doit-il-soccuper-du-suivi-medical-de-son-salarie"
       }
     ],
     "title": "Suivi médical des salariés",
@@ -5966,7 +5978,8 @@
         "url": "/fiche-service-public/travailleur-a-domicile"
       },
       {
-        "url": "/fiche-service-public/peut-on-recevoir-une-aide-de-lemployeur-pour-payer-un-service-a-la-personne"
+        "title": "",
+        "url": "/fiche-ministere-travail/les-organismes-de-services-a-la-personne"
       },
       {
         "title": "",
@@ -5978,11 +5991,10 @@
       },
       {
         "title": "",
-        "url": "/fiche-ministere-travail/les-organismes-de-services-a-la-personne"
+        "url": "/fiche-service-public/peut-on-utiliser-lapa-ou-la-pch-pour-payer-un-salarie-ou-un-aidant-familial"
       },
       {
-        "title": "",
-        "url": "/fiche-service-public/peut-on-utiliser-lapa-ou-la-pch-pour-payer-un-salarie-ou-un-aidant-familial"
+        "url": "/fiche-service-public/peut-on-recevoir-une-aide-de-lemployeur-pour-payer-un-service-a-la-personne"
       },
       {
         "title": "",
