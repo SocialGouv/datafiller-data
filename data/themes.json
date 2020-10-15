@@ -171,6 +171,10 @@
       {
         "title": "",
         "url": "/fiche-service-public/activite-partielle-de-longue-duree"
+      },
+      {
+        "title": "",
+        "url": "/fiche-service-public/remuneration-dun-salarie-en-chomage-partiel-activite-partielle"
       }
     ],
     "title": "Activité partielle (anciennement chômage partiel)",
@@ -283,10 +287,6 @@
       {
         "title": "Allocation journalière d'accompagnement d'une personne en fin de vie",
         "url": "/fiche-service-public/allocation-journaliere-daccompagnement-dune-personne-en-fin-de-vie"
-      },
-      {
-        "title": "Congé de représentation pour un représentant d'une association",
-        "url": "/fiche-service-public/conge-de-representation-pour-un-representant-dune-association"
       },
       {
         "title": "",
@@ -784,9 +784,6 @@
         "url": "/fiche-service-public/quels-sont-les-delais-de-conservation-des-documents-pour-les-entreprises"
       },
       {
-        "url": "/fiche-service-public/quels-sont-les-delais-de-conservation-des-documents-dune-association"
-      },
-      {
         "title": "",
         "url": "/fiche-service-public/comment-obtenir-un-extrait-k-ou-kbis"
       },
@@ -885,9 +882,6 @@
       {
         "title": "Le congé de formation d'un jeune salarié est-il toujours possible?",
         "url": "/fiche-service-public/le-conge-de-formation-dun-jeune-salarie-est-il-toujours-possible"
-      },
-      {
-        "url": "/fiche-service-public/conge-dun-responsable-dassociation-benevole"
       },
       {
         "title": "",
@@ -1554,6 +1548,10 @@
         "url": "/fiche-service-public/que-faire-si-lagrement-dune-assistante-maternelle-est-suspendu-ou-retire"
       },
       {
+        "title": "Salaire d'une assistante maternelle employée par un particulier employeur",
+        "url": "/fiche-service-public/salaire-dune-assistante-maternelle-employee-par-un-particulier-employeur"
+      },
+      {
         "url": "/fiche-service-public/contrat-de-travail-du-salarie-a-domicile-services-a-la-personne"
       },
       {
@@ -1567,6 +1565,10 @@
       {
         "title": "",
         "url": "/fiche-service-public/comment-avoir-lagrement-pour-devenir-assistante-maternelle"
+      },
+      {
+        "title": "Particulier employeur : comment payer son salarié avec un Cesu préfinancé ?",
+        "url": "/fiche-service-public/particulier-employeur-comment-payer-son-salarie-avec-un-cesu-prefinance"
       }
     ],
     "title": "Contrats divers et professions particulières",
@@ -1717,6 +1719,10 @@
       {
         "title": "",
         "url": "/fiche-service-public/un-salarie-peut-il-percevoir-lallocation-chomage-en-cas-de-demission"
+      },
+      {
+        "title": "",
+        "url": "/fiche-service-public/peut-on-percevoir-lallocation-chomage-en-cas-de-demission"
       }
     ],
     "title": "Démission",
@@ -1966,9 +1972,6 @@
       },
       {
         "url": "/fiche-service-public/peut-on-encore-avoir-un-dif-dans-le-secteur-prive"
-      },
-      {
-        "url": "/fiche-service-public/quest-ce-que-le-compte-engagement-citoyen-cec"
       },
       {
         "title": "CPF de transition",
@@ -2242,10 +2245,6 @@
         "position": 117
       },
       {
-        "label": "Handicap",
-        "position": 118
-      },
-      {
         "label": "Jeunes",
         "position": 119
       }
@@ -2441,6 +2440,10 @@
       {
         "title": "",
         "url": "/fiche-ministere-travail/la-garantie-en-cas-de-sauvegarde-de-redressement-ou-de-liquidation-judiciaire"
+      },
+      {
+        "title": "",
+        "url": "/fiche-service-public/regles-de-licenciement-dans-une-entreprise-en-difficulte"
       }
     ],
     "title": "Entreprises en difficulté",
@@ -2688,9 +2691,6 @@
         "url": "/fiche-service-public/accueil-dun-enfant-par-une-assistante-maternelle-agreee"
       },
       {
-        "url": "/fiche-service-public/cheque-emploi-associatif-cea"
-      },
-      {
         "url": "/fiche-service-public/aide-a-domicile-services-a-la-personne-embauche-dun-salarie"
       },
       {
@@ -2818,43 +2818,6 @@
   {
     "breadcrumbs": [
       {
-        "label": "Embauche et contrat de travail",
-        "position": 1
-      },
-      {
-        "label": "Embauche",
-        "position": 11
-      }
-    ],
-    "children": [],
-    "id": "e520f498-0ef1-4ecd-a929-606c0e77deb2",
-    "position": 118,
-    "refs": [
-      {
-        "title": "",
-        "url": "/fiche-service-public/quest-ce-que-lobligation-demploi-des-personnes-handicapees"
-      },
-      {
-        "title": "",
-        "url": "/fiche-service-public/aides-financieres-pour-lembauche-de-travailleurs-handicapes"
-      },
-      {
-        "title": "",
-        "url": "/fiche-ministere-travail/handicap-contrat-dapprentissage-amenage"
-      },
-      {
-        "title": "",
-        "url": "/fiche-service-public/aides-financieres-pour-lembauche-dun-travailleur-handicape"
-      }
-    ],
-    "title": "Handicap",
-    "variants": [
-      "Handicap"
-    ]
-  },
-  {
-    "breadcrumbs": [
-      {
         "label": "Santé, sécurité et conditions de travail",
         "position": 6
       },
@@ -2882,6 +2845,10 @@
       {
         "title": "",
         "url": "/fiche-ministere-travail/les-aides-de-lagefiph"
+      },
+      {
+        "title": "",
+        "url": "/fiche-service-public/aides-financieres-pour-lembauche-dun-travailleur-handicape"
       }
     ],
     "title": "Handicap",
@@ -3156,10 +3123,6 @@
       {
         "title": "",
         "url": "/fiche-ministere-travail/job-dete-formalites-et-obligations"
-      },
-      {
-        "title": "",
-        "url": "/fiche-service-public/aide-a-lembauche-des-jeunes-de-moins-de-26-ans"
       },
       {
         "title": "",
@@ -3618,6 +3581,10 @@
       {
         "title": "",
         "url": "/fiche-service-public/licenciement-illegal-doit-on-rembourser-les-indemnites-chomage"
+      },
+      {
+        "title": "Règles de licenciement dans une entreprise en difficulté",
+        "url": "/fiche-service-public/regles-de-licenciement-dans-une-entreprise-en-difficulte"
       }
     ],
     "title": "Licenciement : droits des salariés et procédures",
@@ -3835,9 +3802,6 @@
       },
       {
         "url": "/fiche-service-public/un-salarie-en-prison-peut-il-etre-licencie-a-cause-de-sa-detention"
-      },
-      {
-        "url": "/fiche-service-public/licenciement-illegal-le-salarie-doit-il-rembourser-les-indemnites-de-chomage"
       },
       {
         "url": "/fiche-service-public/le-jeune-pere-salarie-beneficie-t-il-dune-protection-contre-le-licenciement"
@@ -4159,10 +4123,6 @@
         "url": "/fiche-service-public/a-quoi-correspond-le-code-ape"
       },
       {
-        "title": "Une association employeur doit-elle appliquer une convention collective ?",
-        "url": "/fiche-service-public/une-association-employeur-doit-elle-appliquer-une-convention-collective"
-      },
-      {
         "title": "Mesure d’audience de la représentativité syndicale 2017",
         "url": "/fiche-ministere-travail/mesure-daudience-de-la-representativite-syndicale-2017"
       },
@@ -4438,9 +4398,6 @@
         "url": "/fiche-service-public/retraite-du-salarie-retraite-anticipee-pour-carriere-longue"
       },
       {
-        "url": "/fiche-service-public/retraite-anticipee-liee-a-la-penibilite-du-travail-dans-le-secteur-prive"
-      },
-      {
         "url": "/fiche-service-public/retraite-anticipee-pour-handicap-dun-salarie-du-prive"
       },
       {
@@ -4644,9 +4601,6 @@
     "refs": [
       {
         "url": "/fiche-service-public/remboursement-des-frais-de-transport-domicile-travail-secteur-prive"
-      },
-      {
-        "url": "/fiche-service-public/peut-on-utiliser-son-vehicule-personnel-pour-les-besoins-dune-association"
       },
       {
         "title": "",
@@ -5015,6 +4969,10 @@
       {
         "title": "",
         "url": "/fiche-service-public/remboursement-des-cotisations-retraite-du-salarie-est-ce-possible"
+      },
+      {
+        "title": "",
+        "url": "/fiche-service-public/retraite-anticipee-du-salarie-pour-penibilite-du-travail"
       }
     ],
     "title": "Retraite",
@@ -5357,65 +5315,31 @@
       }
     ],
     "children": [],
-    "id": "47042834-cd29-400f-9f80-fc8a22067c3d",
-    "position": 21,
+    "id": "d36e5461-f25c-4c6c-bd27-e08ef9bcdb62",
+    "position": null,
     "refs": [
-      {
-        "url": "/fiche-service-public/paiement-du-salaire"
-      },
       {
         "title": "",
         "url": "/fiche-ministere-travail/le-salaire-fixation-et-paiement"
-      },
-      {
-        "title": "Simulateur d'embauche",
-        "url": "/outils/simulateur-embauche"
-      },
-      {
-        "url": "/fiche-service-public/particulier-employeur-comment-payer-son-salarie-avec-un-cesu-prefinance"
-      },
-      {
-        "url": "/fiche-service-public/salaire-dune-assistante-maternelle-employee-par-un-particulier-employeur"
-      },
-      {
-        "url": "/fiche-service-public/comment-doit-faire-lemployeur-pour-appliquer-le-prelevement-a-la-source-pas"
-      },
-      {
-        "url": "/fiche-service-public/un-particulier-peut-il-payer-un-auto-entrepreneur-par-cesu-prefinance"
-      },
-      {
-        "url": "/fiche-service-public/aide-a-domicile-services-a-la-personne-remuneration-du-salarie"
       },
       {
         "title": "",
         "url": "/fiche-ministere-travail/5-questions-reponses-sur-le-versement-du-salaire"
       },
       {
-        "title": "Demande de paiement de salaire",
-        "url": "/modeles-de-courriers/demande-de-paiement-de-salaire"
-      },
-      {
-        "title": "",
+        "title": "Rémunération d'un salarié en chômage partiel (activité partielle)",
         "url": "/fiche-service-public/remuneration-dun-salarie-en-chomage-partiel-activite-partielle"
       },
       {
         "title": "",
-        "url": "/fiche-ministere-travail/la-mensualisation"
+        "url": "/fiche-service-public/paiement-du-salaire"
       },
       {
         "title": "",
-        "url": "/fiche-ministere-travail/la-remuneration-de-linterimaire"
+        "url": "/outils/simulateur-embauche"
       },
       {
         "title": "",
-        "url": "/fiche-ministere-travail/la-remuneration-du-salarie-en-contrat-a-duree-determinee"
-      },
-      {
-        "title": "",
-        "url": "/fiche-ministere-travail/la-remuneration-pendant-la-formation"
-      },
-      {
-        "title": "Smic (Salaire minimum de croissance)",
         "url": "/fiche-service-public/smic-salaire-minimum-de-croissance"
       },
       {
@@ -5424,11 +5348,43 @@
       },
       {
         "title": "",
+        "url": "/fiche-ministere-travail/la-mensualisation"
+      },
+      {
+        "title": "",
+        "url": "/modeles-de-courriers/demande-de-paiement-de-salaire"
+      },
+      {
+        "title": "",
+        "url": "/fiche-ministere-travail/la-remuneration-du-salarie-en-contrat-a-duree-determinee"
+      },
+      {
+        "title": "",
+        "url": "/fiche-service-public/comment-doit-faire-lemployeur-pour-appliquer-le-prelevement-a-la-source-pas"
+      },
+      {
+        "title": "",
         "url": "/fiche-ministere-travail/saisie-et-cessions-des-remunerations"
       },
       {
-        "title": "Rémunération du dirigeant d'une association",
-        "url": "/fiche-service-public/remuneration-du-dirigeant-dune-association"
+        "title": "",
+        "url": "/fiche-ministere-travail/la-remuneration-de-linterimaire"
+      },
+      {
+        "title": "",
+        "url": "/fiche-ministere-travail/la-remuneration-pendant-la-formation"
+      },
+      {
+        "title": "",
+        "url": "/fiche-service-public/salaire-dune-assistante-maternelle-employee-par-un-particulier-employeur"
+      },
+      {
+        "title": "",
+        "url": "/fiche-service-public/particulier-employeur-comment-payer-son-salarie-avec-un-cesu-prefinance"
+      },
+      {
+        "title": "",
+        "url": "/fiche-service-public/aide-a-domicile-services-a-la-personne-remuneration-du-salarie"
       }
     ],
     "title": "Salaire",
@@ -5439,10 +5395,6 @@
   {
     "breadcrumbs": [],
     "children": [
-      {
-        "label": "Salaire",
-        "position": 21
-      },
       {
         "label": "Primes et avantages",
         "position": 22
@@ -5458,6 +5410,10 @@
       {
         "label": "Bulletin de salaire et cotisations sociales",
         "position": 25
+      },
+      {
+        "label": "Salaire",
+        "position": null
       }
     ],
     "id": "64774920-c8f9-49aa-b30d-177a57406bb7",
@@ -5743,9 +5699,6 @@
       {
         "title": "Un salarié saisonnier est-il suivi par la médecine du travail ?",
         "url": "/fiche-service-public/un-salarie-saisonnier-est-il-suivi-par-la-medecine-du-travail"
-      },
-      {
-        "url": "/fiche-service-public/le-particulier-employeur-doit-il-soccuper-du-suivi-medical-de-son-salarie"
       },
       {
         "title": "",
@@ -6244,6 +6197,14 @@
       {
         "title": "",
         "url": "/fiche-ministere-travail/aide-a-laccueil-a-lelaboration-et-a-levolution-professionnelle-des-personnes-handicapees"
+      },
+      {
+        "title": "",
+        "url": "/fiche-service-public/quest-ce-que-lobligation-demploi-des-personnes-handicapees"
+      },
+      {
+        "title": "",
+        "url": "/fiche-service-public/aides-financieres-pour-lembauche-dun-travailleur-handicape"
       }
     ],
     "title": "Travailleurs handicapés",
