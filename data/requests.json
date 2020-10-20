@@ -13075,23 +13075,23 @@
         "position": 0
       },
       {
-        "url": "/contribution/quelle-est-la-duree-de-preavis-en-cas-de-licenciement",
-        "title": " Quelle est la durée de préavis en cas de licenciement ?",
+        "url": "/outils/preavis-licenciement",
+        "title": "Simulateur de durée de préavis de licenciement",
         "position": 1
       },
       {
-        "url": "/fiche-ministere-travail/la-procedure-en-cas-de-licenciement-pour-motif-personnel#Quelles-sont-les-regles-applicables-au-preavis",
-        "title": "La procédure en cas de licenciement pour motif personnel : quelles sont les règles applicables au préavis ?",
+        "url": "/contribution/quelle-est-la-duree-de-preavis-en-cas-de-licenciement",
+        "title": " Quelle est la durée de préavis en cas de licenciement ?",
         "position": 2
-      },
-      {
-        "url": "/outils/preavis-licenciement",
-        "title": "Simulateur de durée de préavis de licenciement",
-        "position": 3
       },
       {
         "url": "/contribution/le-preavis-de-licenciement-doit-il-etre-execute-en-totalite-y-compris-si-le-salarie-a-retrouve-un-emploi",
         "title": "Le préavis de licenciement doit-il être exécuté en totalité ? Y compris si le salarié a retrouvé un emploi ?",
+        "position": 3
+      },
+      {
+        "url": "/fiche-ministere-travail/la-procedure-en-cas-de-licenciement-pour-motif-personnel#Quelles-sont-les-regles-applicables-au-preavis",
+        "title": "La procédure en cas de licenciement pour motif personnel : quelles sont les règles applicables au préavis ?",
         "position": 4
       }
     ]
@@ -13107,6 +13107,11 @@
       "préavis de départ en retraite",
       "preavis depart en retraite",
       "Preavis depart en retraité",
+      "préavis de départ à la retraite",
+      "préavis de depart à la retraite",
+      "preavis départ à la retraite",
+      "preavis de depart à la retraite",
+      "preavis depart à la retraite",
       "durée de préavis de départ à la retraite",
       "durée du préavis départ à la retraite",
       "Préavis et départ retraite",
@@ -13133,7 +13138,13 @@
       "préavis mise à la retraite",
       "durée du préavis en cas de mise à la retraite",
       "préavis et mise à la retraite",
-      "preavis depart mise a la retraite"
+      "preavis depart mise a la retraite",
+      "préavis mise en retraite",
+      "preavis mise en retraite",
+      "préavis de mise en retraite",
+      "preavis de mise en retraite",
+      "durée du préavis en cas de mise en retraite",
+      "durée de préavis mise en retraite"
     ],
     "refs": [
       {
