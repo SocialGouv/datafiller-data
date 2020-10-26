@@ -6004,6 +6004,11 @@
     ],
     "refs": [
       {
+        "url": "/outils/convention-collective",
+        "title": "Convention collective",
+        "position": 0
+      },
+      {
         "url": "/fiche-service-public/convention-collective",
         "title": "/fiche-service-public/convention-collective",
         "position": 1
