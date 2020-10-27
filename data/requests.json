@@ -4800,6 +4800,51 @@
     ]
   },
   {
+    "title": "congés-exceptionnels",
+    "variants": [
+      "congés exceptionnels",
+      "congé exceptionnel",
+      "congés exceptionnel",
+      "conge exceptionnel",
+      "congés familiaux",
+      "congé familial",
+      "congé pour événements familiaux",
+      "congé pour événement familiaux"
+    ],
+    "refs": [
+      {
+        "url": "/contribution/les-conges-pour-evenements-familiaux",
+        "title": "Les congés pour événements familiaux",
+        "position": 0
+      },
+      {
+        "url": "/fiche-service-public/conge-du-salarie-pour-mariage-ou-pacs",
+        "title": "Congé du salarié pour mariage ou Pacs",
+        "position": 1
+      },
+      {
+        "url": "/fiche-service-public/conge-du-salarie-pour-le-mariage-de-son-enfant",
+        "title": "Congé du salarié pour le mariage de son enfant",
+        "position": 2
+      },
+      {
+        "url": "/fiche-service-public/autorisation-dabsence-pour-deces-dun-membre-de-la-famille-salarie-du-prive",
+        "title": "Autorisation d'absence pour décès d'un membre de la famille (salarié du privé)",
+        "position": 3
+      },
+      {
+        "url": "/fiche-ministere-travail/les-conges-pour-evenements-familiaux#Quels-sont-les-evenements-ouvrant-droit-a-conge",
+        "title": "Les congés pour événements familiaux : quels sont les événements ouvrant droit à congé ?",
+        "position": 4
+      },
+      {
+        "url": "/fiche-service-public/evenement-familial-pendant-les-conges-payes-quelles-consequences",
+        "title": "Événement familial pendant les congés payés : quelles conséquences ?",
+        "position": 5
+      }
+    ]
+  },
+  {
     "title": "conges-imposes",
     "variants": [
       "conges imposes",
