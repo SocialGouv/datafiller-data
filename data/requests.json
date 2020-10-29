@@ -4800,16 +4800,17 @@
     ]
   },
   {
-    "title": "congés-exceptionnels",
+    "title": "conges-exceptionnels",
     "variants": [
-      "congés exceptionnels",
+      "conges exceptionnels",
       "congé exceptionnel",
       "congés exceptionnel",
       "conge exceptionnel",
       "congés familiaux",
       "congé familial",
       "congé pour événements familiaux",
-      "congé pour événement familiaux"
+      "congé pour événement familiaux",
+      "congés-exceptionnels"
     ],
     "refs": [
       {
@@ -8070,12 +8071,12 @@
       },
       {
         "url": "https://travail-emploi.gouv.fr/droit-du-travail/l-epargne-salariale/article/epargne-salariale-principes-generaux",
-        "title": "Intéressement et participation : de quoi parle-t-on ?",
+        "title": "https://travail-emploi.gouv.fr/droit-du-travail/l-epargne-salariale/article/epargne-salariale-principes-generaux",
         "position": 6
       },
       {
         "url": "https://travail-emploi.gouv.fr/droit-du-travail/l-epargne-salariale/article/les-avantages-sociaux-et-fiscaux-de-l-epargne-salariale",
-        "title": "Avantages sociaux et fiscaux de l&#039;épargne salariale en clair",
+        "title": "https://travail-emploi.gouv.fr/droit-du-travail/l-epargne-salariale/article/les-avantages-sociaux-et-fiscaux-de-l-epargne-salariale",
         "position": 7
       },
       {
