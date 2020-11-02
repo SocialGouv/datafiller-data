@@ -1293,6 +1293,10 @@
       {
         "title": "",
         "url": "/fiche-ministere-travail/laide-a-lembauche-dun-demandeur-demploi-de-45-ans-et-plus-en-contrat-de-professionnalisation"
+      },
+      {
+        "title": "",
+        "url": "/fiche-service-public/aides-a-lembauche-dune-personne-en-contrat-de-professionnalisation"
       }
     ],
     "title": "Contrat de professionnalisation",
@@ -2573,9 +2577,6 @@
         "url": "/fiche-service-public/une-salariee-enceinte-est-elle-obligee-de-reveler-sa-grossesse-a-son-employeur"
       },
       {
-        "url": "/fiche-service-public/grossesse-et-autorisation-dabsence-quelles-sont-les-regles"
-      },
-      {
         "title": "",
         "url": "/fiche-ministere-travail/la-protection-des-femmes-enceintes-et-les-risques-lies-a-la-grossesse"
       },
@@ -2664,10 +2665,6 @@
     "refs": [
       {
         "title": "",
-        "url": "/fiche-service-public/procedure-dembauche-et-formalites"
-      },
-      {
-        "title": "",
         "url": "/fiche-ministere-travail/les-obligations-de-lemployeur-lors-de-lembauche"
       },
       {
@@ -2692,6 +2689,10 @@
       {
         "title": "",
         "url": "/contribution/si-un-poste-se-libere-ou-est-cree-dans-lentreprise-lemployeur-doit-il-en-informer-les-salaries-ou-le-leur-proposer-en-priorite"
+      },
+      {
+        "title": "",
+        "url": "/fiche-service-public/procedure-et-formalites-dembauche-dun-salarie"
       }
     ],
     "title": "Formalités d'embauche",
@@ -3464,11 +3465,11 @@
     "position": 618,
     "refs": [
       {
-        "url": "/fiche-service-public/religion-dans-lentreprise-quelles-sont-les-regles"
+        "title": "",
+        "url": "/fiche-service-public/videosurveillance-de-la-voie-publique-et-des-lieux-ouverts-au-public"
       },
       {
-        "title": "Un employeur peut-il s'informer sur le permis de conduire de son salarié ?",
-        "url": "/fiche-service-public/un-employeur-peut-il-sinformer-sur-le-permis-de-conduire-de-son-salarie"
+        "url": "/fiche-service-public/religion-dans-lentreprise-quelles-sont-les-regles"
       },
       {
         "title": "",
@@ -3476,11 +3477,11 @@
       },
       {
         "title": "",
-        "url": "/fiche-service-public/peut-on-consommer-de-lalcool-dans-lentreprise"
+        "url": "/fiche-service-public/alcool-au-travail-quelles-regles-respecter"
       },
       {
-        "title": "",
-        "url": "/fiche-service-public/videosurveillance-de-la-voie-publique-et-des-lieux-ouverts-au-public"
+        "title": "Un employeur peut-il s'informer sur le permis de conduire de son salarié ?",
+        "url": "/fiche-service-public/un-employeur-peut-il-sinformer-sur-le-permis-de-conduire-de-son-salarie"
       }
     ],
     "title": "Libertés du salarié",
@@ -3553,10 +3554,6 @@
         "url": "/contribution/le-preavis-de-licenciement-doit-il-etre-execute-en-totalite-y-compris-si-le-salarie-a-retrouve-un-emploi"
       },
       {
-        "title": "Peut-on bénéficier d'heures de recherche d'emploi pendant le préavis de licenciement ?",
-        "url": "/fiche-service-public/peut-on-beneficier-dheures-de-recherche-demploi-pendant-le-preavis-de-licenciement"
-      },
-      {
         "title": "",
         "url": "/fiche-ministere-travail/la-protection-en-cas-de-licenciement"
       },
@@ -3581,6 +3578,10 @@
       {
         "title": "Règles de licenciement dans une entreprise en difficulté",
         "url": "/fiche-service-public/regles-de-licenciement-dans-une-entreprise-en-difficulte"
+      },
+      {
+        "title": "",
+        "url": "/fiche-service-public/quel-droit-aux-heures-de-recherche-demploi-pendant-un-preavis-de-licenciement"
       }
     ],
     "title": "Licenciement : droits des salariés et procédures",
