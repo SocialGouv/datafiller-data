@@ -59,19 +59,8 @@
   },
   "husky": {
     "hooks": {
-      "pre-commit": "eslint . --ext .ts",
+      "pre-commit": "yarn lint",
       "pre-push": "run-p lint test"
     }
-  },
-  "release": {
-    "branches": [
-      "master"
-    ],
-    "plugins": [
-      "@semantic-release/commit-analyzer",
-      "@semantic-release/release-notes-generator",
-      "@semantic-release/npm",
-      "@semantic-release/github"
-    ]
   }
 }
