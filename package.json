@@ -6,7 +6,8 @@
   "version": "1.0.0",
   "main": "index.js",
   "files": [
-    "data"
+    "data",
+    "src"
   ],
   "homepage": "https://github.com/SocialGouv/datafiller-data",
   "repository": {
