@@ -475,8 +475,8 @@
     ],
     "refs": [
       {
-        "url": "/fiche-service-public/peut-on-consommer-de-lalcool-dans-lentreprise",
-        "title": "Peut-on consommer de l'alcool dans l'entreprise ?",
+        "url": "/fiche-service-public/alcool-au-travail-quelles-regles-respecter",
+        "title": "Alcool au travail : quelles règles respecter ?",
         "position": 0
       },
       {
@@ -2745,8 +2745,8 @@
         "position": 2
       },
       {
-        "url": "/fiche-service-public/licenciement-illegal-le-salarie-doit-il-rembourser-les-indemnites-de-chomage",
-        "title": "Licenciement illégal : le salarié doit-il rembourser les indemnités de chômage ?",
+        "url": "/fiche-service-public/licenciement-illegal-doit-on-rembourser-les-indemnites-chomage",
+        "title": "Licenciement illégal : doit-on rembourser les indemnités chômage ?",
         "position": 3
       }
     ]
@@ -3011,11 +3011,6 @@
         "url": "/fiche-ministere-travail/cse-commissions-sante-securite-et-conditions-de-travail-cssct",
         "title": "CSE : commissions santé, sécurité et conditions de travail (CSSCT)",
         "position": 3
-      },
-      {
-        "url": "/fiche-service-public/hygiene-et-securite-quand-faut-il-consulter-le-cse-ex-chsct",
-        "title": "Hygiène et sécurité : quand faut-il consulter le CSE (ex-CHSCT) ?",
-        "position": 4
       },
       {
         "url": "/fiche-service-public/harcelement-moral-au-travail",
@@ -5416,47 +5411,47 @@
       {
         "url": "/fiche-ministere-travail/addictions#Donnees-generales",
         "title": "Addictions : données générales",
-        "position": 1
+        "position": 0
       },
       {
         "url": "/fiche-service-public/medecine-du-travail",
         "title": "Médecine du travail",
-        "position": 2
+        "position": 1
       },
       {
         "url": "/fiche-ministere-travail/addictions#Quels-sont-les-risques",
         "title": "Addictions : quels sont les risques ?",
-        "position": 3
+        "position": 2
       },
       {
         "url": "/code-du-travail/l1121-1",
         "title": "L1121-1",
-        "position": 4
+        "position": 3
       },
       {
         "url": "/fiche-ministere-travail/addictions#Sources-reglementaires",
         "title": "Addictions : sources réglementaires",
-        "position": 5
+        "position": 4
       },
       {
         "url": "/fiche-service-public/reglement-interieur-dune-entreprise",
         "title": "Règlement intérieur d'une entreprise",
-        "position": 6
+        "position": 5
       },
       {
         "url": "/fiche-ministere-travail/addictions#Pour-en-savoir-plus",
         "title": "Addictions : pour en savoir plus",
-        "position": 7
-      },
-      {
-        "url": "/fiche-service-public/peut-on-consommer-de-lalcool-dans-lentreprise",
-        "title": "Peut-on consommer de l'alcool dans l'entreprise ?",
-        "position": 8
+        "position": 6
       },
       {
         "url": "/fiche-service-public/que-risque-un-salarie-qui-ne-respecte-pas-les-consignes-de-securite",
         "title": "Que risque un salarié qui ne respecte pas les consignes de sécurité ?",
-        "position": 9
+        "position": 7
+      },
+      {
+        "url": "/fiche-service-public/alcool-au-travail-quelles-regles-respecter",
+        "title": "Alcool au travail : quelles règles respecter ?",
+        "position": 8
       }
     ]
   },
@@ -6221,11 +6216,6 @@
         "url": "/fiche-ministere-travail/cse-fonctionnement-et-moyens-dactions",
         "title": "CSE : fonctionnement et moyens d’actions",
         "position": 12
-      },
-      {
-        "url": "/fiche-service-public/hygiene-et-securite-quand-faut-il-consulter-le-cse-ex-chsct",
-        "title": "Hygiène et sécurité : quand faut-il consulter le CSE (ex-CHSCT) ?",
-        "position": 13
       },
       {
         "url": "/fiche-ministere-travail/cse-commissions-sante-securite-et-conditions-de-travail-cssct",
@@ -7414,8 +7404,8 @@
         "position": 3
       },
       {
-        "url": "/fiche-service-public/procedure-dembauche-et-formalites",
-        "title": "Procédure d'embauche et formalités",
+        "url": "/fiche-service-public/procedure-et-formalites-dembauche-dun-salarie",
+        "title": "Procédure et formalités d'embauche d'un salarié",
         "position": 4
       },
       {
@@ -8448,8 +8438,8 @@
     ],
     "refs": [
       {
-        "url": "/fiche-service-public/remboursement-des-frais-de-transport-domicile-travail-secteur-prive",
-        "title": "Remboursement des frais de transport domicile-travail (secteur privé)",
+        "url": "/fiche-service-public/remboursement-des-frais-de-transport-domicile-travail-salarie-du-secteur-prive",
+        "title": "Remboursement des frais de transport domicile-travail (salarié du secteur privé)",
         "position": 1
       },
       {
@@ -11363,8 +11353,8 @@
         "position": 14
       },
       {
-        "url": "/fiche-service-public/peut-on-consommer-de-lalcool-dans-lentreprise",
-        "title": "Peut-on consommer de l'alcool dans l'entreprise ?",
+        "url": "/fiche-service-public/alcool-au-travail-quelles-regles-respecter",
+        "title": "Alcool au travail : quelles règles respecter ?",
         "position": 15
       },
       {
@@ -13564,8 +13554,8 @@
         "position": 1
       },
       {
-        "url": "/fiche-service-public/procedure-dembauche-et-formalites",
-        "title": "Procédure d'embauche et formalités",
+        "url": "/fiche-service-public/procedure-et-formalites-dembauche-dun-salarie",
+        "title": "Procédure et formalités d'embauche d'un salarié",
         "position": 2
       }
     ]
@@ -14487,8 +14477,8 @@
         "position": 7
       },
       {
-        "url": "/fiche-service-public/peut-on-consommer-de-lalcool-dans-lentreprise",
-        "title": "Peut-on consommer de l'alcool dans l'entreprise ?",
+        "url": "/fiche-service-public/alcool-au-travail-quelles-regles-respecter",
+        "title": "Alcool au travail : quelles règles respecter ?",
         "position": 8
       },
       {
@@ -14595,8 +14585,8 @@
     ],
     "refs": [
       {
-        "url": "/fiche-service-public/grossesse-et-autorisation-dabsence-quelles-sont-les-regles",
-        "title": "Grossesse et autorisation d'absence : quelles sont les règles ?",
+        "url": "/fiche-service-public/une-salariee-a-t-elle-droit-a-des-absences-liees-a-sa-grossesse",
+        "title": "Une salariée a-t-elle droit à des absences liées à sa grossesse ?",
         "position": 1
       },
       {
@@ -16361,6 +16351,14 @@
     ],
     "refs": [
       {
+        "url": "/dossiers/ministere-du-travail-notre-dossier-sur-le-coronavirus",
+        "title": "Ministère du Travail : notre dossier sur le Coronavirus"
+      },
+      {
+        "url": "/fiche-ministere-travail/teletravail",
+        "title": "Télétravail"
+      },
+      {
         "url": "/fiche-service-public/teletravail-dans-le-secteur-prive",
         "title": "Télétravail dans le secteur privé",
         "position": 1
@@ -17558,8 +17556,8 @@
         "position": 18
       },
       {
-        "url": "/fiche-service-public/le-particulier-employeur-doit-il-soccuper-du-suivi-medical-de-son-salarie",
-        "title": "Le particulier employeur doit-il s'occuper du suivi médical de son salarié ?",
+        "url": "/fiche-service-public/le-particulier-employeur-doit-il-soccuper-des-visites-medicales-de-son-salarie",
+        "title": "Le particulier employeur doit-il s'occuper des visites médicales de son salarié ?",
         "position": 19
       }
     ]
