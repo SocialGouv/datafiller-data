@@ -1013,9 +1013,6 @@
         "url": "/fiche-service-public/maternite-pendant-le-conge-parental-quelles-sont-les-regles"
       },
       {
-        "url": "/fiche-service-public/un-salarie-en-conge-parental-deducation-peut-il-etre-licencie"
-      },
-      {
         "title": "",
         "url": "/fiche-ministere-travail/les-conges-et-absences-pour-enfant-malade"
       },
@@ -1031,6 +1028,10 @@
       },
       {
         "url": "/fiche-service-public/le-salarie-en-conge-parental-a-t-il-droit-au-pret-action-logement"
+      },
+      {
+        "title": "",
+        "url": "/fiche-service-public/peut-on-etre-licencie-pendant-un-conge-parental"
       }
     ],
     "title": "Congés liés à la naissance et à l'enfance",
@@ -4706,10 +4707,6 @@
         "url": "/external/elections-professionnelles"
       },
       {
-        "title": "Élections professionnelles : obligations de l'employeur",
-        "url": "/fiche-service-public/elections-professionnelles-obligations-de-lemployeur"
-      },
-      {
         "title": "",
         "url": "/fiche-ministere-travail/les-regles-de-decompte-des-effectifs"
       },
@@ -4792,6 +4789,18 @@
       {
         "title": "Base de données économiques et sociales (BDES)",
         "url": "/fiche-service-public/base-de-donnees-economiques-et-sociales-bdes"
+      },
+      {
+        "title": "",
+        "url": "/fiche-service-public/cse-quand-lemployeur-doit-il-organiser-des-elections-partielles"
+      },
+      {
+        "title": "",
+        "url": "/fiche-service-public/elections-dans-les-entreprises-de-moins-de-11-salaries"
+      },
+      {
+        "title": "",
+        "url": "/fiche-service-public/elections-cse-obligations-de-lemployeur"
       }
     ],
     "title": "Représentation du personnel",
