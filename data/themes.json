@@ -728,10 +728,6 @@
       },
       {
         "title": "",
-        "url": "/fiche-ministere-travail/garde-denfants-et-personnes-vulnerables"
-      },
-      {
-        "title": "",
         "url": "/fiche-ministere-travail/chaleur-et-canicule-au-travail-les-precautions-a-prendre"
       }
     ],
@@ -1148,10 +1144,6 @@
     "position": 413,
     "refs": [
       {
-        "title": "",
-        "url": "/fiche-ministere-travail/les-conges-pour-evenements-familiaux"
-      },
-      {
         "title": "Les congés pour événements familiaux",
         "url": "/contribution/les-conges-pour-evenements-familiaux"
       },
@@ -1173,6 +1165,10 @@
       {
         "title": "Congé du salarié pour le mariage de son enfant",
         "url": "/fiche-service-public/conge-du-salarie-pour-le-mariage-de-son-enfant"
+      },
+      {
+        "title": "",
+        "url": "/fiche-ministere-travail/les-conges-pour-evenements-familiaux-et-le-conge-de-deuil"
       }
     ],
     "title": "Congés pour événément familial",
@@ -1298,6 +1294,10 @@
       {
         "title": "",
         "url": "/fiche-service-public/aides-a-lembauche-dune-personne-en-contrat-de-professionnalisation"
+      },
+      {
+        "title": "",
+        "url": "/fiche-ministere-travail/aide-exceptionnelle-aux-employeurs-de-salaries-en-contrat-de-professionnalisation"
       }
     ],
     "title": "Contrat de professionnalisation",
@@ -1715,10 +1715,6 @@
       },
       {
         "title": "",
-        "url": "/fiche-ministere-travail/de-nouveaux-droits-pour-les-salaries"
-      },
-      {
-        "title": "",
         "url": "/fiche-service-public/un-salarie-peut-il-percevoir-lallocation-chomage-en-cas-de-demission"
       },
       {
@@ -1985,10 +1981,6 @@
       {
         "title": "",
         "url": "/fiche-ministere-travail/fne-formation"
-      },
-      {
-        "title": "",
-        "url": "/fiche-ministere-travail/conventions-de-fne-formation"
       }
     ],
     "title": "Dispositifs d'accès à la formation",
@@ -3143,6 +3135,35 @@
   {
     "breadcrumbs": [
       {
+        "label": "Emploi et formation professionnelle",
+        "position": 5
+      },
+      {
+        "label": "Emploi",
+        "position": 52
+      }
+    ],
+    "children": [],
+    "id": "3e6234de-5f32-4138-8381-46afd6a14bbb",
+    "position": 525,
+    "refs": [
+      {
+        "title": "",
+        "url": "/fiche-ministere-travail/fonds-pour-linsertion-professionnelle-des-jeunes-fipj"
+      },
+      {
+        "title": "",
+        "url": "/fiche-ministere-travail/accompagner-des-jeunes-eloignes-de-lemploi-en-construisant-300-000-parcours-dinsertion-sur-mesure"
+      }
+    ],
+    "title": "Jeunes travailleurs",
+    "variants": [
+      "Jeunes travailleurs"
+    ]
+  },
+  {
+    "breadcrumbs": [
+      {
         "label": "Santé, sécurité et conditions de travail",
         "position": 6
       },
@@ -3166,31 +3187,6 @@
       {
         "title": "Travail de nuit d'un jeune de moins de 18 ans",
         "url": "/fiche-service-public/travail-de-nuit-dun-jeune-de-moins-de-18-ans"
-      }
-    ],
-    "title": "Jeunes travailleurs",
-    "variants": [
-      "Jeunes travailleurs"
-    ]
-  },
-  {
-    "breadcrumbs": [
-      {
-        "label": "Emploi et formation professionnelle",
-        "position": 5
-      },
-      {
-        "label": "Emploi",
-        "position": 52
-      }
-    ],
-    "children": [],
-    "id": "3e6234de-5f32-4138-8381-46afd6a14bbb",
-    "position": 525,
-    "refs": [
-      {
-        "title": "",
-        "url": "/fiche-ministere-travail/fonds-pour-linsertion-professionnelle-des-jeunes-fipj"
       }
     ],
     "title": "Jeunes travailleurs",
@@ -4708,10 +4704,6 @@
       },
       {
         "title": "",
-        "url": "/fiche-ministere-travail/les-regles-de-decompte-des-effectifs"
-      },
-      {
-        "title": "",
         "url": "/fiche-ministere-travail/cse-attributions"
       },
       {
@@ -5221,6 +5213,10 @@
       {
         "title": "",
         "url": "/fiche-ministere-travail/protocole-de-securite-pour-les-operations-de-chargement-et-de-dechargement-de-produits-chimiques"
+      },
+      {
+        "title": "",
+        "url": "/fiche-ministere-travail/mesures-de-prevention-dans-lentreprise-contre-la-covid-19"
       }
     ],
     "title": "Risques professionnels et prévention",
@@ -5523,10 +5519,6 @@
         "url": "/fiche-ministere-travail/reforme-de-la-medecine-du-travail-et-des-services-de-sante-au-travail-questions-les-plus-frequentes"
       },
       {
-        "title": "",
-        "url": "/fiche-ministere-travail/quelles-mesures-lemployeur-doit-il-prendre-pour-proteger-la-sante-de-ses-salaries"
-      },
-      {
         "title": "Prestations sociales pour les commerçants et les artisans indépendants",
         "url": "/fiche-service-public/prestations-sociales-pour-les-commercants-et-les-artisans-independants"
       },
@@ -5576,10 +5568,6 @@
       {
         "title": "Peut-on refuser la mutuelle ou la prévoyance de son entreprise ?",
         "url": "/fiche-service-public/peut-on-refuser-la-mutuelle-ou-la-prevoyance-de-son-entreprise"
-      },
-      {
-        "title": "",
-        "url": "/fiche-ministere-travail/mesures-de-prevention-dans-lentreprise-contre-le-covid-19-masques"
       },
       {
         "title": "",
@@ -5744,8 +5732,8 @@
         "url": "/fiche-service-public/teletravail-dans-le-secteur-prive"
       },
       {
-        "title": "",
-        "url": "/fiche-ministere-travail/teletravail"
+        "title": "Télétravail en période de COVID-19",
+        "url": "/fiche-ministere-travail/teletravail-en-periode-de-covid-19"
       }
     ],
     "title": "Télétravail",
