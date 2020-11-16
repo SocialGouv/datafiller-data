@@ -1,3 +1,10 @@
+# [2.5.0](https://github.com/SocialGouv/datafiller-data/compare/v2.4.0...v2.5.0) (2020-11-16)
+
+
+### Features
+
+* **data:** 20201116_2020 update ([4c499ca](https://github.com/SocialGouv/datafiller-data/commit/4c499ca4211b9e0e438e8addf26ff80327a7816c))
+
 # [2.4.0](https://github.com/SocialGouv/datafiller-data/compare/v2.3.0...v2.4.0) (2020-11-12)
 
 
