@@ -1,12 +1,13 @@
 {
   "compilerOptions": {
-    "outDir": "dist",
     "allowJs": true,
-    "module": "commonjs",
+    "declaration": true,
     "downlevelIteration": true,
-    "strict": true,
+    "module": "commonjs",
     "noImplicitAny": false,
-    "sourceMap": true
+    "outDir": "dist",
+    "sourceMap": true,
+    "strict": true,
   },
   "include": ["./src/**/*"],
   "exclude": ["node_modules", "**/__tests__/*"]

@@ -10,6 +10,12 @@ import { getThemes, Theme } from "./themes";
 import { getAgreementArticles, AgreementsItem } from "./agreements";
 import { getExternalDocUrl, ExternalDoc } from "./externalDocs";
 
+export type {AgreementsItem} from "./agreements"
+export type {ExternalDoc} from "./externalDocs"
+export type {GlossaryItem} from "./glossary"
+export type {SavedRequest} from "./savedRequests"
+export type {Theme} from "./themes"
+
 const DATAFILLER_URL = process.env.DATAFILLER_URL || "";
 
 export type KintoResponse<A> = {
