@@ -1,3 +1,10 @@
+# [2.6.0](https://github.com/SocialGouv/datafiller-data/compare/v2.5.0...v2.6.0) (2020-11-19)
+
+
+### Features
+
+* publish compiled dist with extra types ([#203](https://github.com/SocialGouv/datafiller-data/issues/203)) ([160cb43](https://github.com/SocialGouv/datafiller-data/commit/160cb432ffa29ef9d3317dc1316236e2fdb00241))
+
 # [2.5.0](https://github.com/SocialGouv/datafiller-data/compare/v2.4.0...v2.5.0) (2020-11-16)
 
 
