@@ -7270,13 +7270,6 @@
     ]
   },
   {
-    "title": "documents embauche",
-    "variants": [
-      "documents embauche"
-    ],
-    "refs": []
-  },
-  {
     "title": "document unique d'évaluation des risques",
     "variants": [
       "document unique d'évaluation des risques",
@@ -9865,20 +9858,6 @@
     ]
   },
   {
-    "title": "j'ai négocié d'avancer la fin de mon préavis avec mon employeur, celle ci est elle remis een cause en cas d'absence injustifiée?",
-    "variants": [
-      "j'ai négocié d'avancer la fin de mon préavis avec mon employeur, celle ci est elle remis een cause en cas d'absence injustifiée?",
-      "faute et préavis"
-    ],
-    "refs": [
-      {
-        "url": "/fiche-ministere-travail/la-demission#Faut-il-respecter-un-preavis",
-        "title": "/fiche-ministere-travail/la-demission#Faut-il-respecter-un-preavis",
-        "position": 1
-      }
-    ]
-  },
-  {
     "title": "je me sens menacé",
     "variants": [
       "je me sens menacé",
@@ -11785,62 +11764,6 @@
         "url": "/fiche-service-public/labsence-du-salarie-est-elle-prise-en-compte-pour-le-calcul-de-ses-conges",
         "title": "L'absence du salarié est-elle prise en compte pour le calcul de ses congés ?",
         "position": 5
-      }
-    ]
-  },
-  {
-    "title": "mise à pied salarié protégé",
-    "variants": [
-      "mise à pied salarié protégé",
-      "mise à pied faute grave salarié protégé",
-      "mise à pied décision inspecteur du travail",
-      "mise à pied délégué du personnel",
-      "mise à pied représentant du personnel",
-      "mise à pied délégué syndical",
-      "mise à pied conseiller du salarié",
-      "mise à pieds membre du CSE",
-      "mise à pied membre du comité d’entreprise",
-      "mise à pied membre comité hygiène sécurité et conditions de travail",
-      "mise à pied salarié mandaté",
-      "mise à pied autorisation inspection du travail",
-      "mise à pied autorisation inspecteur du travail",
-      "mise à pied procédure salarié protégé"
-    ],
-    "refs": [
-      {
-        "url": "/code-du-travail/l2421-1",
-        "title": "Article L2421-1",
-        "position": 1
-      },
-      {
-        "url": "/code-du-travail/r2421-14",
-        "title": "Article R2421-14",
-        "position": 2
-      },
-      {
-        "url": "/code-du-travail/r2421-6",
-        "title": "Article R2421-6",
-        "position": 3
-      },
-      {
-        "url": "/code-du-travail/l2421-5",
-        "title": "Article L2421-5",
-        "position": 4
-      },
-      {
-        "url": "/code-du-travail/l2421-3",
-        "title": "Article L2421-3",
-        "position": 5
-      },
-      {
-        "url": "/code-du-travail/r2421-1",
-        "title": "Article R2421-1",
-        "position": 6
-      },
-      {
-        "url": "/code-du-travail/r2421-10",
-        "title": "Article R2421-10",
-        "position": 7
       }
     ]
   },
